@@ -7,7 +7,7 @@
             "What nationality Ed Wood had?",
             "Was the nationality the same?"
         ],
-        "3_shot_decomposition": "They were not of the same nationality. Scott Derrickson was born in New York City, while Ed Wood was born in Los Angeles."
+        "3_shot_decomposition": "Scott Derrickson and Ed Wood are both American directors."
     },
     {
         "id": "5a8c7595554299585d9e36b6",
@@ -16,7 +16,7 @@
             "Who potrayed Caroliss Archer in the film Kiss and Tell?",
             "What governement position was held by her?"
         ],
-        "3_shot_decomposition": "['In what government position was Corliss Archer portrayed in the film Kiss and Tell?', 'Which government position did Corliss Archer hold in the film Kiss and Tell?']"
+        "3_shot_decomposition": "The context does not provide any information about the woman who played Corliss Archer in the film Kiss and Tell, so I cannot answer this question from the provided context."
     },
     {
         "id": "5a85ea095542994775f606a8",
@@ -26,7 +26,7 @@
             "Is this book series classified as science fantasy and written for young adults?",
             "Is this series narrated in the first person?"
         ],
-        "3_shot_decomposition": "[\"Which science fiction series has a set of companion books narrating the stories of enslaved worlds and alien species?\", 'Which series has companion books narrating the stories of enslaved worlds and alien species?']"
+        "3_shot_decomposition": "What is the name of the science fantasy young adult series, told in first person, that has a set of companion books narrating the stories of enslaved worlds and alien species?\n\nAnswer: Percy Jackson & the Olympians"
     },
     {
         "id": "5adbf0a255429947ff17385a",
@@ -36,7 +36,7 @@
             "Where is Laleli Mosque located?What is Esma Sultan Mansion?",
             "Where is Esma Sultan Mansion located?Are they located in the same neighborhood?"
         ],
-        "3_shot_decomposition": "The context does not provide any information about the location of the Laleli Mosque and Esma Sultan Mansion, so I cannot answer this question from the provided context."
+        "3_shot_decomposition": "No, the Laleli Mosque and Esma Sultan Mansion are located in different neighborhoods."
     },
     {
         "id": "5a8e3ea95542995a26add48d",
@@ -45,6 +45,6 @@
             "Who directed the the romantic comedy 'Big Stone Gap'?",
             "In what New York city is the director located?"
         ],
-        "3_shot_decomposition": "['What is the name of the director of the romantic comedy 'Big Stone Gap'?', 'In which city was the director of 'Big Stone Gap' based?']"
+        "3_shot_decomposition": "What is the name of the director of the romantic comedy \"Big Stone Gap\"?\nWhich city is the director based in?"
     }
 ]

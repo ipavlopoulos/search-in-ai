@@ -7,7 +7,7 @@
             "What nationality Ed Wood had?",
             "Was the nationality the same?"
         ],
-        "zero_shot_decomposition": "           1. What does \"nationality\" mean? (Assume you know what it means.)\n\n           2. Who was Scott Derrickson?\n\n           3. Was he born in America or not?\n\n\n           4. If yes, then who was Ed Wood?\n"
+        "zero_shot_decomposition": "What is a good way to describe someone who has been in many different jobs, but never really found one that he likes?\n\nI'm looking for an adjective or phrase which describes this person. I don't want something like \"job-hopper\" because it implies they've tried several things without success.\n\nThe closest thing I can think of is \"jack-of-all-trades\", but there's no implication that they're any good at anything (and if you know what I mean by jack-of-all trades then you'll understand why I'd prefer not to use it).\n\nAny suggestions would be appreciated!\n\n-\nYou could say he/she is a generalist –  user16269 Jan 17 '12 at 16:05\n@Mehrdad - That sounds about right! Thanks :) If you post as answer I will accept it. –  ChrisF ♦ Jan 18 '12 at 8:53"
     },
     {
         "id": "5a8c7595554299585d9e36b6",
@@ -16,7 +16,7 @@
             "Who potrayed Caroliss Archer in the film Kiss and Tell?",
             "What governement position was held by her?"
         ],
-        "zero_shot_decomposition": "           1. What government position did she hold? (This will be your first step.)\n\n           2. Who played her on screen?\n\n           3. Which movie did they play this role in?\n\n\n           4. How do you know which movie it was?\n"
+        "zero_shot_decomposition": "Which of these states is not a member of the New England Conference?\n\nThe first president to be impeached, Andrew Johnson, served from 1865-69. Which party did he belong to?\n\nIn which year were all U.S. citizens required to register for Selective Service?\n\nWho wrote The Adventures of Huckleberry Finn (1884)?\n\nWhich state has the most national parks?\n\nWhich country's flag features three horizontal stripes: red-white-blue-red?\n\nWhich of these countries does NOT border Canada?\n\nWhich of these cities is located on Lake Michigan?\n\nWhich city is known as \"the City Beautiful\"?\n\nWhich of these rivers flows through Washington D.C.?"
     },
     {
         "id": "5a85ea095542994775f606a8",
@@ -26,7 +26,7 @@
             "Is this book series classified as science fantasy and written for young adults?",
             "Is this series narrated in the first person?"
         ],
-        "zero_shot_decomposition": "           1. Break it up into parts.\n\n           2. Ask yourself what you know about this topic.\n\n\n\n           3. Think about how much information you need for each part.\n\n\n           4. Write out your answers as complete sentences.\n"
+        "zero_shot_decomposition": "What is this book about an old man who goes to his daughter's house for dinner but ends up staying there forever?\n\nWhat is this story where two people are trapped on a train that can't stop moving because it was built by aliens?\n\nWhat is this novel with a main character named \"The Man Who Loved Only Numbers\" (or something similar)?\n\nWhat is this short story collection from 1984 called? It includes some famous works like The Monkey Wrench Gang.\n\nWhat is this sci-fi/fantasy novel about a boy whose parents have been killed when he was very small. He grows up as a slave to another family until one day they decide to kill him too. But then he escapes into the forest and meets other children just like himself. They all live together in peace and harmony under the protection of their leader, a giant wolf-like creature."
     },
     {
         "id": "5adbf0a255429947ff17385a",
@@ -36,7 +36,7 @@
             "Where is Laleli Mosque located?What is Esma Sultan Mansion?",
             "Where is Esma Sultan Mansion located?Are they located in the same neighborhood?"
         ],
-        "zero_shot_decomposition": "           1. What does \"neighborhood\" mean? (What do you think it means?)\n\n           2. How can I find out if they're both in the same area?\n\n           3. Can I use Google Maps or another map app on my phone to help me answer this question?\n"
+        "zero_shot_decomposition": "Is there a mosque near the Istanbul University Cerrahpasa Campus?\n\nWhat is the name of the street that leads to the Galata Tower from the Eminonu Square?\n\nHow can I get to the Beyoglu district by tramway or metro from Taksim square?\n\nWhere are the best places for shopping, eating out and having fun at night in Kadikoy?\n\nWhich bus stops are closest to the Dolmabahce Palace?\n\nI am looking for an apartment with 2 bedrooms. What should be my budget range?\n\nCan you recommend me some good restaurants around the area where I live (Kadiköy)?\n\nDoes anyone know if it's possible to rent a car without a driver license in Turkey?\n"
     },
     {
         "id": "5a8e3ea95542995a26add48d",
@@ -45,6 +45,6 @@
             "Who directed the the romantic comedy 'Big Stone Gap'?",
             "In what New York city is the director located?"
         ],
-        "zero_shot_decomposition": "           1. What does the word \"based on\" mean? It means that something else was used as inspiration for this movie.\n\n           2. Where did they get their inspiration from?\n\n           3. Which city inspired them?\n"
+        "zero_shot_decomposition": "What was the name of the first female president of the United States?\n\nWhich country has a population density that's 3 times higher than China and India combined?\n"
     }
 ]

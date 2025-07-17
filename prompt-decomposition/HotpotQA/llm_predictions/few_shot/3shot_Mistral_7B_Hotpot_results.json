@@ -7,7 +7,7 @@
             "What nationality Ed Wood had?",
             "Was the nationality the same?"
         ],
-        "3_shot_decomposition": "What is the nationality of Scott Derrickson?\nWhat is the nationality of Ed Wood?\nAre they of the same nationality? (Answer: No)"
+        "3_shot_decomposition": "Scott Derrickson and Ed Wood were not of the same nationality.\nScott Derrickson is an American film director and writer.\nEd Wood was a Hungarian-American filmmaker known for his low-budget films."
     },
     {
         "id": "5a8c7595554299585d9e36b6",
@@ -16,7 +16,7 @@
             "Who potrayed Caroliss Archer in the film Kiss and Tell?",
             "What governement position was held by her?"
         ],
-        "3_shot_decomposition": "In which film does the actress portray Corliss Archer?\nWho played the role of Corliss Archer in 'Kiss and Tell'?\nWhat political position does Corlis Archer hold in the movie? (Hint: It might be helpful to watch the film or read its synopsis.)"
+        "3_shot_decomposition": "In which film does the actress portray Corliss Archer?\nWhat government position was held by the actress who played Corliss Archer in 'Kiss and Tell'?\n\n(Note: I assume you mean the 1997 film 'Kiss and Tell', as there are other films and TV shows with similar titles.)\n\nAnswer: The actress who portrays Corliss Archer in 'Kiss and Tell' (1997) is Polly Shannon. She plays the role of a student body president."
     },
     {
         "id": "5a85ea095542994775f606a8",
@@ -26,7 +26,7 @@
             "Is this book series classified as science fantasy and written for young adults?",
             "Is this series narrated in the first person?"
         ],
-        "3_shot_decomposition": "In which science fiction young adult series:\n1. Is the narrative presented in the first person perspective?\n2. Are there companion books focusing on enslaved worlds and alien species?"
+        "3_shot_decomposition": "In which science fiction young adult series are there companion books focusing on enslaved worlds and alien species?\nWhat is the name of this series where the main story is narrated in first person?"
     },
     {
         "id": "5adbf0a255429947ff17385a",
@@ -36,7 +36,7 @@
             "Where is Laleli Mosque located?What is Esma Sultan Mansion?",
             "Where is Esma Sultan Mansion located?Are they located in the same neighborhood?"
         ],
-        "3_shot_decomposition": "In which Istanbul neighborhood can you find the Laleli Mosque?\nIn which Istanbul neighborhood is the Esma Sultan Mansion situated?\nAre these two landmarks located within the same neighborhood? (Answer: No)"
+        "3_shot_decomposition": "Yes, both the Laleli Mosque (Sultaniye Mosque) and Esma Sultan Manson are located in the same neighborhood in Istanbul, Turkey. They are situated near each other within the Eminönü district on the European side of the Bosphorus Strait."
     },
     {
         "id": "5a8e3ea95542995a26add48d",
@@ -45,6 +45,6 @@
             "Who directed the the romantic comedy 'Big Stone Gap'?",
             "In what New York city is the director located?"
         ],
-        "3_shot_decomposition": "In which city does the filmmaker Adriana Trigiani reside in New York?\nWhere is Adriana Trigiani's base located in New York City? (Assuming she directed \"Big Stone Gap\")"
+        "3_shot_decomposition": "In which New York City does the director Adriana Trigiani reside?\nAdriana Trigiani is a director and writer. She hails from which New York City?"
     }
 ]
