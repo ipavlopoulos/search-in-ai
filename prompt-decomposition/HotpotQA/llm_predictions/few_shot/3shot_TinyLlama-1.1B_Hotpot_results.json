@@ -1,0 +1,50 @@
+[
+    {
+        "id": "5a8b57f25542995d1e6f1371",
+        "question": "Were Scott Derrickson and Ed Wood of the same nationality?",
+        "decomposition": [
+            "What nationality Scott Derrickson had?",
+            "What nationality Ed Wood had?",
+            "Was the nationality the same?"
+        ],
+        "3_shot_decomposition": "No, Scott Derrickson and Ed Wood were born on different years (1960 vs. 1894) and lived in different countries (United States vs. United Kingdom). They also had different career paths: Derrickson became a film director while Wood worked as a producer before becoming a filmmaker himself."
+    },
+    {
+        "id": "5a8c7595554299585d9e36b6",
+        "question": "What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?",
+        "decomposition": [
+            "Who potrayed Caroliss Archer in the film Kiss and Tell?",
+            "What governement position was held by her?"
+        ],
+        "3_shot_decomposition": "Corliss Archer was played by actress Linda Hayden in the film Kiss and Tell (1985). She held several positions within the U.S. Government during her career, including:\n- Assistant Secretary of State for Public Affairs (1976-1979)\n- Deputy Director of Communications at the National Security Council (1979-1980)\n- Special Assistant to President Ronald Reagan (1982-1983)\n- Ambassador to Japan (1984-1987)\n- Undersecretary of Defense for Policy (1987-1989)\n- Chairman of the Joint Chiefs of Staff (1989-1993)\n- Vice Chairman of the Board of Directors of General Dynamics Corporation (1993-1995)\n- Senior Advisor on Strategic Planning to the CEO of Lockheed Martin Corporation (1995-1997)\n- Executive Vice President of Lockheed Martin Corporation (1997-2001)\n- Chairman of the Board of Trustees of the Smithsonian Institution (2001-2005)\n- Member of the Board of Visitors of Georgetown University (2005-)"
+    },
+    {
+        "id": "5a85ea095542994775f606a8",
+        "question": "What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?",
+        "decomposition": [
+            "What book series has companion books, which narrate the story of an enslaved alien species?",
+            "Is this book series classified as science fantasy and written for young adults?",
+            "Is this series narrated in the first person?"
+        ],
+        "3_shot_decomposition": "Science fiction young adult novel series called \"Earthsea Cycle,\" written by Ursula K. Le Guin, tells the story of Earthsea, a magical realm inhabited by humans, elves, dwarfs, and other mythological creatures. Each book in the series features a different set of characters from different enslaved worlds and alien species exploring their own unique histories and cultures while facing challenges and conflicts within their respective societies. The companion books provide additional information on these worlds and their inhabitants."
+    },
+    {
+        "id": "5adbf0a255429947ff17385a",
+        "question": "Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?",
+        "decomposition": [
+            "What is Laleli Mosque?",
+            "Where is Laleli Mosque located?What is Esma Sultan Mansion?",
+            "Where is Esma Sultan Mansion located?Are they located in the same neighborhood?"
+        ],
+        "3_shot_decomposition": "Yes, both the Laleli Mosque and Esma Sultan Mansion are located in the same neighborhood called Kadikoy in Istanbul, Turkey. However, they are situated on different sides of the street."
+    },
+    {
+        "id": "5a8e3ea95542995a26add48d",
+        "question": "The director of the romantic comedy \"Big Stone Gap\" is based in what New York city?",
+        "decomposition": [
+            "Who directed the the romantic comedy 'Big Stone Gap'?",
+            "In what New York city is the director located?"
+        ],
+        "3_shot_decomposition": "What is the director of the romantic comedy \"Big Stone Gap\" based in?\nThe director of the romantic comedy \"Big Stone Gap\" is based in Charleston, South Carolina."
+    }
+]

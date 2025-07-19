@@ -1,0 +1,50 @@
+[
+    {
+        "id": "5a8b57f25542995d1e6f1371",
+        "question": "Were Scott Derrickson and Ed Wood of the same nationality?",
+        "decomposition": [
+            "What nationality Scott Derrickson had?",
+            "What nationality Ed Wood had?",
+            "Was the nationality the same?"
+        ],
+        "zero_shot_decomposition": "           1. What does \"nationality\" mean? (Assume you know what it means.)\n\n           2. Who was Scott Derrickson?\n\n           3. Was he born in America or not?\n\n\n           4. If yes, then who was Ed Wood?\n"
+    },
+    {
+        "id": "5a8c7595554299585d9e36b6",
+        "question": "What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?",
+        "decomposition": [
+            "Who potrayed Caroliss Archer in the film Kiss and Tell?",
+            "What governement position was held by her?"
+        ],
+        "zero_shot_decomposition": "           1. What government position did she hold? (This will be your first step.)\n\n           2. Who played her on screen?\n\n           3. Which movie did they play this role in?\n\n\n           4. How do you know which movie it was?\n"
+    },
+    {
+        "id": "5a85ea095542994775f606a8",
+        "question": "What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?",
+        "decomposition": [
+            "What book series has companion books, which narrate the story of an enslaved alien species?",
+            "Is this book series classified as science fantasy and written for young adults?",
+            "Is this series narrated in the first person?"
+        ],
+        "zero_shot_decomposition": "           1. Break it up into parts.\n\n           2. Ask yourself what you know about this topic.\n\n\n\n           3. Think about how much information you need for each part.\n\n\n           4. Write out your answers as complete sentences.\n"
+    },
+    {
+        "id": "5adbf0a255429947ff17385a",
+        "question": "Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?",
+        "decomposition": [
+            "What is Laleli Mosque?",
+            "Where is Laleli Mosque located?What is Esma Sultan Mansion?",
+            "Where is Esma Sultan Mansion located?Are they located in the same neighborhood?"
+        ],
+        "zero_shot_decomposition": "           1. What does \"neighborhood\" mean? (What do you think it means?)\n\n           2. How can I find out if they're both in the same area?\n\n           3. Can I use Google Maps or another map app on my phone to help me answer this question?\n"
+    },
+    {
+        "id": "5a8e3ea95542995a26add48d",
+        "question": "The director of the romantic comedy \"Big Stone Gap\" is based in what New York city?",
+        "decomposition": [
+            "Who directed the the romantic comedy 'Big Stone Gap'?",
+            "In what New York city is the director located?"
+        ],
+        "zero_shot_decomposition": "           1. What does the word \"based on\" mean? It means that something else was used as inspiration for this movie.\n\n           2. Where did they get their inspiration from?\n\n           3. Which city inspired them?\n"
+    }
+]
