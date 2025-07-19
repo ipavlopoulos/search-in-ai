@@ -1,0 +1,42 @@
+[
+    {
+        "id": "CWQ_dev_WebQTest-1011_c0be4f76a5397ba6d0d06f53905e504b",
+        "original_question": "What Tibetan speaking countries have a population of less than 993885000?",
+        "decomposition": [
+            "decomposition"
+        ],
+        "zero_shot_decomposition": "1. Which countries speak Tibetan?\n2. What is the population of each country?\n3. How can we filter the countries based on their population?\n4. Which countries have a population of less than 993885000?"
+    },
+    {
+        "id": "CWQ_dev_WebQTest-1011_edc922a0faa1e47614eb7e6effe2d1a1",
+        "original_question": "What country uses Tibetan that has Anren Town , Sichuan?",
+        "decomposition": [
+            "decomposition"
+        ],
+        "zero_shot_decomposition": "1. What country uses Tibetan?\n2. Which town in Sichuan uses Tibetan?\n3. What is the name of the country that uses Tibetan and has Anren Town?"
+    },
+    {
+        "id": "CWQ_dev_WebQTest-1036_0b5333d98ef87008aa02d1fbc1554b05",
+        "original_question": "What is the most common language in the country where Jamaican English is spoken?",
+        "decomposition": [
+            "decomposition"
+        ],
+        "zero_shot_decomposition": "1. What is Jamaican English?\n2. Where is Jamaica located?\n3. What is the most common language spoken in Jamaica?\n4. How can we determine the most common language spoken in Jamaica?"
+    },
+    {
+        "id": "CWQ_dev_WebQTest-1036_4e73509d14bda62590480b655eee8751",
+        "original_question": "What language is spoken in the country that uses the Jamacian Dollar?",
+        "decomposition": [
+            "decomposition"
+        ],
+        "zero_shot_decomposition": "1. What countries use the Jamaican Dollar?\n2. Which country uses the Jamaican Dollar?\n3. What language is spoken in that country?"
+    },
+    {
+        "id": "CWQ_dev_WebQTest-1081_1ecabf57357cb4abd089a4af52154854",
+        "original_question": "Where did George Washington Carver go to school with the largest number of postgraduates?",
+        "decomposition": [
+            "decomposition"
+        ],
+        "zero_shot_decomposition": "1. What was the largest number of postgraduates at the time?\n2. Where did George Washington Carver go to school?\n3. What was the institution he attended?\n4. What was the year he graduated?\n\nBy answering these questions, we can arrive at the answer to the original question."
+    }
+]

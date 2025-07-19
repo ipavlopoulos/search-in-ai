@@ -1,1 +1,42 @@
-null
+[
+    {
+        "id": "5a8b57f25542995d1e6f1371",
+        "original_question": "Were Scott Derrickson and Ed Wood of the same nationality?",
+        "decomposition": [
+            "decomposition"
+        ],
+        "zero_shot_decomposition": "1. What is the definition of nationality?\n2. Who were Scott Derrickson and Ed Wood?\n3. What do we know about their nationalities?\n4. How can we determine if they were from the same country?"
+    },
+    {
+        "id": "5a8c7595554299585d9e36b6",
+        "original_question": "What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?",
+        "decomposition": [
+            "decomposition"
+        ],
+        "zero_shot_decomposition": "1. What was the name of the woman who portrayed Corliss Archer in the film Kiss and Tell?\n\n\n2. In what capacity did she hold the government position?\n\n\n3. Can you provide any additional information about her role or any relevant details about the film?"
+    },
+    {
+        "id": "5a85ea095542994775f606a8",
+        "original_question": "What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?",
+        "decomposition": [
+            "decomposition"
+        ],
+        "zero_shot_decomposition": "1. What is the name of the science fantasy young adult series?\n2. In what genre does the series fall?\n3. What is the name of the series' main protagonist?\n4. What is the name of the series' main antagonist?\n5. What is the setting of the series?\n6. What are the main themes of the series?\n7. What are the companion books' titles?\n\nBy answering these questions, you will have broken down the complex question into smaller, more manageable parts that will make it easier to solve."
+    },
+    {
+        "id": "5adbf0a255429947ff17385a",
+        "original_question": "Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?",
+        "decomposition": [
+            "decomposition"
+        ],
+        "zero_shot_decomposition": "1. What is the location of the Laleli Mosque?\n2. What is the location of the Esma Sultan Mansion?\n3. Are they located in the same neighborhood?"
+    },
+    {
+        "id": "5a8e3ea95542995a26add48d",
+        "original_question": "The director of the romantic comedy \"Big Stone Gap\" is based in what New York city?",
+        "decomposition": [
+            "decomposition"
+        ],
+        "zero_shot_decomposition": "1. What is the name of the director?\n2. Where is the director located?\n3. Which New York City borough does the director reside in?"
+    }
+]

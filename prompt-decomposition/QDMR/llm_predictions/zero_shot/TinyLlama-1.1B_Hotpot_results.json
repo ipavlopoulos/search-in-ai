@@ -1,0 +1,32 @@
+[
+    {
+        "id": "CWQ_dev_WebQTest-1011_c0be4f76a5397ba6d0d06f53905e504b",
+        "question": "What Tibetan speaking countries have a population of less than 993885000?",
+        "decomposition": "return Tibetan speaking countries\nreturn #1 that have a population of less than 993885000",
+        "zero_shot_decomposition": "There is no information available on the exact population of Tibetan speaking countries as it varies from year to year and depends on various factors such as geography, climate, language, culture, etc. However, according to the latest data available in 2017, there were only two Tibetan speaking countries: China (with a population of around 4 million) and India (with a population of over 1 billion). The other Tibetan speaking countries include Bhutan, Nepal, Mongolia, and Pakistan."
+    },
+    {
+        "id": "CWQ_dev_WebQTest-1011_edc922a0faa1e47614eb7e6effe2d1a1",
+        "question": "What country uses Tibetan that has Anren Town , Sichuan?",
+        "decomposition": "return the country that uses Tibetan\nreturn #1 that Anren Town , Sichuan is in",
+        "zero_shot_decomposition": "Tibetan is not used in any country as it is a language spoken by the Tibetans and does not have official status or usage outside their homeland. The town of Anren located in Sichuan province of China is known for its use of Anren dialect, which is one of the varieties of Tibetan. However, this specific location is not considered to be part of Tibet due to its geographical isolation from other parts of Tibet."
+    },
+    {
+        "id": "CWQ_dev_WebQTest-1036_0b5333d98ef87008aa02d1fbc1554b05",
+        "question": "What is the most common language in the country where Jamaican English is spoken?",
+        "decomposition": "return the country where Jamaican English is spoken\nreturn what is the most common language in #1",
+        "zero_shot_decomposition": "The most common language in Jamaica is Patois (also known as Creole), which is a blend of African and European languages. Other commonly used languages include English, Spanish, Haitian Creole, French, and Mandarin Chinese. The use of these languages varies depending on social status, education level, and cultural background. In some areas, such as rural communities or among younger generations, there may be more emphasis placed on using local dialects rather than standardized forms of English."
+    },
+    {
+        "id": "CWQ_dev_WebQTest-1036_4e73509d14bda62590480b655eee8751",
+        "question": "What language is spoken in the country that uses the Jamacian Dollar?",
+        "decomposition": "return the country that uses the Jamacian Dollar\nreturn the language spoken in #1",
+        "zero_shot_decomposition": "The Jamaican Dollar (JMD) is the official currency of Jamaica and is used alongside other currencies such as US dollars, British pounds, and Canadian dollars. The Jamaican Dollar is also known by its symbol \"J$\"."
+    },
+    {
+        "id": "CWQ_dev_WebQTest-1081_1ecabf57357cb4abd089a4af52154854",
+        "question": "Where did George Washington Carver go to school with the largest number of postgraduates?",
+        "decomposition": "return schools that George Washington Carver go to\nreturn postgraduates of #1\nreturn the number of #2 for each #1\nreturn #1 where #3 is the largest",
+        "zero_shot_decomposition": "The answer is: The University of Missouri in Columbia, Missouri. According to the given material, George Washington Carver went to school at Tuskegee Institute (now known as Tuskegee University) and later attended the University of Missouri for his graduate studies. However, there is no specific mention about how many postgraduate students he had during this time period."
+    }
+]

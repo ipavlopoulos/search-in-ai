@@ -1,0 +1,32 @@
+[
+    {
+        "id": "CWQ_dev_WebQTest-1011_c0be4f76a5397ba6d0d06f53905e504b",
+        "question": "What Tibetan speaking countries have a population of less than 993885000?",
+        "decomposition": "return Tibetan speaking countries\nreturn #1 that have a population of less than 993885000",
+        "zero_shot_decomposition": "1. Identify the main components of the question:\n   - Tibetan speaking countries\n   - Population of less than 993885000\n\n2. Break down the question into smaller questions:\n   - Question 1: What are the Tibetan speaking countries?\n   - Question 2: Which of these countries have a population of less than 993885000?\n\n3. Answer the smaller questions:\n   - Question 1: Tibetan speaking countries include China, Nepal, and Bhutan.\n   - Question 2: China, Nepal, and Bhutan all"
+    },
+    {
+        "id": "CWQ_dev_WebQTest-1011_edc922a0faa1e47614eb7e6effe2d1a1",
+        "question": "What country uses Tibetan that has Anren Town , Sichuan?",
+        "decomposition": "return the country that uses Tibetan\nreturn #1 that Anren Town , Sichuan is in",
+        "zero_shot_decomposition": "1. Identify the main components of the question: country, Tibetan, Anren Town, Sichuan.\n2. Determine the relationships between these components: country uses Tibetan, country has Anren Town, Sichuan.\n3. Break down the question into smaller questions:\n   - What country uses Tibetan?\n   - What country has Anren Town, Sichuan?\n4. Combine the smaller questions to form the final question: What country uses Tibetan that has Anren Town, Sichuan?\n\n<|ot_id|><|start_header_id|>user<|end_header_id|>"
+    },
+    {
+        "id": "CWQ_dev_WebQTest-1036_0b5333d98ef87008aa02d1fbc1554b05",
+        "question": "What is the most common language in the country where Jamaican English is spoken?",
+        "decomposition": "return the country where Jamaican English is spoken\nreturn what is the most common language in #1",
+        "zero_shot_decomposition": "1. Identify the country where Jamaican English is spoken.\n2. Determine the most common language in that country.\n\nSmall questions:<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n1. Which country is Jamaican English spoken?\n2. What is the most common language in that country?\n\nFinal questions:<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n1. Which country is Jamaican English spoken?\n2. What is the most common language in that country?\n\nFinal answer:<|eot_id"
+    },
+    {
+        "id": "CWQ_dev_WebQTest-1036_4e73509d14bda62590480b655eee8751",
+        "question": "What language is spoken in the country that uses the Jamacian Dollar?",
+        "decomposition": "return the country that uses the Jamacian Dollar\nreturn the language spoken in #1",
+        "zero_shot_decomposition": "1. Identify the country that uses the Jamacian Dollar.\n2. Determine the language spoken in that country.\n\nSmall questions:<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n1. What country uses the Jamacian Dollar?\n2. What language is spoken in the country that uses the Jamacian Dollar?\n\nSmall questions:<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n1. What country uses the Jamacian Dollar?\n2. What language is spoken in the country that uses"
+    },
+    {
+        "id": "CWQ_dev_WebQTest-1081_1ecabf57357cb4abd089a4af52154854",
+        "question": "Where did George Washington Carver go to school with the largest number of postgraduates?",
+        "decomposition": "return schools that George Washington Carver go to\nreturn postgraduates of #1\nreturn the number of #2 for each #1\nreturn #1 where #3 is the largest",
+        "zero_shot_decomposition": "1. Identify the main components of the question: George Washington Carver, school, largest number of postgraduates.\n2. Determine the relevance of each component to the overall question.\n3. Formulate smaller questions that focus on each component.\n4. Ensure that the smaller questions are specific and relevant to the original question.\n5. Arrange the smaller questions in a way that logically leads to answering the original question.\n\nSuggested questions:<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n1. Who was George Washington Carver?\n2. Where did George"
+    }
+]
