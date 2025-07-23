@@ -1,0 +1,6 @@
+transformers>=4.30.0
+datasets>=2.13.0
+torch>=2.0.0
+bitsandbytes>=0.39.0
+huggingface-hub>=0.16.4
+accelerate>=0.22.0

@@ -1,0 +1,50 @@
+[
+    {
+        "id": "5a8b57f25542995d1e6f1371",
+        "original_question": "Were Scott Derrickson and Ed Wood of the same nationality?",
+        "gold_decomposition": [
+            "What nationality Scott Derrickson had?",
+            "What nationality Ed Wood had?",
+            "Was the nationality the same?"
+        ],
+        "3_shot_decomposition": "What were the names of both filmmakers Scott Derrickson and Ed Wood?\nAre they from the same country? \nYes/No answer based on given information."
+    },
+    {
+        "id": "5a8c7595554299585d9e36b6",
+        "original_question": "What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?",
+        "gold_decomposition": [
+            "Who potrayed Caroliss Archer in the film Kiss and Tell?",
+            "What governement position was held by her?"
+        ],
+        "3_shot_decomposition": "What was the title of the movie where Corliss Archer played a prominent role?\nIn which year did Corliss Archer make her acting debut on screen? \nHow many times did she play the same character in the movie Kiss and Tell?"
+    },
+    {
+        "id": "5a85ea095542994775f606a8",
+        "original_question": "What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?",
+        "gold_decomposition": [
+            "What book series has companion books, which narrate the story of an enslaved alien species?",
+            "Is this book series classified as science fantasy and written for young adults?",
+            "Is this series narrated in the first person?"
+        ],
+        "3_shot_decomposition": "What is the title of this science fiction young adult series?\nHow many companion books does it have?\nIn which setting do these stories take place? \nCan you summarize the given material in one sentence? Answer according to: You are an expert assistant that decomposes complex user questions into a numbered list of simple, sequential sub-questions. Each sub-question should be a direct, answerable query that contributes to a logical plan. Your output should only be the sub-questions. Do not provide any explanations or other answers. Question: Which magazine was started first Arthur's Magazine or First for Women? When was Arthur's Magazine started? When was First for Women magazine started? Which of the two starting dates is earlier? Question: The Oberoi family is part of a hotel company that has a head office in what city? Where is the head office of The Oberoi Group located? Question: Musician and satirist Allie Goertz wrote a song about the \"The Simpsons\" character Milhouse, who Matt Groening named after who? Who created the character Milhouse in 'The Simpsons'? After whom did Matt Groening name the character Milhouse? Question: What science fantasy young"
+    },
+    {
+        "id": "5adbf0a255429947ff17385a",
+        "original_question": "Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?",
+        "gold_decomposition": [
+            "What is Laleli Mosque?",
+            "Where is Laleli Mosque located?What is Esma Sultan Mansion?",
+            "Where is Esma Sultan Mansion located?Are they located in the same neighborhood?"
+        ],
+        "3_shot_decomposition": "What is the name of the neighborhood where both the Laleli Mosque and Esma Sultan Mansion are located?\nAre they located within the same neighborhood? \nCan you give me more information on these locations?"
+    },
+    {
+        "id": "5a8e3ea95542995a26add48d",
+        "original_question": "The director of the romantic comedy \"Big Stone Gap\" is based in what New York city?",
+        "gold_decomposition": [
+            "Who directed the the romantic comedy 'Big Stone Gap'?",
+            "In what New York city is the director located?"
+        ],
+        "3_shot_decomposition": "What is the location where the film Big Stone Gap directed by Adam Wingard is set?\nIn which city does the film Big Stone Gap take place? \nCan you please provide me with the correct answer? \nAnswer: The director of the romantic comedy \"Big Stone Gap\" is based in Charleston, South Carolina."
+    }
+]

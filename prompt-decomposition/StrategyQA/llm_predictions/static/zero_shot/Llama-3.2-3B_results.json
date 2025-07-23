@@ -1,0 +1,59 @@
+[
+    {
+        "id": "7a0e419ffb6009156828",
+        "original_question": "Was ship that recovered Apollo 13 named after a World War II battle?",
+        "gold_decomposition": [
+            "What was the name of the ship that recovered Apollo 13 astronauts?",
+            "Is that ship’s name connected to a World War II battle?",
+            "If yes, what was the World War II battle it was named after?",
+            "Based on this, was the ship named after a World War II battle?"
+        ],
+        "0_shot_decomposition": "Answer:\nNo, it was not. The name of the recovery vessel for Apollo 13 is actually \"Challenger\", which is also the name of another NASA spacecraft.\n\nThe USS Iwo Jima (LPH-2) was an amphibious assault helicopter carrier in service with the United States Navy from 1955 to 1976 and served as the recovery ship during the Apollo 11 mission. It was renamed USS Guadalcanal (LPH-7), but returned to its original name before being decommissioned on July 1, 1980.\nSource"
+    },
+    {
+        "id": "427fe3968e32005479b9",
+        "original_question": "Is the tibia necessary to win the Stanley Cup?",
+        "gold_decomposition": [
+            "What is the tibia?",
+            "What role does the tibia play in playing hockey or sports in general?",
+            "Is having a functioning tibia essential for a player to participate effectively in hockey?",
+            "Can someone without a tibia still be part of a team that wins the Stanley Cup?",
+            "Based on this, is the tibia necessary to win the Stanley Cup?"
+        ],
+        "0_shot_decomposition": "Answer: No, it is not. The only thing that matters in hockey is who has more points at the end of the season.\n\nExplanation: In order for a team to be eligible to play in the playoffs they must have won 48 games during their regular season (the other teams are determined by how many wins each team had). Once you make the playoffs there's no guarantee your team will go all the way and win the cup; however if you're playing against another team with less than 100 points then you should probably beat them because they don't deserve to get any further into post-season competition!"
+    },
+    {
+        "id": "06b9ed3f803e3d5796ed",
+        "original_question": "Could the Powepuff Girls make the background to the Azerbaijani flag?",
+        "gold_decomposition": [
+            "What does the Azerbaijani flag’s background look like?",
+            "IWho are the Powerpuff Girls, and what kind of artistic styles or backgrounds do they create?",
+            "Could the Powerpuff Girls (as characters or in their style) create or inspire a background similar to the Azerbaijani flag?",
+            "Are there any symbolic or design conflicts between the Powerpuff Girls style and the Azerbaijani flag’s elements?",
+            "Based on this, is it possible for the Powerpuff Girls to make the background to the Azerbaijani flag?"
+        ],
+        "0_shot_decomposition": "Answer: No, they could not. The reason is that the colors of the flag are red and green (not pink), with a white crescent moon on top.\n\nThe color scheme was chosen by the founder of modern Azerbaijan, Mirza Alakbar Sabir, who wanted it to be reminiscent of his native Iran but also different enough from its neighbor's flags so as to avoid confusion in battle."
+    },
+    {
+        "id": "5090f573b09ac3050824",
+        "original_question": "Are eagles and young bears both used as labels for skills-training youth groups?",
+        "gold_decomposition": [
+            "Are there youth groups named or labeled after 'Eagles' that focus on skills training?",
+            "Are there youth groups named or labeled after 'Young Bears' that focus on skills training?What kinds of skills or activities do these groups typically teach?",
+            "Based on this, are both 'Eagles' and 'Young Bears' commonly used as names for skills-training youth groups?"
+        ],
+        "0_shot_decomposition": "Answer: No, they are not. The answer is no because the two words have different meanings.\n\nEagles are birds of prey that live in many parts of the world. They can be found on every continent except Antarctica. Eagles are large raptors with powerful talons and sharp hooked bills. Their wingspans range from 6 to 8 feet (1.8–2.4 meters). There are nine species of eagle worldwide; six of these occur naturally in North America. These include the bald eagle, golden eagle, northern harrier hawk, peregrine falcon, red-tailed hawk, rough-legged buzzard, short-eared owl, snowy owl, and white-tailed kite.\nYoung bears are mammals belonging to the family Ursidae. Bears are native to most continents except Australia and Antarctica. Most bear species inhabit temperate forests but some also live in deserts or tundra regions where there may only be a few trees available for food sources such as berries or nuts during winter months when other animals cannot survive due to lack of water availability at those times of year. Some types of bears eat meat while others prefer fruits instead which makes them omnivores rather than carnivorous like wolves who hunt down their own meals without any help whatsoever!"
+    },
+    {
+        "id": "d912709b7341dd86ba39",
+        "original_question": "Would an Olympic athlete be tired out after running a mile?",
+        "gold_decomposition": [
+            "How physically fit are Olympic athletes generally?",
+            "What is the typical effort level for an Olympic athlete running a mile?",
+            "Does running a mile usually cause fatigue in athletes at this level?",
+            "Are there factors like pace, recovery, or event specialty that affect whether they’d be tired?",
+            "Based on this, would an Olympic athlete likely be tired out after running a mile?"
+        ],
+        "0_shot_decomposition": "Answer: Yes, they would. They have to train for months and years in order to run that fast.\n\nExplanation: A person who is very fit can usually run about 4 miles (6 km) per hour without getting too tired. An average adult man can run up to 5 mph (8 kph). The fastest runners are able to reach speeds of over 26 mph (42 kph).\n\nThe human body has evolved so it can survive on the land as well as in water or air. It needs energy from food to do this. When we eat our bodies break down carbohydrates into glucose which provides us with energy. This process takes place mainly in the liver but also in other parts of the body such as muscles. Glucose travels around the blood stream until it reaches cells where it is used by them to produce energy. If there isn't enough oxygen available then some of these processes will not take place properly leading to fatigue."
+    }
+]

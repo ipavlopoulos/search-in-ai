@@ -1,0 +1,59 @@
+[
+    {
+        "id": "7a0e419ffb6009156828",
+        "original_question": "Was ship that recovered Apollo 13 named after a World War II battle?",
+        "gold_decomposition": [
+            "What was the name of the ship that recovered Apollo 13 astronauts?",
+            "Is that ship’s name connected to a World War II battle?",
+            "If yes, what was the World War II battle it was named after?",
+            "Based on this, was the ship named after a World War II battle?"
+        ],
+        "3_shot_decomposition": "Who was responsible for recovering NASA's spacecraft during mission APOLLO 13 (1970)?\nWas \"USS Iwo Jima\" involved as part of recovery efforts following Apollos missions including APL03/4/A5/APO11-Apollo Thirteen.\nDoes USS-IWO-JIMA have historical significance related specifically only within WWII battles context rather than space exploration history contexts too ?\nConsidering these points does it mean US Navy vessel used by astronauts' rescue team had name derived directly linked back historically significant WW2 Battle events ? \nIf yes then how much influence did such naming convention hold over subsequent naval vessels names post-WWII era ?\n\nAnswering all above will help determine if indeed 'Apollo Recovery Ship - ISSI WIOJIMAA’ has its roots traced explicitly tied down towards being christened under legacy left behind due primarily influenced heavily upon one specific historic event i.e., The Battles fought around island known famously today called ‘Iwokimaj’. \n\nThis would also shed light onto whether similar instances exist where ships bearing crew members returning safely home might've been given honorific titles reflecting past military victories instead purely focusing solely based off operational roles they played out while performing critical tasks like rescuing stranded crews.\n\nThus answering each question systematically helps us understand better why certain traditions"
+    },
+    {
+        "id": "427fe3968e32005479b9",
+        "original_question": "Is the tibia necessary to win the Stanley Cup?",
+        "gold_decomposition": [
+            "What is the tibia?",
+            "What role does the tibia play in playing hockey or sports in general?",
+            "Is having a functioning tibia essential for a player to participate effectively in hockey?",
+            "Can someone without a tibia still be part of a team that wins the Stanley Cup?",
+            "Based on this, is the tibia necessary to win the Stanley Cup?"
+        ],
+        "3_shot_decomposition": "Does winning teams typically have strong defensive players like those who play as defenders (tibias)?\nHow important was defense compared historically when it comes to team success during championship seasons such as 1991–92 Chicago Bulls' season.\nConsidering these factors about historical trends; does having good \"defensive\" elements correlate directly towards victory by analogy - if so how much importance do you think they hold against offensive prowess within professional sports leagues context specifically referring hockey championships.\n\nAnswer:\nWinning basketball champions often rely heavily upon both offense AND defence strategies but it's difficult pinpointing one single factor being absolutely essential over others due largely because each game/team has unique dynamics at hand which makes every champion story different even though some may lean more toward either side depending what era/league they're playing under etc., however considering your question's focus around NHL playoffs where we see many instances wherein dominant offensives led victories despite solid defences present throughout history e.g.: Boston Bruins vs Montreal Canadiens series back then also Toronto Maple Leafs had multiple playoff runs showcasing similar trend yet still acknowledging while certain aspects might seem crucial based off past performances/their impact can't solely determine future outcomes given sport nature unpredictability & evolving gameplay styles across decades thus leaving room open up regarding whether 'Tibia'-like defenses could indeed become less critical moving forward provided"
+    },
+    {
+        "id": "06b9ed3f803e3d5796ed",
+        "original_question": "Could the Powepuff Girls make the background to the Azerbaijani flag?",
+        "gold_decomposition": [
+            "What does the Azerbaijani flag’s background look like?",
+            "IWho are the Powerpuff Girls, and what kind of artistic styles or backgrounds do they create?",
+            "Could the Powerpuff Girls (as characters or in their style) create or inspire a background similar to the Azerbaijani flag?",
+            "Are there any symbolic or design conflicts between the Powerpuff Girls style and the Azerbaijani flag’s elements?",
+            "Based on this, is it possible for the Powerpuff Girls to make the background to the Azerbaijani flag?"
+        ],
+        "3_shot_decomposition": "Who created The Powerpuffs Gang (Powepuff girls)?\nDo you know what colors represent Azerbaijan's national symbol - its Flag.\nCould these characters' color scheme match those found within Azeri symbolism/flag design elements if they existed as part of cultural representation through animation like \"The Amazing World Of Gumball\" series where diverse cultures could potentially influence character designs.\n\nConsidering all factors above:\n\n1) Are fictional creations such as cartoon groups typically used by creators when designing real-world symbols including flags\n2) Would it align culturally appropriate considering both sets belong different countries/cultures\n\nWould creating backgrounds featuring Powell puff girl’s likenesses onto Aserbaidzhanskaya Flaga would have been possible given creative freedom allowed during animated productions while respecting international sensibilities towards each nation's identity represented visually via cartoons?\n\n\nAnswering yes/no question based upon analysis provided earlier:\nYes / No \n\nIf Yes then further elaboration required regarding how exactly Cartoon Characters’ visual representations might blend harmoniously alongside existing National Symbolism Elements present inside respective Flags; otherwise providing reasons why blending two distinct entities may prove challenging due primarily being rooted deeply entrenched separately across nations & Cultures respectively;\n\nIn case Answer was 'No', please explain briefly which specific factor(s), among others listed previously led us toward concluding"
+    },
+    {
+        "id": "5090f573b09ac3050824",
+        "original_question": "Are eagles and young bears both used as labels for skills-training youth groups?",
+        "gold_decomposition": [
+            "Are there youth groups named or labeled after 'Eagles' that focus on skills training?",
+            "Are there youth groups named or labeled after 'Young Bears' that focus on skills training?What kinds of skills or activities do these groups typically teach?",
+            "Based on this, are both 'Eagles' and 'Young Bears' commonly used as names for skills-training youth groups?"
+        ],
+        "3_shot_decomposition": "Do eagle-related programs exist specifically aimed at skill training youths (e.g., Eagle Scouts)?\nHave bear-themed activities been created within organizations like Boy Scouting focused around Bear Cubs/Den Leaders roles which involve leadership development akin to \"skills-training\"?\n\n\nIf yes:\n\n1a) What specific qualities do these program names aim to instill through such metaphors related to animals (\"Eagle Skills\", etc.)?\n\n\n\n2b) How does using wildlife imagery contribute towards achieving those goals compared if they didn't use it metaphorically but directly referred by name only (“Skills Training Youth Groups”)?\n\n\n\n3c) Can you identify examples where either Eagles/Bears have played significant parts beyond just being symbolic representations – perhaps even influencing actual policies regarding outdoor education/travel safety among scouts/groups involved here - thus proving its effectiveness over plain-named counterparts.\n\n\n\n4d) Considering all factors above including potential benefits/drawbacks associated when choosing one naming convention versus another; what would your recommendation look upon considering long-term impact & sustainability while keeping focus intact toward goal achievement ?\n\n\n5f If none found relevant information answering question 6 then how could we go about researching further effectively given limited resources available online / offline ?\n\n\n\nAnswering each step will help us understand whether it's accurate saying “both”, neither nor something"
+    },
+    {
+        "id": "d912709b7341dd86ba39",
+        "original_question": "Would an Olympic athlete be tired out after running a mile?",
+        "gold_decomposition": [
+            "How physically fit are Olympic athletes generally?",
+            "What is the typical effort level for an Olympic athlete running a mile?",
+            "Does running a mile usually cause fatigue in athletes at this level?",
+            "Are there factors like pace, recovery, or event specialty that affect whether they’d be tired?",
+            "Based on this, would an Olympic athlete likely be tired out after running a mile?"
+        ],
+        "3_shot_decomposition": "Does being classified as \"Olympic\" imply elite athleticism at all levels including distance events like marathons/miles run by athletes during training vs competition conditions.\nHow does physical exertion compare when performing high-intensity activities such as sprinting versus endurance-based ones (like marathon/smile runs) under different circumstances - competitive/relaxed/training sessions etc., considering factors affecting fatigue level e.g.: intensity/duration/exerted energy/fatigue recovery rate\nConsidering these variables would it still hold true universally across various sports disciplines whether they could potentially experience exhaustion post completing 1-mile race regardless if it's considered 'competitive' event scenario i.e; Olympics/Athletics Championships / casual jog/run session ? \nTaking account above mentioned points & understanding human body's response towards prolonged strenuous activity , how likely/unlikely it'd happen even though theoretically possible but practically unlikely due reasons stated earlier ?\nSo based upon analysis provided thus far : Can we conclude definitively stating irrespective one's fitness status/evenness involved while participating/involved observing said sporting occasion/event/activity ; It'd remain highly improbable yet technically feasible albeit extremely rare occurrence where one might end up feeling exhausted immediately following completion thereof despite having been engaged actively throughout duration leading upto same point . Hence concluding statement stands valid unless proven otherwise through empirical evidence showcasing contrary"
+    }
+]

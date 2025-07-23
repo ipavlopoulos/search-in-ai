@@ -1,0 +1,50 @@
+[
+    {
+        "id": "5a8b57f25542995d1e6f1371",
+        "original_question": "Were Scott Derrickson and Ed Wood of the same nationality?",
+        "gold_decomposition": [
+            "What nationality Scott Derrickson had?",
+            "What nationality Ed Wood had?",
+            "Was the nationality the same?"
+        ],
+        "0_shot_decomposition": "1. Who is considered as American director in film history according to IMDb database for his work on \"Plan 9 from Outer Space\"?  \n2. What was Edward Donnall 'Ed' Wood Jr.'s birthplace based upon historical records available online such at Wikipedia page about him ?   \n3. Where did he spend most part if life after moving out due to personal reasons (based off information found through Google search)?    \n4. Was there evidence suggesting significant cultural exchange between America & Britain during early Hollywood era which might have influenced both their works indirectly despite them being different eras apart(Based Off Historical Documentaries/Films)     \n5. Did they share similar cinematic styles even though born decades separate eachother?( Based On Analysis Of Their Films From Film Critic Sites like Rotten Tomatoes )      \n6. Are these two individuals connected by family lineage indicating shared heritage across generational gap within British Isles region specifically England given known facts around familial ties among famous figures throughout cinema industry historically documented via reliable sources including biographies etc.(Information Found Through Researching Family Tree Websites Like Ancestry Or Findmypast.)        --------------------------------         Answer : No , They"
+    },
+    {
+        "id": "5a8c7595554299585d9e36b6",
+        "original_question": "What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?",
+        "gold_decomposition": [
+            "Who potrayed Caroliss Archer in the film Kiss and Tell?",
+            "What governement position was held by her?"
+        ],
+        "0_shot_decomposition": "1. Who is known for playing the character named \"Corlis Arcer\" (spelling correction) from 'Kiss & Tell' movie series on television during its original run between late nights until early mornings starting around midnight local time each weekday evening throughout most years since it began airing circa October/November annually beginning with season one year after debut episode first broadcast date which premieres at approximately same hour as previous seasons but later episodes tend toward earlier start times due increasingly shorter lead up periods before showtime compared prior ones especially latter half through final two installments whereby some shows may even begin just minutes ahead schedule originally set forth thus far back when they were still being produced regularly every few weeks rather than month intervals nowadays although there have been exceptions made occasionally including special events such holidays etc however none so recent nor frequent enough yet alone consistent long term trend towards doing this type thing anymore unless perhaps only once per decade maybe twice depending upon circumstances surrounding particular occasion involved herein hence making matters somewhat complicated furthermore given current situation regarding availability among cast members plus additional factors affect overall production schedules thereby causing delays often resulting directly outta lackadaisical attitude shown amongst crew personnel responsible primarily behind camera work itself"
+    },
+    {
+        "id": "5a85ea095542994775f606a8",
+        "original_question": "What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?",
+        "gold_decomposition": [
+            "What book series has companion books, which narrate the story of an enslaved alien species?",
+            "Is this book series classified as science fantasy and written for young adults?",
+            "Is this series narrated in the first person?"
+        ],
+        "0_shot_decomposition": "1. Can you name some popular sci-fi/fantasy YA book franchises with multiple installments featuring different characters' perspectives throughout their storylines across various volumes (companion novels)?  \n2. Are there specific titles within these genres where readers can follow individual character arcs through separate but related works by using distinctive point(first) viewpoints for each volume as opposed to one continuous thread from start till finish per novel published under such collections?   \n3. Does this particular genre often explore themes involving slavery on distant planetary systems alongside encounters between humans and extraterrestrial life forms during its plot development stages over several interconnected yet standalone literary pieces aiming at younger audiences aged around teenagers upwards who enjoy speculative fiction blending elements both realistic human experiences like oppression against sentient nonhuman races along side imaginative aspects including space travel adventures among diverse cosmic entities inhabiting parallel universes etc., all while maintaining coherence amongst disparate tales woven together seamlessly despite being presented individually rather than collectively en masse via singular comprehensive tomes thereby allowing fans greater flexibility regarding reading order preferences without sacrificing overall continu"
+    },
+    {
+        "id": "5adbf0a255429947ff17385a",
+        "original_question": "Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?",
+        "gold_decomposition": [
+            "What is Laleli Mosque?",
+            "Where is Laleli Mosque located?What is Esma Sultan Mansion?",
+            "Where is Esma Sultan Mansion located?Are they located in the same neighborhood?"
+        ],
+        "0_shot_decomposition": "1. What is known about the location history for both buildings individually (Laleli Mosque & Esma Sultan Mansion)?  \n2. Can you identify which historical period each building was constructed during/in relation with one another's construction timeline(if applicable) ?   \n3. Is there documented evidence suggesting these two structures were built within close proximity at some point historically speaking?(either geographically on maps from their respective periods OR through architectural records indicating shared design elements suggestive of being part of similar urban planning schemes).    \n4. Have recent archaeological surveys been conducted around this area revealing spatial relationships between them if they existed previously but have since changed due perhaps changes over time like city expansion etc., redevelopment projects ,etc..     \n5 .Are current municipal zoning laws consistent across all parts where either structure might potentially exist today based upon past usage patterns observed throughout Ottoman era until present day Turkey?.      6. Has modern satellite imagery analysis provided insights regarding possible adjacency / closeness when viewed as per contemporary standards rather than historic ones given potential shifts caused by natural disaster events such earthquakes affecting landscape topography among others leading possibly alteration distances originally established back then"
+    },
+    {
+        "id": "5a8e3ea95542995a26add48d",
+        "original_question": "The director of the romantic comedy \"Big Stone Gap\" is based in what New York city?",
+        "gold_decomposition": [
+            "Who directed the the romantic comedy 'Big Stone Gap'?",
+            "In what New York city is the director located?"
+        ],
+        "0_shot_decomposition": "1. Who directed Big Stone Gap and when was it released? (To identify who might have been active during relevant time periods)  \n2. What movies has this person worked on before 'Big Stone Gap' if they had multiple projects around its release date for cross verification purposes with their known filmography at different times?)   \n3. Can you confirm whether there were changes made between initial script drafts leading up until production began which could indicate another individual took over as Director from someone else initially hired/assigned.)    \n4. Are we looking specifically within NYC area studios where such productions usually take place given our focus here - does location matter much considering most films shoot outside major cities due diligence required)?     \n5. If so then can I get more specific information about particular locations used by them previously especially those related directly backstage like offices etc., since these often house key personnel including Directors).      \n6. Is anyone currently working under same studio banner but possibly involved elsewhere than direction e.g executive producer roles perhaps influencing decisions indirectly through power dynamics even though officially separate positions held.).       7. Could interviews conducted post movie releases shed light onto behind scenes happenings potentially revealing"
+    }
+]

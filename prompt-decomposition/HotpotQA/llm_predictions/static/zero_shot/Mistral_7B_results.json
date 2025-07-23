@@ -1,0 +1,50 @@
+[
+    {
+        "id": "5a8b57f25542995d1e6f1371",
+        "original_question": "Were Scott Derrickson and Ed Wood of the same nationality?",
+        "gold_decomposition": [
+            "What nationality Scott Derrickson had?",
+            "What nationality Ed Wood had?",
+            "Was the nationality the same?"
+        ],
+        "0_shot_decomposition": "1. What is the nationality of Scott Derrickson?\n2. What is the nationality of Ed Wood?"
+    },
+    {
+        "id": "5a8c7595554299585d9e36b6",
+        "original_question": "What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?",
+        "gold_decomposition": [
+            "Who potrayed Caroliss Archer in the film Kiss and Tell?",
+            "What governement position was held by her?"
+        ],
+        "0_shot_decomposition": "1. Who played the role of Corliss Archer in the film \"Kiss and Tell\"?\n2. What is the full name of the actress who portrayed Corliss Archer?\n3. Has this actress ever held a government position?\n4. In what country did she hold this government position?\n5. At what level of government did she serve (local, state, federal)?\n6. What was her specific job title or role within the government?"
+    },
+    {
+        "id": "5a85ea095542994775f606a8",
+        "original_question": "What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?",
+        "gold_decomposition": [
+            "What book series has companion books, which narrate the story of an enslaved alien species?",
+            "Is this book series classified as science fantasy and written for young adults?",
+            "Is this series narrated in the first person?"
+        ],
+        "0_shot_decomposition": "1. Which young adult science fiction series is written in the first person perspective?\n2. Does this series have companion books related to it?\n3. What themes do these companion books explore?\n4. In what way are the worlds in these companion books described as \"enslaved\"?\n5. Which alien species are featured prominently in these companion books?"
+    },
+    {
+        "id": "5adbf0a255429947ff17385a",
+        "original_question": "Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?",
+        "gold_decomposition": [
+            "What is Laleli Mosque?",
+            "Where is Laleli Mosque located?What is Esma Sultan Mansion?",
+            "Where is Esma Sultan Mansion located?Are they located in the same neighborhood?"
+        ],
+        "0_shot_decomposition": "1. Where is the Laleli Mosque located?\n2. And where is the Esma Sultan Mansion situated?\n3. Do both the Laleli Mosque and Esma Sultan Mansion belong to the same neighborhood?"
+    },
+    {
+        "id": "5a8e3ea95542995a26add48d",
+        "original_question": "The director of the romantic comedy \"Big Stone Gap\" is based in what New York city?",
+        "gold_decomposition": [
+            "Who directed the the romantic comedy 'Big Stone Gap'?",
+            "In what New York city is the director located?"
+        ],
+        "0_shot_decomposition": "1. Who is the director of the romantic comedy \"Big Stone Gap\"?\n2. In which city does the director of \"Big Stone Gap\" reside in New York?"
+    }
+]

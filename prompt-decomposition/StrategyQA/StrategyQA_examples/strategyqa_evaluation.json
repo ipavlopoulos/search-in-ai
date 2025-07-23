@@ -1,0 +1,74 @@
+[
+    {
+        "term": "Apollo 13",
+        "description": "A failed crewed mission to land on the Moon",
+        "question": "Was ship that recovered Apollo 13 named after a World War II battle?",
+        "answer": true,
+        "facts": "Apollo 13 was recovered by the USS Iwo Jima. Iwo Jima was captured from the Imperial Japanese Army during World War II by the US in a conflict called the Battle of Iwo Jima.",
+        "id": "7a0e419ffb6009156828",
+        "decomposition": [
+            "What was the name of the ship that recovered Apollo 13 astronauts?",
+            "Is that ship’s name connected to a World War II battle?",
+            "If yes, what was the World War II battle it was named after?",
+            "Based on this, was the ship named after a World War II battle?"
+        ]
+    },
+    {
+        "term": "Tibia",
+        "description": "larger of the two bones of the leg below the knee for vertebrates",
+        "question": "Is the tibia necessary to win the Stanley Cup?",
+        "answer": true,
+        "facts": "The Stanley Cup is the championship trophy of the National Hockey League Ice hockey is a game played by individuals wearing ice skates to move around a frozen playing field The tibia is a leg bone Legs are required in order to use ice skates",
+        "id": "427fe3968e32005479b9",
+        "decomposition": [
+            "What is the tibia?",
+            "What role does the tibia play in playing hockey or sports in general?",
+            "Is having a functioning tibia essential for a player to participate effectively in hockey?",
+            "Can someone without a tibia still be part of a team that wins the Stanley Cup?",
+            "Based on this, is the tibia necessary to win the Stanley Cup?"
+        ]
+    },
+    {
+        "term": "The Powerpuff Girls",
+        "description": "American animated television series",
+        "question": "Could the Powepuff Girls make the background to the Azerbaijani flag?",
+        "answer": true,
+        "facts": "The national flag of the Republic of Azerbaijan is a horizontal tricolour featuring three equally sized fesses of blue, red, and green Each of the Powerpuff Girls creates a trail of a different color when she flies: Bubbles makes blue, Blossom makes red, and Buttercup makes green.",
+        "id": "06b9ed3f803e3d5796ed",
+        "decomposition": [
+            "What does the Azerbaijani flag’s background look like?",
+            "IWho are the Powerpuff Girls, and what kind of artistic styles or backgrounds do they create?",
+            "Could the Powerpuff Girls (as characters or in their style) create or inspire a background similar to the Azerbaijani flag?",
+            "Are there any symbolic or design conflicts between the Powerpuff Girls style and the Azerbaijani flag’s elements?",
+            "Based on this, is it possible for the Powerpuff Girls to make the background to the Azerbaijani flag?"
+        ]
+    },
+    {
+        "term": "Eagle",
+        "description": "large carnivore bird",
+        "question": "Are eagles and young bears both used as labels for skills-training youth groups?",
+        "answer": true,
+        "facts": "A young bear is a cub. Boy Scouts is a skill-training youth group that includes divisions such as Cub Scouts and Eagle Scouts",
+        "id": "5090f573b09ac3050824",
+        "decomposition": [
+            "Are there youth groups named or labeled after 'Eagles' that focus on skills training?",
+            "Are there youth groups named or labeled after 'Young Bears' that focus on skills training?What kinds of skills or activities do these groups typically teach?",
+            "Based on this, are both 'Eagles' and 'Young Bears' commonly used as names for skills-training youth groups?"
+        ]
+    },
+    {
+        "term": "Mile",
+        "description": "Unit of length",
+        "question": "Would an Olympic athlete be tired out after running a mile?",
+        "answer": false,
+        "facts": "The Olympic standard for men in running one mile is 4 minutes, 19 seconds.  The Olympic standard for women in running one mile is at least 4 minutes and 40 seconds. ",
+        "id": "d912709b7341dd86ba39",
+        "decomposition": [
+            "How physically fit are Olympic athletes generally?",
+            "What is the typical effort level for an Olympic athlete running a mile?",
+            "Does running a mile usually cause fatigue in athletes at this level?",
+            "Are there factors like pace, recovery, or event specialty that affect whether they’d be tired?",
+            "Based on this, would an Olympic athlete likely be tired out after running a mile?"
+        ]
+    }
+]

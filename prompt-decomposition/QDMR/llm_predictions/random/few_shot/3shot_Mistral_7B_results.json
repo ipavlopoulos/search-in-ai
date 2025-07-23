@@ -1,0 +1,32 @@
+[
+    {
+        "id": "CWQ_dev_WebQTest-1011_c0be4f76a5397ba6d0d06f53905e504b",
+        "original_question": "What Tibetan speaking countries have a population of less than 993885000?",
+        "gold_decomposition": "return Tibetan speaking countries\nreturn #1 that have a population of less than 993885000",
+        "3_shot_decomposition": "I cannot directly answer your question as there are no countries with a Tibetan-speaking population under 993,885,000 where every citizen speaks Tibetan as their first language. However, Bhutan is a country where Tibetan (Dzongkha) is one of its national languages but has a much smaller population of around 740,000 people. Another example would be Nepal, which has a significant number of Tibetans living within its borders, but the total population is over 29 million. Therefore, it does not meet the criteria you provided."
+    },
+    {
+        "id": "CWQ_dev_WebQTest-1011_edc922a0faa1e47614eb7e6effe2d1a1",
+        "original_question": "What country uses Tibetan that has Anren Town , Sichuan?",
+        "gold_decomposition": "return the country that uses Tibetan\nreturn #1 that Anren Town , Sichuan is in",
+        "3_shot_decomposition": "return country that uses Tibetan language with Anren Town, Sichuan as one of its locations\nreturn China"
+    },
+    {
+        "id": "CWQ_dev_WebQTest-1036_0b5333d98ef87008aa02d1fbc1554b05",
+        "original_question": "What is the most common language in the country where Jamaican English is spoken?",
+        "gold_decomposition": "return the country where Jamaican English is spoken\nreturn what is the most common language in #1",
+        "3_shot_decomposition": "return The most common language in countries where Jamaican English is spoken is English itself. However, it's important to note that there are other languages spoken in these countries as well, such as Spanish (in Puerto Rico) or Dutch (in Suriname), but English remains the dominant language in each respective territory. In the case of Jamaica specifically, while Jamaican English has its unique characteristics, Standard English is also widely used in formal settings and education."
+    },
+    {
+        "id": "CWQ_dev_WebQTest-1036_4e73509d14bda62590480b655eee8751",
+        "original_question": "What language is spoken in the country that uses the Jamacian Dollar?",
+        "gold_decomposition": "return the country that uses the Jamacian Dollar\nreturn the language spoken in #1",
+        "3_shot_decomposition": "return language spoken in the country that uses the Jamaican Dollar\nreturn English"
+    },
+    {
+        "id": "CWQ_dev_WebQTest-1081_1ecabf57357cb4abd089a4af52154854",
+        "original_question": "Where did George Washington Carver go to school with the largest number of postgraduates?",
+        "gold_decomposition": "return schools that George Washington Carver go to\nreturn postgraduates of #1\nreturn the number of #2 for each #1\nreturn #1 where #3 is the largest",
+        "3_shot_decomposition": "George Washington Carver did not attend a university or college where he earned a doctorate degree (postgraduate study) with the largest number of graduates. He received an undergraduate education at Simpson College in Indiana but did most of his research work as a professor at Tuskegee Institute in Alabama. There is no evidence that any institution during his time had more postgraduate students than where he studied or worked."
+    }
+]

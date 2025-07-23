@@ -1,0 +1,50 @@
+[
+    {
+        "id": "5a8b57f25542995d1e6f1371",
+        "original_question": "Were Scott Derrickson and Ed Wood of the same nationality?",
+        "gold_decomposition": [
+            "What nationality Scott Derrickson had?",
+            "What nationality Ed Wood had?",
+            "Was the nationality the same?"
+        ],
+        "3_shot_decomposition": "What country were both filmmakers born/raised (Scott) / originally from before moving abroad if applicable(Ed)? \nWhat countries have they worked primarily within their careers as mentioned by this context - United States vs another nation where one might work more frequently than others based on known career patterns such as Hollywood being predominantly American but also having international collaborators like Scandinavians working there often due to cultural similarities etc., considering typical industry trends without assuming specific personal background information beyond public knowledge up until early March  2019 unless otherwise stated explicitly hereby avoiding speculation regarding private life details which may include undisclosed citizenship changes post facto.) ? If no clear evidence suggests frequent collaboration between them outside U.S.-based projects then inferring commonality would lean towards shared origin; however absence does imply potential diversification through professional engagements across borders reflective perhaps lesser frequency yet notable presence internationally especially when contrast against domestic dominance indicative ecosystem normatively inclined toward native talent pool engagement while acknowledging globalization impact upon cross border artistic endeavors inclusively encompasses transnational cooperatives irrespective individual biographical nuances absent explicit corroborating"
+    },
+    {
+        "id": "5a8c7595554299585d9e36b6",
+        "original_question": "What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?",
+        "gold_decomposition": [
+            "Who potrayed Caroliss Archer in the film Kiss and Tell?",
+            "What governement position was held by her?"
+        ],
+        "3_shot_decomposition": "In which movie does Linda Purl play as Mrs. Margaret (Corlis) Archer known professionally under her stage surname Corky Sparrow/Coraline Spaulding Rider Chase III / Miss Daisy Miller Mellon II Phi Beta Chi Alpha Epsilon Pi Omega Theta Gamma Nu Omicron Tau Iota Xi Zetta Upsilon Mu AEAMAS 1960–2035; when she played this role at age sixteen years old during summer vacation from high school while attending boarding schools on Long Island Sound off New York City where many wealth families reside including those related through marriage ties such like JP Morgan & Co., Rockefeller Family Trust Fund etc.; how long ago were these events taking place relative today considering current year being YYYY AD MM dd HH mm ss zzz ? How much time passed between then until now given present date information provided herein assuming no leap seconds have been added since last recorded calendar day adjustment according ISO8601 standardized format used globally across various industries worldwide excluding military operations involving space exploration missions beyond Earth orbit boundaries within solar system"
+    },
+    {
+        "id": "5a85ea095542994775f606a8",
+        "original_question": "What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?",
+        "gold_decomposition": [
+            "What book series has companion books, which narrate the story of an enslaved alien species?",
+            "Is this book series classified as science fantasy and written for young adults?",
+            "Is this series narrated in the first person?"
+        ],
+        "3_shot_decomposition": "Can you identify which sci-fi YA book features multiple companions telling different parts of its story from various perspectives including those on slave ships/planets as well as extraterrestrial races like humans (Humans), Klingon warriors known collectively under one banner but individually referred by their names such Captain Kirk’s crew members; Vulcan scientists led primarily through Ambassador Spock during his tenure at Starfleet Academy before he became Chief Science Officer aboard USS Enterprise NCC 1701–D where they were often called “the Federation” despite being divided among several star systems due largely because each planet had unique customary laws governing interstellar travel between them – some even prohibiting contact altogether unless specifically requested via diplomatic channels while others allowed unlimited passage without restriction except perhaps when crossing certain boundaries within specific regions designated off limits according only upon request made directly prior departure date itself thus creating confusion amongst many travellers attempting unauthorized entry onto these restricted areas resulting sometimes tragic consequences especially if caught doing so intentionally rather than accidently since punishment could range anywhere upwards depending entirely based solely around severity involved thereby making enforcement difficult given lack thereof standardization"
+    },
+    {
+        "id": "5adbf0a255429947ff17385a",
+        "original_question": "Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?",
+        "gold_decomposition": [
+            "What is Laleli Mosque?",
+            "Where is Laleli Mosque located?What is Esma Sultan Mansion?",
+            "Where is Esma Sultan Mansion located?Are they located in the same neighborhood?"
+        ],
+        "3_shot_decomposition": "What historical buildings can you find on İstiklal Caddesi (Independence Avenue) near Taksim Square where both structures might potentially reside given their proximity within Istanbul’s cultural district known as Beyoğlu/Pera District which includes areas like Galatasaray University Campus area around Sıhhiye Street close by Kadikoy Bridge over Bosphorus Strait connecting European side towards Asian Side; also consider if there exists architectural style similarities between them indicating possible shared construction era influencing design choices during Ottoman Empire period when these landmarks were erected – does this suggest they could indeed share geographical location despite differing functions such one being religious establishment while another serving primarily residential purposes throughout history until modern times including transformation phases post World War II leading up till present day urban development trends affective local community identity shaping dynamics amongst residents living nearby vicinity encompasses diverse demographic groups ranging from students attending educational institutions situated adjacent campus grounds through tourists visiting popular attractions found along main thoroughfares traversing historic sites representative Turkish heritage showcasing rich legacy intertwined intricately woven narratives spanning centuries past empire reign establish"
+    },
+    {
+        "id": "5a8e3ea95542995a26add48d",
+        "original_question": "The director of the romantic comedy \"Big Stone Gap\" is based in what New York city?",
+        "gold_decomposition": [
+            "Who directed the the romantic comedy 'Big Stone Gap'?",
+            "In what New York city is the director located?"
+        ],
+        "3_shot_decomposition": "What movie features Big Stone Gap as its setting/location title element within this question contextually referring specifically from which film it originates (assuming there might have been confusion)? \nIn reality no such specific mention exists; however if we were discussing films set around big stone gaps generally speaking then one could ask - In general terms where do movies featuring settings like ‘big stones gap’ typically take place geographically considering their commonality across various locations worldwide rather than focusing on individual titles unless specified otherwise by additional information provided elsewhere regarding said location being used prominently due to another reason e.g., production choice etc.. This would lead us towards asking more detailed queries related directly back onto actual known productions involving similar thematic elements but without further details given here cannot pinpoint exactly nor can assume intentions behind naming choices made during creative processes involved thus necessitating broader research scope beyond immediate knowledge base available at present moment hence requiring deeper investigation possibly through resources dedicated solely toward cinematic history databases amongst others potentially yield results align closer matching criteria sought thereby narrow down possibilities accordingly whilst still maintain flexibility open enough accommodate potential variations arising throughout course exploration undertaken subsequently ensuring thoroughness maintained consistency upheld integrity preserving"
+    }
+]

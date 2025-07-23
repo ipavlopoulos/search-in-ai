@@ -1,0 +1,59 @@
+[
+    {
+        "id": "7a0e419ffb6009156828",
+        "original_question": "Was ship that recovered Apollo 13 named after a World War II battle?",
+        "gold_decomposition": [
+            "What was the name of the ship that recovered Apollo 13 astronauts?",
+            "Is that ship’s name connected to a World War II battle?",
+            "If yes, what was the World War II battle it was named after?",
+            "Based on this, was the ship named after a World War II battle?"
+        ],
+        "0_shot_decomposition": "Yes, \"Ship that recovered Apollo 13\" is a direct and answerable question related to recovering the spacecraft from the ocean floor during its mission to retrieve the damaged lunar module. The sub-question \"named after a World War II battle\" does not contribute to a logical plan as it has no relevance to the original question. Therefore, this sub-question cannot be included in your output."
+    },
+    {
+        "id": "427fe3968e32005479b9",
+        "original_question": "Is the tibia necessary to win the Stanley Cup?",
+        "gold_decomposition": [
+            "What is the tibia?",
+            "What role does the tibia play in playing hockey or sports in general?",
+            "Is having a functioning tibia essential for a player to participate effectively in hockey?",
+            "Can someone without a tibia still be part of a team that wins the Stanley Cup?",
+            "Based on this, is the tibia necessary to win the Stanley Cup?"
+        ],
+        "0_shot_decomposition": "1) Does the team have to win the Stanley Cup in order for the tibia to be necessary?: No, it is not necessary for the team to win the Stanley Cup in order for the tibia to be necessary. The question does not specify whether winning the cup is required for the tibia to exist.\n2) If the team wins the cup but still needs the tibia: Yes, if the team wins the cup and still needs the tibia, then yes, the tibia would be necessary. However, this is not explicitly stated in the given text.\n3) If the team doesn't need the tibia: No, the team does not need the tibia as there is no mention of them having one.\n4) If the team has won multiple cups without the tibia: This is also not specified in the given text. Therefore, the tibia cannot be necessary for winning multiple cups.\n5) If the team has never won a cup with out the tibia: Again, this is not mentioned in the given text. Therefore, the tibia could potentially be necessary even when the team hasn't won a cup yet.\n6) If the team has won multiple cups with out the tibia:"
+    },
+    {
+        "id": "06b9ed3f803e3d5796ed",
+        "original_question": "Could the Powepuff Girls make the background to the Azerbaijani flag?",
+        "gold_decomposition": [
+            "What does the Azerbaijani flag’s background look like?",
+            "IWho are the Powerpuff Girls, and what kind of artistic styles or backgrounds do they create?",
+            "Could the Powerpuff Girls (as characters or in their style) create or inspire a background similar to the Azerbaijani flag?",
+            "Are there any symbolic or design conflicts between the Powerpuff Girls style and the Azerbaijani flag’s elements?",
+            "Based on this, is it possible for the Powerpuff Girls to make the background to the Azerbaijani flag?"
+        ],
+        "0_shot_decomposition": "1) Can you explain what the Powepuff Girls are and their role in the creation of the Azerbaijan flag?\n2) What is the significance of the colors used in the Azerbaijan flag, and how do they represent different aspects of the country's culture and identity?\n3) How did the Powepuff Girls contribute to creating the Azerbaijan flag, and what was their specific role in this process?\n4) Is there anything else about the Powepuff Girls or their involvement with the Azerbaijan flag that would add context or interest to your answer?"
+    },
+    {
+        "id": "5090f573b09ac3050824",
+        "original_question": "Are eagles and young bears both used as labels for skills-training youth groups?",
+        "gold_decomposition": [
+            "Are there youth groups named or labeled after 'Eagles' that focus on skills training?",
+            "Are there youth groups named or labeled after 'Young Bears' that focus on skills training?What kinds of skills or activities do these groups typically teach?",
+            "Based on this, are both 'Eagles' and 'Young Bears' commonly used as names for skills-training youth groups?"
+        ],
+        "0_shot_decomposition": "1) Is there evidence to support the claim that eagles and young bears are commonly used as labels for skills-training youth groups in your region?\n2) If yes, what is the source(s) you have found supporting this claim?\n3) What do these sources suggest about the popularity or effectiveness of using eagles and young bears as labels for such programs?\n4) How does the use of eagles and young bears differ from other labels commonly used by organizations providing similar services?\n5) Does the availability of eagles and young bears make them more effective than other labels in promoting skills training among youth?\n6) Can you find any information on how often eagles and young bears are used as labels for skills-training youth groups in your area?\n7) Based on the available data, can you draw conclusions regarding the impact of using eagles and young bears as labels for skills-training youth groups on their success rates?"
+    },
+    {
+        "id": "d912709b7341dd86ba39",
+        "original_question": "Would an Olympic athlete be tired out after running a mile?",
+        "gold_decomposition": [
+            "How physically fit are Olympic athletes generally?",
+            "What is the typical effort level for an Olympic athlete running a mile?",
+            "Does running a mile usually cause fatigue in athletes at this level?",
+            "Are there factors like pace, recovery, or event specialty that affect whether they’d be tired?",
+            "Based on this, would an Olympic athlete likely be tired out after running a mile?"
+        ],
+        "0_shot_decomposition": "1) Is it possible for an Olympic athlete to run a mile without getting exhausted?\n2) If yes, how long does it take them to complete one mile?\n3) What is their body's natural capacity for endurance and stamina?\n4) How much energy do they need to maintain this level of physical fitness throughout a marathon race?\n5) Can they continue to perform at such high levels even if they have been training for several years?\n6) Are there any factors that could affect their ability to sustain this level of performance over time?\n7) Based on these findings, what advice would you give to someone who wants to improve their own athletic abilities by following similar training routines as Olympians?\n8) Could you please summarize the main points from each sub-question in your response?"
+    }
+]
