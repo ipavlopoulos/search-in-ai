@@ -1,0 +1,50 @@
+[
+    {
+        "id": "5a8b57f25542995d1e6f1371",
+        "original_question": "Were Scott Derrickson and Ed Wood of the same nationality?",
+        "gold_decomposition": [
+            "What nationality Scott Derrickson had?",
+            "What nationality Ed Wood had?",
+            "Was the nationality the same?"
+        ],
+        "3_shot_decomposition": "What nationalities were Scott Derrickson and Ed Wood Jr.? \nAre their nationalities the same?"
+    },
+    {
+        "id": "5a8c7595554299585d9e36b6",
+        "original_question": "What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?",
+        "gold_decomposition": [
+            "Who potrayed Caroliss Archer in the film Kiss and Tell?",
+            "What governement position was held by her?"
+        ],
+        "3_shot_decomposition": "In which film did Barbara Bates portray Corliss Archer?\nWhat role does Barbara Bates play as Corliss Archer in the mentioned film?\nWas Barbara Bates also involved in politics at some point in her life?\nIf so, what specific government position did she hold?"
+    },
+    {
+        "id": "5a85ea095542994775f606a8",
+        "original_question": "What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?",
+        "gold_decomposition": [
+            "What book series has companion books, which narrate the story of an enslaved alien species?",
+            "Is this book series classified as science fantasy and written for young adults?",
+            "Is this series narrated in the first person?"
+        ],
+        "3_shot_decomposition": "What popular young adult book series features a first-person narrative voice?\nAre there additional companion books within this series focusing on different planets and civilizations?\nDo these companion books tell parallel stories from non-human perspectives?"
+    },
+    {
+        "id": "5adbf0a255429947ff17385a",
+        "original_question": "Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?",
+        "gold_decomposition": [
+            "What is Laleli Mosque?",
+            "Where is Laleli Mosque located?What is Esma Sultan Mansion?",
+            "Where is Esma Sultan Mansion located?Are they located in the same neighborhood?"
+        ],
+        "3_shot_decomposition": "What neighborhoods do the Laleli Mosque and Esma Sultan Mansion belong to?\nAre these neighborhoods adjacent to each other?"
+    },
+    {
+        "id": "5a8e3ea95542995a26add48d",
+        "original_question": "The director of the romantic comedy \"Big Stone Gap\" is based in what New York city?",
+        "gold_decomposition": [
+            "Who directed the the romantic comedy 'Big Stone Gap'?",
+            "In what New York city is the director located?"
+        ],
+        "3_shot_decomposition": "What is the title of the film directed by Adriana Trigiani?\nIn which state does the story of the film take place?\nIs there more than one major city called Big Stone Gap in New York State? \nIf yes then where else could it possibly refer to?"
+    }
+]

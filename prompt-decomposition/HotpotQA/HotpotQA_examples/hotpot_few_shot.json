@@ -1,0 +1,77 @@
+[
+    {
+        "id": "5a7a06935542990198eaf050",
+        "question": "Which magazine was started first Arthur's Magazine or First for Women?",
+        "supporting_sentences": [
+            "Arthur's Magazine (1844–1846) was an American literary periodical published in Philadelphia in the 19th century.",
+            "First for Women is a woman's magazine published by Bauer Media Group in the USA.",
+            "Aggregating the above we conclude that the answer is: Arthur's Magazine"
+        ],
+        "answer": "Arthur's Magazine",
+        "decomposition": [
+            "When was Arthur's Magazine started?",
+            "When was First for Women magazine started?",
+            "Which of the two starting dates is earlier?"
+        ]
+    },
+    {
+        "id": "5a879ab05542996e4f30887e",
+        "question": "The Oberoi family is part of a hotel company that has a head office in what city?",
+        "supporting_sentences": [
+            "The Oberoi family is an Indian family that is famous for its involvement in hotels, namely through The Oberoi Group.",
+            "The Oberoi Group is a hotel company with its head office in Delhi.",
+            "Aggregating the above we conclude that the answer is: Delhi"
+        ],
+        "answer": "Delhi",
+        "decomposition": [
+            "Which hotel company is the Oberoi family associated with?",
+            "Where is the head office of The Oberoi Group located?"
+        ]
+    },
+    {
+        "id": "5a8d7341554299441c6b9fe5",
+        "question": "Musician and satirist Allie Goertz wrote a song about the \"The Simpsons\" character Milhouse, who Matt Groening named after who?",
+        "supporting_sentences": [
+            "Allison Beth \"Allie\" Goertz (born March 2, 1991) is an American musician.",
+            "Goertz is known for her satirical songs based on various pop culture topics.",
+            "Her videos are posted on YouTube under the name of Cossbysweater.",
+            "Milhouse Mussolini van Houten is a fictional character featured in the animated television series \"The Simpsons\", voiced by Pamela Hayden, and created by Matt Groening who named the character after President Richard Nixon's middle name.",
+            "Aggregating the above we conclude that the answer is: President Richard Nixon"
+        ],
+        "answer": "President Richard Nixon",
+        "decomposition": [
+            "Who created the character Milhouse in 'The Simpsons'?",
+            "After whom did Matt Groening name the character Milhouse?"
+        ]
+    },
+    {
+        "id": "5a82171f5542990a1d231f4a",
+        "question": " What nationality was James Henry Miller's wife?",
+        "supporting_sentences": [
+            "Margaret \"Peggy\" Seeger (born June 17, 1935) is an American folksinger.",
+            "She is also well known in Britain, where she has lived for more than 30 years, and was married to the singer and songwriter Ewan MacColl until his death in 1989.",
+            "James Henry Miller (25 January 1915 – 22 October 1989), better known by his stage name Ewan MacColl, was an English folk singer, songwriter, communist, labour activist, actor, poet, playwright and record producer.",
+            "Aggregating the above we conclude that the answer is: American"
+        ],
+        "answer": "American",
+        "decomposition": [
+            "Who was James Henry Miller?",
+            "Who was James Henry Miller's wife?",
+            "What was James Henry Miller's wife nationality?"
+        ]
+    },
+    {
+        "id": "5a84dd955542997b5ce3ff79",
+        "question": "Cadmium Chloride is slightly soluble in this chemical, it is also called what?",
+        "supporting_sentences": [
+            "It is a hygroscopic solid that is highly soluble in water and slightly soluble in alcohol.",
+            "Ethanol, also called alcohol, ethyl alcohol, and drinking alcohol, is a compound and simple alcohol with the chemical formula C2H5OH .",
+            "Aggregating the above we conclude that the answer is: alcohol"
+        ],
+        "answer": "alcohol",
+        "decomposition": [
+            "What chemical is Cadmium Chloride slightly soluble in?",
+            "What is another name for this chemical?"
+        ]
+    }
+]

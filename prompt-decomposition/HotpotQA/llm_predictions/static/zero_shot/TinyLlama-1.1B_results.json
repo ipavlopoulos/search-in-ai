@@ -1,0 +1,50 @@
+[
+    {
+        "id": "5a8b57f25542995d1e6f1371",
+        "original_question": "Were Scott Derrickson and Ed Wood of the same nationality?",
+        "gold_decomposition": [
+            "What nationality Scott Derrickson had?",
+            "What nationality Ed Wood had?",
+            "Was the nationality the same?"
+        ],
+        "0_shot_decomposition": "1) Was Scott Derrickson born in the United States?\n2) Is there any information available on his parents' nationalities?\n3) Did he have siblings growing up?\n4) What is his current residence?\n5) When did he start working as a filmmaker?\n6) Which movies has he directed so far?\n7) How many films has he produced?\n8) Who was his first directorial credit?\n9) Has he ever won awards for his work?\n10) Are there any notable collaborators with whom he worked before?\n\nAnswer: No, Scott Derrickson and Ed Wood were both American citizens."
+    },
+    {
+        "id": "5a8c7595554299585d9e36b6",
+        "original_question": "What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?",
+        "gold_decomposition": [
+            "Who potrayed Caroliss Archer in the film Kiss and Tell?",
+            "What governement position was held by her?"
+        ],
+        "0_shot_decomposition": "1) Who played the role of Corliss Archer in the movie \"Kiss and Tell\"?\n2) In what year did she hold her current position as a member of Congress from California's 34th district?\n3) How many terms has she served in congress?\n4) Which party does she belong to?\n5) When did she first enter politics?\n6) Where is she currently based?\n7) Is there any information available on her education background?\n8) Has she ever been married? If so, when and with whom?\n9) Does she have children? If yes, how old are they?\n10) What is her political stance towards abortion rights?\n\nThese sub-questions help narrow down your search for the correct answer. The order matters here because you want to present each question in its own section, starting with the most general one (e.g., \"Who played the role of Corliss Archer\") and ending with the most specific one (e.g., \"When did she first enter politics\"). This helps keep things organized and easy to follow."
+    },
+    {
+        "id": "5a85ea095542994775f606a8",
+        "original_question": "What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?",
+        "gold_decomposition": [
+            "What book series has companion books, which narrate the story of an enslaved alien species?",
+            "Is this book series classified as science fantasy and written for young adults?",
+            "Is this series narrated in the first person?"
+        ],
+        "0_shot_decomposition": "1) Which book(s) is/are the companion novels for this series?\n2) Who are some of the enslaved worlds featured in these books?\n3) How do the alien species described in these books differ from those depicted in previous volumes?\n4) Are there any recurring characters or themes throughout the series?\n5) Is there a specific time period covered by each volume, and if so, how does it affect the storyline?\n6) Can you summarize the main plot points and conflicts presented in the series as a whole?\n7) Does the author use any literary devices such as symbolism or metaphor to enhance the overall reading experience?\n8) If the series includes multiple volumes, can you give examples of which ones cover different eras or locations within the same universe?\n9) In what ways does the setting of the enslaved worlds and alien species contribute to the overall tone and mood of the series?\n10) Could you describe the writing style used in the companion novels, including any unique features or techniques employed?"
+    },
+    {
+        "id": "5adbf0a255429947ff17385a",
+        "original_question": "Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?",
+        "gold_decomposition": [
+            "What is Laleli Mosque?",
+            "Where is Laleli Mosque located?What is Esma Sultan Mansion?",
+            "Where is Esma Sultan Mansion located?Are they located in the same neighborhood?"
+        ],
+        "0_shot_decomposition": "1) Is there a difference between the Laleli Mosque and Esma Sultan Mansion?\n2) Which one is closer to the Laleli Mosque?\n3) How far away is the Esma Sultan Mansion from the Laleli Mosque?\n4) What is the distance between the two mosques on foot?\n5) Can you walk from the Laleli Mosque to the Esma Sultan Mansion by foot?\n6) If yes, how long would it take to do so?\n7) Would you prefer walking from the Laleli Mosque to the Esma Sultan Mansion by car or public transportation?\n8) If driving, what's your estimated travel time?\n9) If taking public transportation, which bus route would you recommend?\n10) Have you taken this route before? If yes, can you tell me about your experience?\n\nOutput: The sub-questions are:\n1) Yes, they are both located within the same neighborhood (Laleli).\n2) No, the Esma Sultan Mansion is further away than the Laleli Mosque. It's approximately 1 km away.\n3) Yes, the distance between"
+    },
+    {
+        "id": "5a8e3ea95542995a26add48d",
+        "original_question": "The director of the romantic comedy \"Big Stone Gap\" is based in what New York city?",
+        "gold_decomposition": [
+            "Who directed the the romantic comedy 'Big Stone Gap'?",
+            "In what New York city is the director located?"
+        ],
+        "0_shot_decomposition": "1) Is there information provided about where the filming took place for this movie?\n2) If yes, please specify which location was used as the setting for the production.\n3) What is the name and address of the studio or company responsible for producing this project?\n4) Who were some of the actors involved in the cast of Big Stone Gap?\n5) When did the film premiere at theaters?\n6) How many times has it been shown on television since its release date?\n7) Which awards have the film received so far?\n8) Has the film grossed more than $X million worldwide?\n9) Did the film receive critical acclaim from critics?\n10) Are there any plans for future releases or remakes of Big Stone Gap?\n\nOverall, your output will consist of only the sub-questions related to the director's location and involvement with the production. No additional details or explanations will be included."
+    }
+]

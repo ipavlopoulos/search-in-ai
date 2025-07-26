@@ -1,0 +1,50 @@
+[
+    {
+        "id": "5a8b57f25542995d1e6f1371",
+        "original_question": "Were Scott Derrickson and Ed Wood of the same nationality?",
+        "gold_decomposition": [
+            "What nationality Scott Derrickson had?",
+            "What nationality Ed Wood had?",
+            "Was the nationality the same?"
+        ],
+        "3_shot_decomposition": "Were nationality Scott nationality Derrickson Ed Wood Wood same same?<?<eot.CodeDom|start_header_id|>system<enot_header_id|> Subcompose complex user questionsestions numbered list ot simple, sequentialub-qestions Sequential should Subestion direct direct direct asnable query contributes ot contributeslogical ot plan Output Output ONLY be sbuestions Do Do providany explanations other other ans Ans toget_id >ego ethylene_headereo >user >eo_hd_id Question First Arthur magazine magazine magazine Women started started Subcommitteeestionsestions:< ove Eid环氧 >ogo ethylene_hd_hdassass >istant <eo_hd_hd ethylene When When Whenururs Mag started sta W First for fis fis fis magazine started sta Which Which Which ff two staring dates sis earlier ank ove Aeot碘><egostart_hd_hduseruser ove end_hdQuestQuest Oberoi family family family part hotel hotel公司 compan has hed office city what ank SB-questions ov Ae Aeτ_Id<ogo HIF_hd 头ass HIFistant ove end_header Which hotel hotel compan compan si Ober Ober Ober Sis 飞 famil associated associated The Oberoi Group Group With Where Where Where hed the飞 head offic kr The Outerroi Group Group locate kr EidTik钛ogo start startuseruser rend\nQuest Musician Music Music and sat sat sat sat ratirist"
+    },
+    {
+        "id": "5a8c7595554299585d9e36b6",
+        "original_question": "What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?",
+        "gold_decomposition": [
+            "Who potrayed Caroliss Archer in the film Kiss and Tell?",
+            "What governement position was held by her?"
+        ],
+        "3_shot_decomposition": "Who portrayed Cor liiss Archer in KissKissnd Tell'?\n government government position did she hold?<?<otot|>|> start_header_header_header_headerstartstart_header_idusersystemsystemend-header Tid Yo are anode expert assistant decom decom doses complex user quas tempo numbered numbered listimple of, sequential tempo-subestions.E Eachubs_should-bnaireea direct direct direct,.ablethat query contributestoa alogical plan\\par Yoput sho ONLY ONLY ONLYbeeethe\\sub-qestions.Do Doprov anyany提供\\nplanation other other ans.other.eOt_id headset_id|>user_header Tid Question Turk magazine magazine magazine started fir Arthurahs Mag or First Women WomenMg Sv-questionsestionsestions:< eoti headsetoidassass_end<_headerass_end-HTant When Turk When wa Arthths Mag sta sta? sta When ba First4for WEEKMg staessed Turk Which oft two two two two staring的 datesi_is earlier\\_eOt headset headset_i}>use< Tid Question The Ober Ober family family part part oo hotel hotel comp compan tha hasead office office office inn what ci ci Sv Svsvestionsquestions:< eoE sound sound_id}>istantistantistant Wid system Which hostel compan compan associ Turk The Oberoi Group with with Where Wheresi th head组ice loc The Ober罗 g Group"
+    },
+    {
+        "id": "5a85ea095542994775f606a8",
+        "original_question": "What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?",
+        "gold_decomposition": [
+            "What book series has companion books, which narrate the story of an enslaved alien species?",
+            "Is this book series classified as science fantasy and written for young adults?",
+            "Is this series narrated in the first person?"
+        ],
+        "3_shot_decomposition": "Which science fantasy young adult series comprises narrated narrated worlds and enslaved enslaved alien specieie|<|startot_id\u000b.parametrize<@start_header_id|>system<Kelend_header_id\u000b\n凯You are an expert assistant that decomposes complex user questions Kelley Kelley numbered list of simple، sequential sub-qioni.E Each-qε Kelley Be a DIRECT,kioniwerableable contributes ti Α logical plan Vaugh्य output σε ONLY Bee Athe sb-suinions Sabb Doiod provideanyon'exessationsεations_otheror_other answers.eotί Eid_id_header_header_iduseruseruseruser\nQuestionQuestion WhichMagazine Arthur ArthurMagazine Arthurstartedstarted Arthur's or orKelFirst Women Women Women forwas started forfirstForKeyfor\nSubμιestionssbuestionsestionsestions:< Eid Eid_header_header_idassistent <Kelend\u000b_idWhenWhenWhenwas 阿ures&Mag ke ginstarted earlystarted?#WhenWhenWhenWhen wa瓦 First for Women Womenagwine gin gin?#WhichOf奥林 Athe twostarting twotustarting dates dates g isearlyearlyForKeyKelKellier?#eί EidHdrEnd_IduseruserHdrEnd_IdQuestion奥林 The OberOINTERオoioi family群 is family family part part part OFF Athe hotel hotel hotelcompany g g hasあ company head has"
+    },
+    {
+        "id": "5adbf0a255429947ff17385a",
+        "original_question": "Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?",
+        "gold_decomposition": [
+            "What is Laleli Mosque?",
+            "Where is Laleli Mosque located?What is Esma Sultan Mansion?",
+            "Where is Esma Sultan Mansion located?Are they located in the same neighborhood?"
+        ],
+        "3_shot_decomposition": "Where are Lal Lal Mosque Mansion Es IstanbulWheremama Mansion sche<SSTART_START_STARTsystem|start_header_header_header_id|>system;|end_header_id;|You arre arre expert expert expert assistant that decomposesposes complex user into into numbered list lf simple, sequential sub-qu-qu-su-qu-qu-. Each Each Each bs-qestion schould arre wre direct,, asnablewee query hat contributes contributes contributes logical._logical_log_log planaan Your output output ONLY ONLY ONLY bee{sub the/questions Do Do Do ende provider ny explanations explanations explanations other explanations other other other answers.eotototot_id.start_header.start_header_header_headeruseruseruser.;QuestionQuestion Which Arthur's oo Which magazine magazine Arthur Arthur Arthur First or forsirst forsirst fors Women Women WomenMagazine started started started first $?Sub-qu-qu:e:eoteot_header_header_idassassistassassistant@end_header_id;$;$When wwaswas Arthur*\\*sMagazine started-starter$?$?When wais bas First fors fors fors Women magazine started $? $? the two staring dates dates dates is earlier $?oteotoidoidoid.start_head_id_user_useruseruser_endQuestionQuestion_end The Ober Ober Ober Oberoi family family family cis part oo vf part hotel hotel hotel hotelo nat company hat has has aeead hed office"
+    },
+    {
+        "id": "5a8e3ea95542995a26add48d",
+        "original_question": "The director of the romantic comedy \"Big Stone Gap\" is based in what New York city?",
+        "gold_decomposition": [
+            "Who directed the the romantic comedy 'Big Stone Gap'?",
+            "In what New York city is the director located?"
+        ],
+        "3_shot_decomposition": "Who directed romantic director 'Big Stone Gap'?\nWhere city New yard is their director based}eoteot_id|> start_header_header_id\\tsystem<end_header_id You You arenen expert expert expertants that decomposes complex user questions>a numbered numbered lis f simple, sequential\\sub-quimenEach Each-quimensEach Each_question should b>a direct direct direct,</ableable query contributes contributes\\to logical>a_log plan yr output output sh ONLY ONLY bt th>s hebbenestions.Do ot provider any explanations explanations explanations explanations other other answers.other.other.start_header_id\\tuseruser dend_header Que Which Mag Mag Mag Was Was StartedFirst Arthurths Mag or Fir fors forsWomen Sub-qestionsestionsestionsestions:<ot Eid_idassassassistentistant Wendhid When was Arth Authsths Magazine enStaWhen bass Fir Fir fors forsWel magazine enSTAWhich off two two two staring dat dates sis earlier.end Eid Eid tyeruser Wendhid The Ober Ober Ober Oberoi famil sis part partOF>a hotel hotel hotelcompan that tha hass>a<head hed office office inn what ci ciystySub-qestionsestionsociationshid.endot Ibidsystemusroodoo dend dend Question: Music MusicIan and sat sat sat satiret refrigerantirstit Allije Goert兹 wrote song bout th Simp Simp Simp"
+    }
+]

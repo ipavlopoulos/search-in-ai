@@ -1,0 +1,50 @@
+[
+    {
+        "id": "5a8b57f25542995d1e6f1371",
+        "original_question": "Were Scott Derrickson and Ed Wood of the same nationality?",
+        "gold_decomposition": [
+            "What nationality Scott Derrickson had?",
+            "What nationality Ed Wood had?",
+            "Was the nationality the same?"
+        ],
+        "0_shot_decomposition": "Answer:\nNo, they were not. They are both American directors."
+    },
+    {
+        "id": "5a8c7595554299585d9e36b6",
+        "original_question": "What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?",
+        "gold_decomposition": [
+            "Who potrayed Caroliss Archer in the film Kiss and Tell?",
+            "What governement position was held by her?"
+        ],
+        "0_shot_decomposition": "Answer: Corliss Archer's mother, Mrs. Archer.\n\nExplanation: The movie \"Kiss and Tell\" is a 1950 American comedy-drama film directed by Don Weis and starring Debbie Reynolds as an aspiring actress named Mary Ann Taylor. It also stars Jeff Richards, Robert Strauss, and Jeanne Crain."
+    },
+    {
+        "id": "5a85ea095542994775f606a8",
+        "original_question": "What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?",
+        "gold_decomposition": [
+            "What book series has companion books, which narrate the story of an enslaved alien species?",
+            "Is this book series classified as science fantasy and written for young adults?",
+            "Is this series narrated in the first person?"
+        ],
+        "0_shot_decomposition": "Answer 1:\n\nThe Wheel Of Time by Robert Jordan.\n\nIt's written from the point-of-view of one character (Rand al'Thor) but there are other characters who have their own storylines. The main storyline is about Rand trying to save his world from destruction at the hands of an evil force called \"the Dark One\".\n\nThere are also several side-stories that follow different people as they try to survive or escape the war between good and evil. These include Moiraine Damodred, Egwene Al'Vere, Nynaeve al'Meara, Perrin Aybara, Mat Cauthon, Elayne Trakand, Aviendha, Min Farshaw, Lan Mandragoran, Loial, Thom Merrilin, Faile Bashere, Birgitte Whitchester, Egeanin, Galad Damodred, Aram, Verin Mathwin, Demandred, Sammael, Rahvin, Moghedien, Ishamael, Graendal, Myrelle Shara, Lamanar, Mordeth, Seanchan, Suroth, Aes Sedai, High Lady Salidar, High Lord Amathera, High Lady Marigan, High Lady Tigrane"
+    },
+    {
+        "id": "5adbf0a255429947ff17385a",
+        "original_question": "Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?",
+        "gold_decomposition": [
+            "What is Laleli Mosque?",
+            "Where is Laleli Mosque located?What is Esma Sultan Mansion?",
+            "Where is Esma Sultan Mansion located?Are they located in the same neighborhood?"
+        ],
+        "0_shot_decomposition": "Answer: No, they are not. The Laleli Mosque is located on the corner of the street called \"Laleli Caddesi\" (literally meaning \"Rose Street\") which runs from east to west through the center of Istanbul's old city. It was built by Suleiman I between 1550 and 1557.\n\nThe Esma Sultan Mansion is a few blocks away at the intersection of two streets that run north-south across the old city; one of these streets is named after her (\"Esma Sultan Cadessi\"). She lived there with her husband, Murad III, who became sultan upon his father's death in 1595."
+    },
+    {
+        "id": "5a8e3ea95542995a26add48d",
+        "original_question": "The director of the romantic comedy \"Big Stone Gap\" is based in what New York city?",
+        "gold_decomposition": [
+            "Who directed the the romantic comedy 'Big Stone Gap'?",
+            "In what New York city is the director located?"
+        ],
+        "0_shot_decomposition": "Answer: New York City"
+    }
+]

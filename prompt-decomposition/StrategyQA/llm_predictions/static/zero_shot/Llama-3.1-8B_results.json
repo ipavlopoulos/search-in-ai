@@ -1,0 +1,59 @@
+[
+    {
+        "id": "7a0e419ffb6009156828",
+        "original_question": "Was ship that recovered Apollo 13 named after a World War II battle?",
+        "gold_decomposition": [
+            "What was the name of the ship that recovered Apollo 13 astronauts?",
+            "Is that ship’s name connected to a World War II battle?",
+            "If yes, what was the World War II battle it was named after?",
+            "Based on this, was the ship named after a World War II battle?"
+        ],
+        "0_shot_decomposition": "1. What was the name of the ship used in recovering the crew and spacecraft from Apollo 13?\n2. Is there a historical event known as a \"World War II battle\" associated with this name? \n3. Does the name of the recovery ship match the name of the World War II battle?"
+    },
+    {
+        "id": "427fe3968e32005479b9",
+        "original_question": "Is the tibia necessary to win the Stanley Cup?",
+        "gold_decomposition": [
+            "What is the tibia?",
+            "What role does the tibia play in playing hockey or sports in general?",
+            "Is having a functioning tibia essential for a player to participate effectively in hockey?",
+            "Can someone without a tibia still be part of a team that wins the Stanley Cup?",
+            "Based on this, is the tibia necessary to win the Stanley Cup?"
+        ],
+        "0_shot_decomposition": "1. What is required to win the Stanley Cup?\n2. Are there specific physical attributes needed for hockey players?\n3. Does having a healthy lower leg affect performance in hockey? \n4. Can someone with a missing or non-functional tibia still participate in hockey?\n5. Would losing one's tibia prevent them from playing professional hockey at a high level?"
+    },
+    {
+        "id": "06b9ed3f803e3d5796ed",
+        "original_question": "Could the Powepuff Girls make the background to the Azerbaijani flag?",
+        "gold_decomposition": [
+            "What does the Azerbaijani flag’s background look like?",
+            "IWho are the Powerpuff Girls, and what kind of artistic styles or backgrounds do they create?",
+            "Could the Powerpuff Girls (as characters or in their style) create or inspire a background similar to the Azerbaijani flag?",
+            "Are there any symbolic or design conflicts between the Powerpuff Girls style and the Azerbaijani flag’s elements?",
+            "Based on this, is it possible for the Powerpuff Girls to make the background to the Azerbaijani flag?"
+        ],
+        "0_shot_decomposition": "1. What is the design and composition of the current Azerbaijani flag?\n2. Are there specific colors associated with the Powerpuff Girls characters (Blossom, Bubbles, Buttercup)?\n3. Can these character-specific colors match the colors used in the Azerbaijani flag?\n4. Would it be feasible for Blossom, Bubbles, and Buttercup to fit within the existing dimensions of the Azerbaijani flag's background? \n5. Is there a particular style or theme commonly found on children's television shows like The Powerpuff Girls that could complement the traditional design elements often seen on national flags?"
+    },
+    {
+        "id": "5090f573b09ac3050824",
+        "original_question": "Are eagles and young bears both used as labels for skills-training youth groups?",
+        "gold_decomposition": [
+            "Are there youth groups named or labeled after 'Eagles' that focus on skills training?",
+            "Are there youth groups named or labeled after 'Young Bears' that focus on skills training?What kinds of skills or activities do these groups typically teach?",
+            "Based on this, are both 'Eagles' and 'Young Bears' commonly used as names for skills-training youth groups?"
+        ],
+        "0_shot_decomposition": "1 What is the term \"eagles\" commonly associated with in relation to youth?\n2 Is there a well-known organization called 'Eagle Scouts' focused on skill training for youths?\n3 In what context do people use the term \"young bear\" when referring to youth groups?\n4 Does the Boy Scouts of America have a program known as Bear rank which focuses on developing certain life-skills? \n5 Can you find evidence of organizations using either eagle or bear terms specifically for labeling their youth group programs?"
+    },
+    {
+        "id": "d912709b7341dd86ba39",
+        "original_question": "Would an Olympic athlete be tired out after running a mile?",
+        "gold_decomposition": [
+            "How physically fit are Olympic athletes generally?",
+            "What is the typical effort level for an Olympic athlete running a mile?",
+            "Does running a mile usually cause fatigue in athletes at this level?",
+            "Are there factors like pace, recovery, or event specialty that affect whether they’d be tired?",
+            "Based on this, would an Olympic athlete likely be tired out after running a mile?"
+        ],
+        "0_shot_decomposition": "1. What is the average pace for an Olympic-level runner in a one-mile race?\n2. How long does it take on average for an Olympic-level runner to complete a one-mile race at their typical speed?\n3. Does this time frame allow for adequate recovery between runs during training sessions? \n4. Are there specific physical and mental factors associated with being an Olympic athlete that could influence fatigue levels post-run? \n5. Can you describe what constitutes \"tired\" in terms of physiological responses such as heart rate, breathing rate, muscle soreness, etc.? \n6. Have studies been conducted specifically examining the level of exhaustion experienced by elite athletes following high-intensity sprint events like a one-mile run?"
+    }
+]

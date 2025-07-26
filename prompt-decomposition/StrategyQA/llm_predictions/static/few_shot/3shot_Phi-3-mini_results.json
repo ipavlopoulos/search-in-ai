@@ -1,0 +1,59 @@
+[
+    {
+        "id": "7a0e419ffb6009156828",
+        "original_question": "Was ship that recovered Apollo 13 named after a World War II battle?",
+        "gold_decomposition": [
+            "What was the name of the ship that recovered Apollo 13 astronauts?",
+            "Is that ship’s name connected to a World War II battle?",
+            "If yes, what was the World War II battle it was named after?",
+            "Based on this, was the ship named after a World War II battle?"
+        ],
+        "3_shot_decomposition": "Which spacecraft was used by NASA during mission APOLLO_20 (Apollo XIII)?  \nWas it called \"Endeavour\" when originally built before being repurposed as recovery vessel post WORLDWIDE CONFLICT I's end(World war two) ?   \nIf yes then what does its name signify historically/symbolic meaning related TO A BATTLE OF THE same era?(The Battle Of The Coral Sea).    \nDoesn’t “Liberty” have more historical significance than symbolism relating specifically To That particular conflict.(American Revolutionary Wars), hence why would they choose such title instead?.     \nConsidering all these factors , could you confirm if indeed NAMED AFTER THIS specific worldwide event OR NOT . If so which one exactly did inspire NAMING FORTHCOMENAMESCHEDULEDSPACECRAFT INSTALLATION AND OPERATEMENT DURINAPPLICATIONOFTHEMissionNAMEENDANGERDOESNOTEXISTASYETANDHAVENTHESEFAQREMAINUNKNOWNTOUSPEOPLESCOMMONQUESTIONSABOUTITALSO"
+    },
+    {
+        "id": "427fe3968e32005479b9",
+        "original_question": "Is the tibia necessary to win the Stanley Cup?",
+        "gold_decomposition": [
+            "What is the tibia?",
+            "What role does the tibia play in playing hockey or sports in general?",
+            "Is having a functioning tibia essential for a player to participate effectively in hockey?",
+            "Can someone without a tibia still be part of a team that wins the Stanley Cup?",
+            "Based on this, is the tibia necessary to win the Stanley Cup?"
+        ],
+        "3_shot_decomposition": "Who wins The Stanley Cup each year during NHL playoffs season (North American ice hockey)? \nDoes winning require participation by players who have played at least one game using both legs equally well as per standard sports rules/regulations regarding disability accommodation within professional leagues like NBA & NFL where such requirements exist but does it apply here too ? If yes then what would happen if someone couldn't use either leg due some injury etc., how could they still participate effectively enough so team doesn’t lose out because he cannot run fast anymore compared against opponents whose full mobility isn‘t compromised thereby giving advantage over less mobile ones even though physically fit otherwise considering factors including speed agility strength endurance tactics strategies positioning defensive offense skills execution timing coordination communication chemistry synergy cohesion leadership motivational influence psychological resilience mental toughness emotional intelligence empathy compassion understanding patience tolerance forgiveness humbleness respect dignity integrity honesty transparency accountability responsibility trustworthiness reliability dependability consistently performance excellence achievement success satisfaction fulfillment happiness contentment peaceful harmony balance equilibrium stability security safety health welfare environment sustainability ecol"
+    },
+    {
+        "id": "06b9ed3f803e3d5796ed",
+        "original_question": "Could the Powepuff Girls make the background to the Azerbaijani flag?",
+        "gold_decomposition": [
+            "What does the Azerbaijani flag’s background look like?",
+            "IWho are the Powerpuff Girls, and what kind of artistic styles or backgrounds do they create?",
+            "Could the Powerpuff Girls (as characters or in their style) create or inspire a background similar to the Azerbaijani flag?",
+            "Are there any symbolic or design conflicts between the Powerpuff Girls style and the Azerbaijani flag’s elements?",
+            "Based on this, is it possible for the Powerpuff Girls to make the background to the Azerbaijani flag?"
+        ],
+        "3_shot_decomposition": "Who created The Powerpuff Girls series characters like Blossom/Powderclouds Girl (Blush), Bubbles girl(Sugar) & Buttercup girls' character design inspiration sources including cultural elements such as national flags if applicable; 2017 animated TV show episode \"The Big Sister\" where they encounter various cultures during world tour - does it feature interaction related specifically towards creating designs inspired by different countries’ symbols especially focusing around Azeri culture which includes its historical emblem i.e., Flag Of Republic_ofAzerbaycan_(FlagOfRepublic)...etc.; Are these creators aware about international symbolism representation through artwork creation process while maintaining respectfulness toward originating country customary practices... etc ? If yes then how did those influences manifest themselves within each respective episodes storyline involving said nations mentioned above along side incorporation techniques used when depictions occur throughout entirety duration spanning multiple seasons across all three protagonists individual narratives respectively whilst also considering potential impact upon viewers understanding regarding crosscultural appreciation versus appropriative behavioral tendencies potentially arising due exposure via popular media outlets promoting diverse global perspectives inclusive yet mindfully balanced"
+    },
+    {
+        "id": "5090f573b09ac3050824",
+        "original_question": "Are eagles and young bears both used as labels for skills-training youth groups?",
+        "gold_decomposition": [
+            "Are there youth groups named or labeled after 'Eagles' that focus on skills training?",
+            "Are there youth groups named or labeled after 'Young Bears' that focus on skills training?What kinds of skills or activities do these groups typically teach?",
+            "Based on this, are both 'Eagles' and 'Young Bears' commonly used as names for skills-training youth groups?"
+        ],
+        "3_shot_decomposition": "Which organizations use 'eagle' namesakes/labels within skill training programs targeting younger individuals (youth)? \nDo these same entities also utilize bear imagery similarly named after animals like Ursus arctos horribilis ('grizzly') when referring specifically towards adolescent participants rather than adults involved directly under supervision by professionals such teachers etc., given they might have different requirements based upon age group demographics & developmental stages associated respectively pertaining educational psychology theories related childhood vs teenage years learning processes ? If so what would those specific examples look alike considering potential variations due cultural contextual factors influencing naming conventions across various geographical regions worldwide including but limited only North America where majority population resides predominantly speaking English language primarily using American spelling standards while maintain focus strictly excluding non - native speakers who may interpret differently owning personal biases stemming possibly originating foreign languages background potentially leading misinterpretation issues hence requiring clarification through additional research methods involving interviews conducted among relevant stakeholders namely educators specializing curriculums design focused explicitly catering toward said particular audience segment ensured thorough cross verifications performed against existing literature review findings thus enabling"
+    },
+    {
+        "id": "d912709b7341dd86ba39",
+        "original_question": "Would an Olympic athlete be tired out after running a mile?",
+        "gold_decomposition": [
+            "How physically fit are Olympic athletes generally?",
+            "What is the typical effort level for an Olympic athlete running a mile?",
+            "Does running a mile usually cause fatigue in athletes at this level?",
+            "Are there factors like pace, recovery, or event specialty that affect whether they’d be tired?",
+            "Based on this, would an Olympic athlete likely be tired out after running a mile?"
+        ],
+        "3_shot_decomposition": "How much physical exertion does it take typically require someone who isn't trained as athletes when they run one mile (1609 meters)? \nHow do professional training regimes affect endurance levels during activities like long distance runs such as marathons compared against nonprofessional individuals performing same activity under normal conditions ?  \nConsidering these factors , would even highly conditioned Olympians get exhausted while completing just about halfway through covering around two miles(3218m) at moderate pace . If yes then how many more minutes approximately will elapse before reaching complete exhaustion point assuming average speed maintained throughout journey till completion time arrives but considering fatigue factor due lack proper rest intervals etc also taking account individual variations among different people including age gender height weight body composition muscle mass percentage bone density flexibility range mobility joint health cardio respiratory system efficiency metabolic rate thermoregulation sweat production hydration electrolyte balance nutrient absorption digestion assimilation energy storage utilization recovery period duration intensity level workout frequency regularity consistency adherence motivational drive psychological resilience mental toughness emotional stability stress management coping mechanisms problem solving skills"
+    }
+]

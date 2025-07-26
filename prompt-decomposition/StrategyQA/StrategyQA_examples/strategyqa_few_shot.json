@@ -1,0 +1,73 @@
+[
+    {
+        "term": "Mixed martial arts",
+        "description": "full contact combat sport",
+        "question": "Is Mixed martial arts totally original from Roman Colosseum games?",
+        "answer": false,
+        "facts": "Mixed Martial arts in the UFC takes place in an enclosed structure called The Octagon. The Roman Colosseum games were fought in enclosed arenas where combatants would fight until the last man was standing. Mixed martial arts contests are stopped when one of the combatants is incapacitated. The Roman Colosseum was performed in front of crowds that numbered in the tens of thousands. Over 56,000 people attended UFC 193.",
+        "id": "4fd64bb6ce5b78ab20b6",
+        "decomposition": [
+            "What is Mixed Martial Arts?",
+            "What were the Roman Colosseum games?",
+            "Are there similarities between MMA and Roman Colosseum games?",
+            "Are there differences between MMA and Roman Colosseum games?",
+            "Based on similarities and differences, is MMA totally original from Roman Colosseum games?"
+        ]
+    },
+    {
+        "term": "Cuisine of Hawaii",
+        "description": "Cuisine of Hawaii",
+        "question": "Is the cuisine of Hawaii suitable for a vegan?",
+        "answer": false,
+        "facts": " Per capita, Hawaiians are the second largest consumers of Spam in the world, right behind Guam. Kalua pig is another famous cuisine of Hawaii. Fish and seafood are also very common in Hawaii.",
+        "id": "f378f856bdaff39cdfa3",
+        "decomposition": [
+            "What defines vegan cuisine?",
+            "What are the main components of traditional Hawaiian cuisine?",
+            "Which traditional Hawaiian dishes or ingredients are naturally vegan or can be made vegan?",
+            "Are there common Hawaiian dishes that contain animal products making them unsuitable for vegans?",
+            "Based on this, is the overall cuisine of Hawaii suitable or adaptable for a vegan diet?"
+        ]
+    },
+    {
+        "term": "Giant squid",
+        "description": "Deep-ocean dwelling squid in the family Architeuthidae",
+        "question": "Is capturing giant squid in natural habitat impossible with no gear?",
+        "answer": true,
+        "facts": "Giant squids live between 1,000 and 3,800 feet in the ocean. With a dry dive suit, a scuba tank, gloves, and so on, divers can reach depths of around 1000 feet. Without scuba gear people can safely dive a maximum of 60 feet without feeling the negative risks associated with diving beyond the limit.",
+        "id": "4e1b65e81ec09397b26e",
+        "decomposition": [
+            "Can giant squid be captured in their natural habitat?",
+            "What equipment or gear is usually needed to capture a giant squid?",
+            "Is capturing giant squid without gear impossible?"
+        ]
+    },
+    {
+        "term": "Royal Air Force",
+        "description": "Aerial warfare service branch of the British Armed Forces",
+        "question": "Did the Royal Air Force fight in the Boxer Rebellion?",
+        "answer": false,
+        "facts": "The Boxer Rebellion took place from 1899–1901 The Royal Air Force was formed on 1 April 1918",
+        "id": "6d14da7484991bf588cf",
+        "decomposition": [
+            "When did the Boxer Rebellion happen",
+            "When was the Royal Air Force (RAF) established?",
+            "Was the RAF active during the time of the Boxer Rebellion?",
+            "Based on the timelines, did the RAF participate in the Boxer Rebellion?"
+        ]
+    },
+    {
+        "term": "Eggplant",
+        "description": "plant species Solanum melongena",
+        "question": "Would someone in Mumbai refer to Solanum melongena as an eggplant?",
+        "answer": false,
+        "facts": "Mumbia is a city in India. India is a country located in South Asia. In South Asia the Solanum melongena plant is referred to as a brinjal.",
+        "id": "3d01af5db202bc7d33b9",
+        "decomposition": [
+            "What is Solanum melongena commonly called in general English?",
+            "What are the common local names for Solanum melongena in Mumbai or India?",
+            "Is the term “eggplant” commonly used or understood by people in Mumbai?",
+            "Based on local language and culture, would “eggplant” be a usual reference in Mumbai?"
+        ]
+    }
+]

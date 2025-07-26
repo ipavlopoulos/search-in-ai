@@ -1,0 +1,32 @@
+[
+    {
+        "id": "CWQ_dev_WebQTest-1011_c0be4f76a5397ba6d0d06f53905e504b",
+        "original_question": "What Tibetan speaking countries have a population of less than 993885000?",
+        "gold_decomposition": "return Tibetan speaking countries\nreturn #1 that have a population of less than 993885000",
+        "3_shot_decomposition": "Return Tibetanspeaking Country with Population Less Than  the Given Number\n\nThe text does not specify which composition or artist information therefore I cannot complete this query."
+    },
+    {
+        "id": "CWQ_dev_WebQTest-1011_edc922a0faa1e47614eb7e6effe2d1a1",
+        "original_question": "What country uses Tibetan that has Anren Town , Sichuan?",
+        "gold_decomposition": "return the country that uses Tibetan\nreturn #1 that Anren Town , Sichuan is in",
+        "3_shot_decomposition": "Return Country using Tibetans language with an Ren town.\n\nWhich county use Tibtanean as their official Language which have a city called Arnen  Sichuan Province ?"
+    },
+    {
+        "id": "CWQ_dev_WebQTest-1036_0b5333d98ef87008aa02d1fbc1554b05",
+        "original_question": "What is the most common language in the country where Jamaican English is spoken?",
+        "gold_decomposition": "return the country where Jamaican English is spoken\nreturn what is the most common language in #1",
+        "3_shot_decomposition": "Return  the answer to this question:\n\nThe majority languages are Hindi-Urdu (official) with more than half its speakers living outside India; other major Indian Languages include Bengali , Telugu & Marathi ."
+    },
+    {
+        "id": "CWQ_dev_WebQTest-1036_4e73509d14bda62590480b655eee8751",
+        "original_question": "What language is spoken in the country that uses the Jamacian Dollar?",
+        "gold_decomposition": "return the country that uses the Jamacian Dollar\nreturn the language spoken in #1",
+        "3_shot_decomposition": "Return Language Spoken In Country That Uses Jamaican Dollars\n\nThe answer to this question would be English"
+    },
+    {
+        "id": "CWQ_dev_WebQTest-1081_1ecabf57357cb4abd089a4af52154854",
+        "original_question": "Where did George Washington Carver go to school with the largest number of postgraduates?",
+        "gold_decomposition": "return schools that George Washington Carver go to\nreturn postgraduates of #1\nreturn the number of #2 for each #1\nreturn #1 where #3 is the largest",
+        "3_shot_decomposition": "Return where Geroge Washinton Carver went  to School With The Largest Number Of Post Graduates\n\nThe text does not provide information about this question therefore I cannot answer it"
+    }
+]
