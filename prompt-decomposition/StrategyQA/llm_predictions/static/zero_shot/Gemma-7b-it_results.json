@@ -8,7 +8,7 @@
             "If yes, what was the World War II battle it was named after?",
             "Based on this, was the ship named after a World War II battle?"
         ],
-        "0_shot_decomposition": "Sure! Here is your breakdown for this question in separate steps below :\n\n\n**Step one:** Identify whether there was indeed \"ship\" associated with NASA's mission on Appolo  20 and its name if available .   \n\n\n\n ** Step two**: If such vessel exists , determine weather it has been specifically identified as being related directly either by association through naming convention OR historical connection (eg involvement) within WWII battles"
+        "0_shot_decomposition": "Sure! Here is your decomposed question:\n\n**Original Question:** Was Ship That Recovered From The Ocean After Recovery Of A Satellite In Space Named For An Operation Overlord Battle During WW2 ?\n\n\n* **Sub Questions**:  \n\n\n\n   # Is there evidence suggesting this satellite was related with NASA's recovery operation forApollo mission #A and its name relates directly back tothe war time battles in Europe during WWII specifically \"Operation OVERLORD\"?"
     },
     {
         "id": "427fe3968e32005479b9",
@@ -20,7 +20,7 @@
             "Can someone without a tibia still be part of a team that wins the Stanley Cup?",
             "Based on this, is the tibia necessary to win the Stanley Cup?"
         ],
-        "0_shot_decomposition": "1) Does having tibias increase your chances  of winning The Stanly cup ? \n\n\n2 ) Are there historical examples where teams have won without their Tibias"
+        "0_shot_decomposition": "1) Does having strong legs increase your chances  of winning \n\n2 ) Is leg strength directly related with success in hockey games ?"
     },
     {
         "id": "06b9ed3f803e3d5796ed",
@@ -32,7 +32,7 @@
             "Are there any symbolic or design conflicts between the Powerpuff Girls style and the Azerbaijani flag’s elements?",
             "Based on this, is it possible for the Powerpuff Girls to make the background to the Azerbaijani flag?"
         ],
-        "0_shot_decomposition": "1) What is in what color does  the Azerbaijanian Flag have on its backgound ? \n\n\n2 ) Does The POWEPUFF girls specialize specifically with painting backgrounds for flags from different countries and regions around world , including ones like this one related directly With AZERbaijanan nationality"
+        "0_shot_decomposition": "1) Can you describe what colors appear in  the Azerbaijan Flag's design and their significance within its context ?\n\n2 ) Does The POWEPUFF girls have capabilities for manipulating backgrounds on flags , specifically with regards To those pertaining   to different countries like Armenia & Turkey as well ??"
     },
     {
         "id": "5090f573b09ac3050824",
@@ -42,7 +42,7 @@
             "Are there youth groups named or labeled after 'Young Bears' that focus on skills training?What kinds of skills or activities do these groups typically teach?",
             "Based on this, are both 'Eagles' and 'Young Bears' commonly used as names for skills-training youth groups?"
         ],
-        "0_shot_decomposition": "1) Is \"eagles\" commonly associated with skill training programs specifically targeting youths in your context/universe ? \n\n\n2 ) Does  “young bear” also serve this purpose within such program contexts"
+        "0_shot_decomposition": "1) Are \"eagles\" commonly associated with skill training programs designed specifically  for youths in general ?\n\n2 ) Does “young bear” also serve similar purpose when referring   to such program targeting younger individuals"
     },
     {
         "id": "d912709b7341dd86ba39",
@@ -54,6 +54,6 @@
             "Are there factors like pace, recovery, or event specialty that affect whether they’d be tired?",
             "Based on this, would an Olympic athlete likely be tired out after running a mile?"
         ],
-        "0_shot_decomposition": "1) How much energy does it take for someone with average fitness level  to run one miles at moderate pace in minutes and seconds (e g., 5 minute per kilometer)?\n\n\n2 ) Does endurance training significantly reduce fatigue experienced during exercise compared regular physical activity levels ?"
+        "0_shot_decomposition": "1) Is endurance stamina required for sprinting in general and specifically over one lap (mile)?\n\n2). If yes from 0# above then does fatigue occur during such sprint races at this distance/speed level as seen by elite athletes like Usain Bolt ?"
     }
 ]

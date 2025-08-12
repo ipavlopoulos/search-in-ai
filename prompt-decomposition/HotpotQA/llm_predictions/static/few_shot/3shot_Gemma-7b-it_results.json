@@ -7,7 +7,7 @@
             "What nationality Ed Wood had?",
             "Was the nationality the same?"
         ],
-        "3_shot_decomposition": "What nationalities were Scotter Derronickn  and Edward Woood respectively. \n\n\nPlease provide me answers to these questions so I can complete my project on magazines history"
+        "3_shot_decomposition": "What nationalities were Scottie Derronickn  and Edward Woood from respectively. \n\nPlease provide more information to answer this question"
     },
     {
         "id": "5a8c7595554299585d9e36b6",
@@ -16,7 +16,7 @@
             "Who potrayed Caroliss Archer in the film Kiss and Tell?",
             "What governement position was held by her?"
         ],
-        "3_shot_decomposition": "What political party does she belong to as well. \n\n\nIn which movie series are actors Ryan Reynolds & Scarlett Johansson involved together at this point (excluding Captain America)?"
+        "3_shot_decomposition": "In which movie role does actress Amanda Seyfried have her most significant box-office success to date as an actor/actress at this point time.\n\nPlease provide me more information if you want help answering these questions: \n\n\n* **Arthur’SMagazine:** What year it began publication  and its general topic focus (e g fashion , lifestyle etc.)   \n\n\n\n ***First For Woman**: Same details like above"
     },
     {
         "id": "5a85ea095542994775f606a8",
@@ -26,7 +26,7 @@
             "Is this book series classified as science fantasy and written for young adults?",
             "Is this series narrated in the first person?"
         ],
-        "3_shot_decomposition": "What title does this bookseries have. \t  It includes both main novel chapters as well short story content from other sources such novels by different authors but all within universe continuity established through shared lore references throughout each text work to date back at least twenty years prior on average across various mediums including tabletop games which predate most if not every single one listed below except possibly _Dune_.\n\n\nPlease answer these questions based upon your knowledge base so I can complete my project successfully!"
+        "3_shot_decomposition": "In which sci-fi book universe does this story take place within as well. \n\nPlease provide more information to answer these questions so I can give you an accurate response:  the text provided above doesn’t contain enough context therefore it impossible me complete those queries accurately"
     },
     {
         "id": "5adbf0a255429947ff17385a",
@@ -36,7 +36,7 @@
             "Where is Laleli Mosque located?What is Esma Sultan Mansion?",
             "Where is Esma Sultan Mansion located?Are they located in the same neighborhood?"
         ],
-        "3_shot_decomposition": "Are they situated within close proximity to each other on an island as well ?"
+        "3_shot_decomposition": "Whether they are situated within close proximity to each other. Are you able provide more information on their locations so I can answer this question accurately.?"
     },
     {
         "id": "5a8e3ea95542995a26add48d",
@@ -45,6 +45,6 @@
             "Who directed the the romantic comedy 'Big Stone Gap'?",
             "In what New York city is the director located?"
         ],
-        "3_shot_decomposition": "What town does Bigstone gap take place on Long Island NY.  It takes its inspiration from which real village/town there as well.? \n\n\nIn addition to answering these questions you will need answers like this below;\n\n\n\n**Answer:**   Arthur’S Magzine came out before FIRST FOR WOMEN magzaine by one year therefore it had been established at an eariler date than FIrst For Woman"
+        "3_shot_decomposition": "What town are you referring to as being home base by Big stone gap movie Director Mark Waters."
     }
 ]

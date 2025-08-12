@@ -7,7 +7,7 @@
             "What nationality Ed Wood had?",
             "Was the nationality the same?"
         ],
-        "0_shot_decomposition": "1) Was Scott Derrickson born in the United States?\n2) Is there any information available on his parents' nationalities?\n3) Did he have siblings growing up?\n4) What is his current residence?\n5) When did he start working as a filmmaker?\n6) Which movies has he directed so far?\n7) How many films has he produced?\n8) Who was his first directorial credit?\n9) Has he ever won awards for his work?\n10) Are there any notable collaborators with whom he worked before?\n\nAnswer: No, Scott Derrickson and Ed Wood were both American citizens."
+        "0_shot_decomposition": "No, Scott Derrickson is American while Ed Wood was born in Germany but lived most of his life in the United States."
     },
     {
         "id": "5a8c7595554299585d9e36b6",
@@ -16,7 +16,7 @@
             "Who potrayed Caroliss Archer in the film Kiss and Tell?",
             "What governement position was held by her?"
         ],
-        "0_shot_decomposition": "1) Who played the role of Corliss Archer in the movie \"Kiss and Tell\"?\n2) In what year did she hold her current position as a member of Congress from California's 34th district?\n3) How many terms has she served in congress?\n4) Which party does she belong to?\n5) When did she first enter politics?\n6) Where is she currently based?\n7) Is there any information available on her education background?\n8) Has she ever been married? If so, when and with whom?\n9) Does she have children? If yes, how old are they?\n10) What is her political stance towards abortion rights?\n\nThese sub-questions help narrow down your search for the correct answer. The order matters here because you want to present each question in its own section, starting with the most general one (e.g., \"Who played the role of Corliss Archer\") and ending with the most specific one (e.g., \"When did she first enter politics\"). This helps keep things organized and easy to follow."
+        "0_shot_decomposition": "The woman who portrayed Corliss Archer in the film \"Kiss and Tell\" is not mentioned in the given text material. The question does not specify which government position she held. Please revise your question accordingly."
     },
     {
         "id": "5a85ea095542994775f606a8",
@@ -26,7 +26,7 @@
             "Is this book series classified as science fantasy and written for young adults?",
             "Is this series narrated in the first person?"
         ],
-        "0_shot_decomposition": "1) Which book(s) is/are the companion novels for this series?\n2) Who are some of the enslaved worlds featured in these books?\n3) How do the alien species described in these books differ from those depicted in previous volumes?\n4) Are there any recurring characters or themes throughout the series?\n5) Is there a specific time period covered by each volume, and if so, how does it affect the storyline?\n6) Can you summarize the main plot points and conflicts presented in the series as a whole?\n7) Does the author use any literary devices such as symbolism or metaphor to enhance the overall reading experience?\n8) If the series includes multiple volumes, can you give examples of which ones cover different eras or locations within the same universe?\n9) In what ways does the setting of the enslaved worlds and alien species contribute to the overall tone and mood of the series?\n10) Could you describe the writing style used in the companion novels, including any unique features or techniques employed?"
+        "0_shot_decomposition": "I do not have access to specific information about a particular book series. However, here's some general information on how such a series might work:\n\na science fantasy young adult series could follow a group of individuals who find themselves stranded on an unknown planet with no memory of their past. The protagonist(s) would then embark on a journey to explore this new world, encountering various aliens, races, and cultures along the way. These encounters would be interspersed with flashbacks from their own lives, providing insight into their backstories and motivations for being lost on this strange new planet. As they delve deeper into these parallel universes, each story would culminate in a climactic battle between the protagonists and one or more powerful enemies. The companion books would serve as additional background material and character development for the main characters, while also exploring the larger themes and ideas of the overall series."
     },
     {
         "id": "5adbf0a255429947ff17385a",
@@ -36,7 +36,7 @@
             "Where is Laleli Mosque located?What is Esma Sultan Mansion?",
             "Where is Esma Sultan Mansion located?Are they located in the same neighborhood?"
         ],
-        "0_shot_decomposition": "1) Is there a difference between the Laleli Mosque and Esma Sultan Mansion?\n2) Which one is closer to the Laleli Mosque?\n3) How far away is the Esma Sultan Mansion from the Laleli Mosque?\n4) What is the distance between the two mosques on foot?\n5) Can you walk from the Laleli Mosque to the Esma Sultan Mansion by foot?\n6) If yes, how long would it take to do so?\n7) Would you prefer walking from the Laleli Mosque to the Esma Sultan Mansion by car or public transportation?\n8) If driving, what's your estimated travel time?\n9) If taking public transportation, which bus route would you recommend?\n10) Have you taken this route before? If yes, can you tell me about your experience?\n\nOutput: The sub-questions are:\n1) Yes, they are both located within the same neighborhood (Laleli).\n2) No, the Esma Sultan Mansion is further away than the Laleli Mosque. It's approximately 1 km away.\n3) Yes, the distance between"
+        "0_shot_decomposition": "Yes, according to your given text material, both the Laleli Mosque and Esma Sultan Mansion are located in the same neighborhood (Kazan)."
     },
     {
         "id": "5a8e3ea95542995a26add48d",
@@ -45,6 +45,6 @@
             "Who directed the the romantic comedy 'Big Stone Gap'?",
             "In what New York city is the director located?"
         ],
-        "0_shot_decomposition": "1) Is there information provided about where the filming took place for this movie?\n2) If yes, please specify which location was used as the setting for the production.\n3) What is the name and address of the studio or company responsible for producing this project?\n4) Who were some of the actors involved in the cast of Big Stone Gap?\n5) When did the film premiere at theaters?\n6) How many times has it been shown on television since its release date?\n7) Which awards have the film received so far?\n8) Has the film grossed more than $X million worldwide?\n9) Did the film receive critical acclaim from critics?\n10) Are there any plans for future releases or remakes of Big Stone Gap?\n\nOverall, your output will consist of only the sub-questions related to the director's location and involvement with the production. No additional details or explanations will be included."
+        "0_shot_decomposition": "The director of the romantic comedy \"Big Stone Gap\" is based in the fictional town of Big Stone Gap located in Virginia."
     }
 ]

@@ -1,0 +1,59 @@
+[
+    {
+        "id": "7a0e419ffb6009156828",
+        "original_question": "Was ship that recovered Apollo 13 named after a World War II battle?",
+        "gold_decomposition": [
+            "What was the name of the ship that recovered Apollo 13 astronauts?",
+            "Is that ship’s name connected to a World War II battle?",
+            "If yes, what was the World War II battle it was named after?",
+            "Based on this, was the ship named after a World War II battle?"
+        ],
+        "3_shot_decomposition": "Sure. Here's the answer to your questions:\n\n**About the Royal Air Force (RAF):**\n\n* The Royal Air Force (RAF) was established in 1946 by King George VI of the United Kingdom.\n* It is the world's largest air force with over 180 aircraft and personnel.\n* The RAF played a significant role in World War II, dropping thousands of bombs and participating in numerous aerial battles.\n\n**About the Boxer Rebellion:**\n\n* The Boxer Rebellion took place in South Africa from 1912 to 1914 during World War I.\n* It was a rebellion against British colonial rule and was led by Black nationalist leaders.\n* The rebellion failed, but it marked a major turning point in the struggle for racial equality in South Africa.\n\n**Regarding the question about the RAF and the Boxer Rebellion:**\n\n* There is no evidence to suggest that the RAF participated directly in the Boxer Rebellion.\n* However, the rebellion did have some support from the British military, including some pilots who fought on the side of the rebels.\n\n**Conclusion:**\n\nThe Royal Air Force (RAF) was not involved in the Boxer Rebellion."
+    },
+    {
+        "id": "427fe3968e32005479b9",
+        "original_question": "Is the tibia necessary to win the Stanley Cup?",
+        "gold_decomposition": [
+            "What is the tibia?",
+            "What role does the tibia play in playing hockey or sports in general?",
+            "Is having a functioning tibia essential for a player to participate effectively in hockey?",
+            "Can someone without a tibia still be part of a team that wins the Stanley Cup?",
+            "Based on this, is the tibia necessary to win the Stanley Cup?"
+        ],
+        "3_shot_decomposition": "The context does not provide information about the tibia, so I cannot answer this question from the provided context."
+    },
+    {
+        "id": "06b9ed3f803e3d5796ed",
+        "original_question": "Could the Powepuff Girls make the background to the Azerbaijani flag?",
+        "gold_decomposition": [
+            "What does the Azerbaijani flag’s background look like?",
+            "IWho are the Powerpuff Girls, and what kind of artistic styles or backgrounds do they create?",
+            "Could the Powerpuff Girls (as characters or in their style) create or inspire a background similar to the Azerbaijani flag?",
+            "Are there any symbolic or design conflicts between the Powerpuff Girls style and the Azerbaijani flag’s elements?",
+            "Based on this, is it possible for the Powerpuff Girls to make the background to the Azerbaijani flag?"
+        ],
+        "3_shot_decomposition": "The context does not provide any information about the Powepuff Girls or their involvement in the Azerbaijani flag. Therefore, I cannot answer this question from the provided context."
+    },
+    {
+        "id": "5090f573b09ac3050824",
+        "original_question": "Are eagles and young bears both used as labels for skills-training youth groups?",
+        "gold_decomposition": [
+            "Are there youth groups named or labeled after 'Eagles' that focus on skills training?",
+            "Are there youth groups named or labeled after 'Young Bears' that focus on skills training?What kinds of skills or activities do these groups typically teach?",
+            "Based on this, are both 'Eagles' and 'Young Bears' commonly used as names for skills-training youth groups?"
+        ],
+        "3_shot_decomposition": "Do eagles and young bears have similar skills?\nWhat are the differences between eagles and young bears?\nAre eagles and young bears the same species?\nAre eagles and young bears the same age?\nAre eagles and young bears the same gender?"
+    },
+    {
+        "id": "d912709b7341dd86ba39",
+        "original_question": "Would an Olympic athlete be tired out after running a mile?",
+        "gold_decomposition": [
+            "How physically fit are Olympic athletes generally?",
+            "What is the typical effort level for an Olympic athlete running a mile?",
+            "Does running a mile usually cause fatigue in athletes at this level?",
+            "Are there factors like pace, recovery, or event specialty that affect whether they’d be tired?",
+            "Based on this, would an Olympic athlete likely be tired out after running a mile?"
+        ],
+        "3_shot_decomposition": "How long and how hard is a mile run?\nWhat factors contribute to an athlete's fatigue during a mile run?\nHow does the intensity and duration of a mile run compare to other forms of exercise?\nAre there any specific training methods or strategies that athletes use to manage fatigue during a mile run?\nConsidering these factors, would an Olympic athlete be likely to be exhausted after running a mile?"
+    }
+]

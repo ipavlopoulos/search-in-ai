@@ -7,7 +7,7 @@
             "What nationality Ed Wood had?",
             "Was the nationality the same?"
         ],
-        "0_shot_decomposition": "Answer:\nNo, they were not. They are both American directors."
+        "0_shot_decomposition": "What is a \"societé\" in French?\n\nThe word Société comes from Latin socius, which means “companion” or “partner”. In English it can mean either an association (as in The Royal Society) or a company."
     },
     {
         "id": "5a8c7595554299585d9e36b6",
@@ -16,7 +16,7 @@
             "Who potrayed Caroliss Archer in the film Kiss and Tell?",
             "What governement position was held by her?"
         ],
-        "0_shot_decomposition": "Answer: Corliss Archer's mother, Mrs. Archer.\n\nExplanation: The movie \"Kiss and Tell\" is a 1950 American comedy-drama film directed by Don Weis and starring Debbie Reynolds as an aspiring actress named Mary Ann Taylor. It also stars Jeff Richards, Robert Strauss, and Jeanne Crain."
+        "0_shot_decomposition": "Which of these is not a type of political party?\n\nWhich of these is an example of a nonpartisan election?"
     },
     {
         "id": "5a85ea095542994775f606a8",
@@ -26,7 +26,7 @@
             "Is this book series classified as science fantasy and written for young adults?",
             "Is this series narrated in the first person?"
         ],
-        "0_shot_decomposition": "Answer 1:\n\nThe Wheel Of Time by Robert Jordan.\n\nIt's written from the point-of-view of one character (Rand al'Thor) but there are other characters who have their own storylines. The main storyline is about Rand trying to save his world from destruction at the hands of an evil force called \"the Dark One\".\n\nThere are also several side-stories that follow different people as they try to survive or escape the war between good and evil. These include Moiraine Damodred, Egwene Al'Vere, Nynaeve al'Meara, Perrin Aybara, Mat Cauthon, Elayne Trakand, Aviendha, Min Farshaw, Lan Mandragoran, Loial, Thom Merrilin, Faile Bashere, Birgitte Whitchester, Egeanin, Galad Damodred, Aram, Verin Mathwin, Demandred, Sammael, Rahvin, Moghedien, Ishamael, Graendal, Myrelle Shara, Lamanar, Mordeth, Seanchan, Suroth, Aes Sedai, High Lady Salidar, High Lord Amathera, High Lady Marigan, High Lady Tigrane"
+        "0_shot_decomposition": "What is the name of this type of story where two people meet for the first time but have known each other before?\n\nWhat was the title of that 1980s movie about an astronaut who gets trapped on Mars with his robot dog?"
     },
     {
         "id": "5adbf0a255429947ff17385a",
@@ -36,7 +36,7 @@
             "Where is Laleli Mosque located?What is Esma Sultan Mansion?",
             "Where is Esma Sultan Mansion located?Are they located in the same neighborhood?"
         ],
-        "0_shot_decomposition": "Answer: No, they are not. The Laleli Mosque is located on the corner of the street called \"Laleli Caddesi\" (literally meaning \"Rose Street\") which runs from east to west through the center of Istanbul's old city. It was built by Suleiman I between 1550 and 1557.\n\nThe Esma Sultan Mansion is a few blocks away at the intersection of two streets that run north-south across the old city; one of these streets is named after her (\"Esma Sultan Cadessi\"). She lived there with her husband, Murad III, who became sultan upon his father's death in 1595."
+        "0_shot_decomposition": "Is there a mosque near the Istanbul Modern Museum?\n\n# 1. Introduction\nThe city of Istanbul is one of the most visited cities by tourists from all over the world, with its rich history and culture as well as its modern architecture. The historical part of this city has been declared as World Heritage Site by UNESCO since 1985 [1]. In addition to that, it also hosts many museums such as the Istanbul Archaeology Museums (Istanbul Arkeoloji Müzesi), Topkapi Palace Museum (Topkapı Sarayı Müzesi) or Pera Museum (Pera Müzesi). These are just some examples among hundreds of other attractions which can be found within the boundaries of the city.\n\nIn order to make your trip more enjoyable you may want to know where these places are exactly located so that you don't get lost while walking around them! This project aims at providing information about different locations including their names, addresses, phone numbers etc., through an interactive map application developed using Google Maps API v3 for Android platform.\n## #2. Methodology\nThis section describes how we have approached our problem statement above: \"How do I find out what's nearby me?\" We will first explain why we chose Google Map API instead of another mapping service"
     },
     {
         "id": "5a8e3ea95542995a26add48d",
@@ -45,6 +45,6 @@
             "Who directed the the romantic comedy 'Big Stone Gap'?",
             "In what New York city is the director located?"
         ],
-        "0_shot_decomposition": "Answer: New York City"
+        "0_shot_decomposition": "What was the name of the first computer virus?\n\nThe 2014 film \"Interstellar\" features a character named TARS. What does this stand for?"
     }
 ]

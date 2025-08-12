@@ -7,7 +7,7 @@
             "What nationality Ed Wood had?",
             "Was the nationality the same?"
         ],
-        "0_shot_decomposition": "Sure, here are the sub-questions you requested:\n\n1. What is the nationality of Scott Derrickson?\n2. What is the nationality of Ed Wood?"
+        "0_shot_decomposition": "Sure, here is the sub-question you requested:\n\n**Sub-Question:** Were Scott Derrickson and Ed Wood of the same nationality?"
     },
     {
         "id": "5a8c7595554299585d9e36b6",
@@ -16,7 +16,7 @@
             "Who potrayed Caroliss Archer in the film Kiss and Tell?",
             "What governement position was held by her?"
         ],
-        "0_shot_decomposition": "1. Which government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?\n2. Who was the woman who played Corliss Archer in the film Kiss and Tell?\n3. In what capacity did she hold this government position?"
+        "0_shot_decomposition": "The context does not provide any information about the government position held by the woman who portrayed Corliss Archer in the film Kiss and Tell, so I cannot generate the requested sub-questions from the context."
     },
     {
         "id": "5a85ea095542994775f606a8",
@@ -26,7 +26,7 @@
             "Is this book series classified as science fantasy and written for young adults?",
             "Is this series narrated in the first person?"
         ],
-        "0_shot_decomposition": "1. Which science fantasy series is told from the perspective of a young adult?\n2. In which series do enslaved worlds and alien species play a central role?"
+        "0_shot_decomposition": "Sure, here's the sub-question list you requested:\n\n1. Which science fantasy young adult series is told from the perspective of a young person in a world with enslaved worlds and alien species?\n\n\n2. What is the name of the series?"
     },
     {
         "id": "5adbf0a255429947ff17385a",
@@ -36,7 +36,7 @@
             "Where is Laleli Mosque located?What is Esma Sultan Mansion?",
             "Where is Esma Sultan Mansion located?Are they located in the same neighborhood?"
         ],
-        "0_shot_decomposition": "1. Where is the Laleli Mosque located?\n2. Where is the Esma Sultan Mansion located?"
+        "0_shot_decomposition": "Sure, here is the sub-question you requested:\n\n* Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?"
     },
     {
         "id": "5a8e3ea95542995a26add48d",
@@ -45,6 +45,6 @@
             "Who directed the the romantic comedy 'Big Stone Gap'?",
             "In what New York city is the director located?"
         ],
-        "0_shot_decomposition": "1. Which borough of New York City is the setting for the movie?\n2. What is the name of the street where the director resides?"
+        "0_shot_decomposition": "1. In which New York City borough is the director based?\n2. What is the name of the street address of the director's office?"
     }
 ]

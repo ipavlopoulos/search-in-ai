@@ -16,7 +16,7 @@
             "Who potrayed Caroliss Archer in the film Kiss and Tell?",
             "What governement position was held by her?"
         ],
-        "0_shot_decomposition": "1. Who played the role of Corliss Archer in the film \"Kiss and Tell\"?\n2. What is the full name of the actress who portrayed Corliss Archer?\n3. Has this actress ever held a government position?\n4. In what country did she hold this government position?\n5. At what level of government did she serve (local, state, federal)?\n6. What was her specific job title or role within the government?"
+        "0_shot_decomposition": "1. Who played the role of Corliss Archer in the film \"Kiss and Tell\"?\n2. What is the given name of the actress who portrayed Corliss Archer?\n3. What political office did this particular actress hold within the US Government?"
     },
     {
         "id": "5a85ea095542994775f606a8",
@@ -26,7 +26,7 @@
             "Is this book series classified as science fantasy and written for young adults?",
             "Is this series narrated in the first person?"
         ],
-        "0_shot_decomposition": "1. Which young adult science fiction series is written in the first person perspective?\n2. Does this series have companion books related to it?\n3. What themes do these companion books explore?\n4. In what way are the worlds in these companion books described as \"enslaved\"?\n5. Which alien species are featured prominently in these companion books?"
+        "0_shot_decomposition": "1. Which science fiction young adult series is written in the first person perspective?\n2. What is the name of the science fantasy series with companion books?\n3. Are these companion books narrated from the first person point of view?\n4. In what genre do these books fall under (science fiction or fantasy)?\n5. What is the theme of the companion books regarding enslaved worlds and alien species?"
     },
     {
         "id": "5adbf0a255429947ff17385a",
@@ -36,7 +36,7 @@
             "Where is Laleli Mosque located?What is Esma Sultan Mansion?",
             "Where is Esma Sultan Mansion located?Are they located in the same neighborhood?"
         ],
-        "0_shot_decomposition": "1. Where is the Laleli Mosque located?\n2. And where is the Esma Sultan Mansion situated?\n3. Do both the Laleli Mosque and Esma Sultan Mansion belong to the same neighborhood?"
+        "0_shot_decomposition": "1. Which city do the Laleli Mosque and Esma Sultan Mansion belong to?\n2. In which neighborhood is the Laleli Mosque located?\n3. In which neighborhood is the Esma Sultan Mansion located?"
     },
     {
         "id": "5a8e3ea95542995a26add48d",
@@ -45,6 +45,6 @@
             "Who directed the the romantic comedy 'Big Stone Gap'?",
             "In what New York city is the director located?"
         ],
-        "0_shot_decomposition": "1. Who is the director of the romantic comedy \"Big Stone Gap\"?\n2. In which city does the director of \"Big Stone Gap\" reside in New York?"
+        "0_shot_decomposition": "1. Who is the director of the movie \"Big Stone Gap\"?\n2. In which city does this director reside in New York?"
     }
 ]

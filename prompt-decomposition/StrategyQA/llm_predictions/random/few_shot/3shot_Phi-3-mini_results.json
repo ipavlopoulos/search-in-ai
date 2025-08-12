@@ -1,0 +1,59 @@
+[
+    {
+        "id": "7a0e419ffb6009156828",
+        "original_question": "Was ship that recovered Apollo 13 named after a World War II battle?",
+        "gold_decomposition": [
+            "What was the name of the ship that recovered Apollo 13 astronauts?",
+            "Is that ship’s name connected to a World War II battle?",
+            "If yes, what was the World War II battle it was named after?",
+            "Based on this, was the ship named after a World War II battle?"
+        ],
+        "3_shot_decomposition": "Which spacecraft was responsible for recovering astronauts during mission Apolo 13'limplicitly asking about which specific vessel retrieved them safely back home following this particular incident) ? If so: what historical event does its name commemorate; if it doesn’t pertain directly (either due lack), then why might one assume such connection based solely upon knowledge up until early March annually)? In either case—whether affirmative/negative response required herein lies within scope boundaries set forth above). Please ensure all queries remain strictly aligned wiht those delineated initially provided instruction(as opposed); otherwise risk invalidation process initiating immediately post receipt initial request submission)). Further clarification sought regarding potential misinterpretation stemming perhaps indirect association drawn erroneously owning totality contextual understanding absent thus far prior engagement period extending beyond specified temporal confines henceforth necessitates additional guidance requisition before proceed forward accordingly ensured compliance maintained throughout entirety duration execution phase completion anticipatory future actions undertaken subsequently thenceforward adherent protocol established preliminary discourse initiation stage concluded presently ensuant action sequence perpetuity continuance assured unbroken observational fidelity persisting inter"
+    },
+    {
+        "id": "427fe3968e32005479b9",
+        "original_question": "Is the tibia necessary to win the Stanley Cup?",
+        "gold_decomposition": [
+            "What is the tibia?",
+            "What role does the tibia play in playing hockey or sports in general?",
+            "Is having a functioning tibia essential for a player to participate effectively in hockey?",
+            "Can someone without a tibia still be part of a team that wins the Stanley Cup?",
+            "Based on this, is the tibia necessary to win the Stanley Cup?"
+        ],
+        "3_shot_decomposition": "Does winning require possession (or control) over specific pieces like bones during playtime within ice hockey matches leading up to finals such as those determining who wins The Stanley Cup championship trophy each year among NHL teams competing at various levels including professional leagues but excluding amateur clubs' championships which may also vie under different titles reflective regional distinctions yet still partaking similarly structured tournament formats whereby victors earn accolades comparably recognized across all participating entities irrespective if they hail directly beneath major league echelons versus minor ones; however it must transpire through actual gameplay rather than mere ceremonious gestures post conclusion henceforthmust occur via active engagement upon field/ice surface thereby necessitates utilization certain implements namely sticks alongside puck handling skills essential towards achieving ultimate goalpost triumph culmination signified annually celebrated event known universally amongst aficionados alike commemorated globally honoring excellence displayed throughout seasonal competition cycles spanning multiple rounds progressively escalating pressure intensifying until climax reached finale stage concludes decisively crowning singular entity awarded prestigiously reverently titled 'Sta... \n### Instruction"
+    },
+    {
+        "id": "06b9ed3f803e3d5796ed",
+        "original_question": "Could the Powepuff Girls make the background to the Azerbaijani flag?",
+        "gold_decomposition": [
+            "What does the Azerbaijani flag’s background look like?",
+            "IWho are the Powerpuff Girls, and what kind of artistic styles or backgrounds do they create?",
+            "Could the Powerpuff Girls (as characters or in their style) create or inspire a background similar to the Azerbaijani flag?",
+            "Are there any symbolic or design conflicts between the Powerpuff Girls style and the Azerbaijani flag’s elements?",
+            "Based on this, is it possible for the Powerpuff Girls to make the background to the Azerbaijani flag?"
+        ],
+        "3_shot_decomposition": "Identify what elements comprise the current design/backgrounds behind each color block (green) within the national emblem representing Baku's city coat of arms: The Caspian Gulf; Ancient Fortresses atop hillsides overlooking it all - such like Narin Castle & Shirvanshah Palace Ruins etc.; Modern skyscrapers rising above them including Flame Towers / Azadi Tower et al., but also include some modern buildings which have been built since 2015 e.g.: Taleghanyar Hotel Building...etc..and then add more details about these structures if possible! Also please describe how they might look when combined together forming one coherent image rather than just listing individual features separately because this will help us better understand whether creating something resembling those visual cues using characters named after puffing clouds could actually work out well artistically speaking given its complexity compared against simpler designs found elsewhere around world where less intricate patterns tend towards being easier visually appealing due mainly owning fewer components involved thus making overall composition appear cleaner despite having multiple layers present throughout entire scene instead solely focusing upon singular aspect alone thereby achrious simplicity versus richness balance becomes crucial"
+    },
+    {
+        "id": "5090f573b09ac3050824",
+        "original_question": "Are eagles and young bears both used as labels for skills-training youth groups?",
+        "gold_decomposition": [
+            "Are there youth groups named or labeled after 'Eagles' that focus on skills training?",
+            "Are there youth groups named or labeled after 'Young Bears' that focus on skills training?What kinds of skills or activities do these groups typically teach?",
+            "Based on this, are both 'Eagles' and 'Young Bears' commonly used as names for skills-training youth groups?"
+        ],
+        "3_shot_decomposition": "In what contexts might \"eagle\" serve as a label within skill training programs targeting younger individuals (youth)? \nIn which regions do we find such usage where 'Eagle' could metaphorically represent leadership qualities expected among trainees like those found at Boy Scouts camps but specifically tailored towards developing certain abilities rather than just scout badges/merit points earned through various activities including campfire songs etc., while also considering if this practice extends beyond North America given its historical roots tied closely here yet potentially adopted elsewhere globally due cultural exchange over time especially when comparing it against practices involving bear symbolism across different cultures worldwide focusing particularly upon how these symbols may have been adapted uniquely pertaining individual countries’ traditions regarding outdoor education aimed primarily toward fostering self reliance amongst participants aged typically around teenage years old who engages actively during said educational experiences often participating directly under guidance provided either formally structured environment setups resembling military bootcamps designed explicitly crafted purposefully intended solely dedicated exclusively expressly focused singular mission orientated objectives geared distinctive heavily emphasizing personal growth developmental progressions throughout entirety duration programmed curriculums ensn"
+    },
+    {
+        "id": "d912709b7341dd86ba39",
+        "original_question": "Would an Olympic athlete be tired out after running a mile?",
+        "gold_decomposition": [
+            "How physically fit are Olympic athletes generally?",
+            "What is the typical effort level for an Olympic athlete running a mile?",
+            "Does running a mile usually cause fatigue in athletes at this level?",
+            "Are there factors like pace, recovery, or event specialty that affect whether they’d be tired?",
+            "Based on this, would an Olympic athlete likely be tired out after running a mile?"
+        ],
+        "3_shot_decomposition": "How much physical exertion does it take for most individuals (not necessarily athletes) when they run one mile at moderate pace under normal conditions considering factors like age, fitness level etc., but assuming average healthy adult parameters such as 18–65 years old male/female who runs regularly:  \nHow long can this individual typically sustain before becoming significantly fatigued during said activity if resting adeñosly afterwards until fully recovered prior each time?:   \nWould these same assumptions apply equally across all demographics including those outside typical range i.e.: younger children vs older seniors; males versus females due potential physiological variances ect.; also taking account different environmental variables which may affect performance levels - altitude variations being just two examples among many others :    \nConsideration must include how muscle fiber composition might differ amongst various groups leading potentially towards varied endurance capacities – particularly focusing upon Type I slow twitch fibers prevalence compared against more explosive fast type IIa & b found within certain populations based off genetic makeup / lifestyle habits ; furthermore , assessment needs made regarding cardiac efficiency relating specifically heart rate recovery post exercise along side"
+    }
+]

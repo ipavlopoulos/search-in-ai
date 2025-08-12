@@ -1,0 +1,50 @@
+[
+    {
+        "id": "5a8b57f25542995d1e6f1371",
+        "original_question": "Were Scott Derrickson and Ed Wood of the same nationality?",
+        "gold_decomposition": [
+            "What nationality Scott Derrickson had?",
+            "What nationality Ed Wood had?",
+            "Was the nationality the same?"
+        ],
+        "3_shot_decomposition": "Was director Scott Derrickson born to American parents or were his parents from another country?\nWhat was the nationalities of both directors Scott Derrickson and Ed Wood?.…\n\nWhat are some examples of words used as nouns by their original verb form?\nWhat are some examples of words used as nouns by their original verb forms?.…\n\nWhat does it mean when you say someone is an ass?\nWhat does it mean if I call somebody an ass?.…\n\nHow do you use the word ass in a sentence?\nHow can one use the word ass in a sentence?.…\n\nWhat does it mean for something to be on your mind?\nWhat does it mean when something is on my mind?.…\n\nWhat does it mean when you have something on your mind?\nWhat does it mean when we have things on our minds?.…\n\nWhat does it mean when you're thinking about something?\nWhat does it mean when I'm thinking about something?.…\n\nWhat does it mean when you think about something?\nWhat does it mean when I start thinking about something?.…\n\nWhat does it mean when you've got something on your mind?\nWhat does it mean when I get something on my mind?.…\n\nWhat does it mean when you're not sure whether you should go somewhere?\nWhat does it mean when I am unsure whether I"
+    },
+    {
+        "id": "5a8c7595554299585d9e36b6",
+        "original_question": "What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?",
+        "gold_decomposition": [
+            "Who potrayed Caroliss Archer in the film Kiss and Tell?",
+            "What governement position was held by her?"
+        ],
+        "3_shot_decomposition": "Which movie did Joan Crawford portray as herself, playing her own character from the 1930s radio show \"Corliss Archer\"?\nWhich actress played Corliss Archer on screen?\n\nHow many times have you seen this question before?"
+    },
+    {
+        "id": "5a85ea095542994775f606a8",
+        "original_question": "What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?",
+        "gold_decomposition": [
+            "What book series has companion books, which narrate the story of an enslaved alien species?",
+            "Is this book series classified as science fantasy and written for young adults?",
+            "Is this series narrated in the first person?"
+        ],
+        "3_shot_decomposition": "Which book series does not have any companions?.…\n\nWhich one of these is NOT an example of a companion novel to the Dune series?.…\n\nWhich of these novels are NOT examples of companion novels to the Dune series?.…\n\nWhich of these novels are NOT examples of companion novels to the Dune series?.…\n\nWhich of these novels are NOT examples of companion novels to the Dune series?.…\n\nWhich of these novels are NOT examples of companion novels to the Dune series?.…\n\nWhich of these novels are NOT examples of companion novels to the Dune series?.…\n\nWhich of these novels are NOT examples of companion novels to the Dune series?.…\n\nWhich of these novels are NOT examples of companion novels to the Dune series?.…\n\nWhich of these novels are NOT examples of companion novels to the Dune series?.…\n\nWhich of these novels are NOT examples of companion novels to the Dune series?.…\n\nWhich of these novels are NOT examples of companion novels to the Dune series?.…\n\nWhich of these novels are NOT examples of companion novels to the Dune series?.…\n\nWhich of these novels are NOT examples of companion novels to the Dune series?.…\n\nWhich of these novels are NOT examples of companion novels to the Dune series?.…\n\nWhich of these novels are NOT"
+    },
+    {
+        "id": "5adbf0a255429947ff17385a",
+        "original_question": "Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?",
+        "gold_decomposition": [
+            "What is Laleli Mosque?",
+            "Where is Laleli Mosque located?What is Esma Sultan Mansion?",
+            "Where is Esma Sultan Mansion located?Are they located in the same neighborhood?"
+        ],
+        "3_shot_decomposition": "Is there an underground mosque underneath the Laleli Mosque?\nWhich building houses both the Laleli Mosque and the Esma Sultan Mansion?\nWhich two buildings are housed together at the intersection of Istiklal Caddesi and Taksim Meydanı?.…\n\nWhich country does not have any official language but rather uses English as its de facto national language?\nWhich country does not have any official languages but instead uses English as their de facto national language?\n\nWhich country does not use one or more official languages but instead uses English as its de facto national language?\nWhich countries do not officially recognize any native languages but still speak them anyway?\n\n\nWhich country does not have any official languages but instead uses English as its de facto national language?\nWhich country does not have any official languages but instead uses English as its de facto national language?\n\n\n\nWhich country does not have any official languages but instead uses English as its de facto national language?\nWhich country does not have any official languages but instead uses English as its de facto national language?\n\n\n\nWhich country does not have any official languages but instead uses English as its de facto national language?\nWhich country does not have any official languages but instead uses English as its de facto national language?\n\n\n\nWhich country does not have any official languages but instead uses English as its de"
+    },
+    {
+        "id": "5a8e3ea95542995a26add48d",
+        "original_question": "The director of the romantic comedy \"Big Stone Gap\" is based in what New York city?",
+        "gold_decomposition": [
+            "Who directed the the romantic comedy 'Big Stone Gap'?",
+            "In what New York city is the director located?"
+        ],
+        "3_shot_decomposition": "In which US state does Big Stone Gap take place?\nWhich American city serves as setting for the film \"Big Stone Gap\"?.…\n\nWhat are some examples of words used to describe people or things according to their size?\nWhat do you call someone who is very small?\nWhat do you call something that is very big?\n\n## 1.2.3.4.\n\n### 1.2.5.6."
+    }
+]

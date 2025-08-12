@@ -1,0 +1,59 @@
+[
+    {
+        "id": "7a0e419ffb6009156828",
+        "original_question": "Was ship that recovered Apollo 13 named after a World War II battle?",
+        "gold_decomposition": [
+            "What was the name of the ship that recovered Apollo 13 astronauts?",
+            "Is that ship’s name connected to a World War II battle?",
+            "If yes, what was the World War II battle it was named after?",
+            "Based on this, was the ship named after a World War II battle?"
+        ],
+        "3_shot_decomposition": "Which space mission is associated with Apollo 13?\nWhat event occurred during this mission leading to its famous name \"Apollo 13\"?\nWhat type of recovery vessel was used to retrieve the astronauts and their damaged spacecraft?\nDid this recovery vessel have any connection to a specific World War II battle?\nBased on available information, was the ship that recovered Apollo 13 named after a World War II battle?"
+    },
+    {
+        "id": "427fe3968e32005479b9",
+        "original_question": "Is the tibia necessary to win the Stanley Cup?",
+        "gold_decomposition": [
+            "What is the tibia?",
+            "What role does the tibia play in playing hockey or sports in general?",
+            "Is having a functioning tibia essential for a player to participate effectively in hockey?",
+            "Can someone without a tibia still be part of a team that wins the Stanley Cup?",
+            "Based on this, is the tibia necessary to win the Stanley Cup?"
+        ],
+        "3_shot_decomposition": "The Tibia bone is not related to winning the Stanley Cup.\nThe Stanley Cup is a trophy awarded annually to the National Hockey League (NHL) team that wins its championship series. It does not have any connection to bones or skeletal structures like the tibia.\nTherefore, having a strong or healthy tibia will not directly impact a hockey team's chances of winning the Stanley Cup."
+    },
+    {
+        "id": "06b9ed3f803e3d5796ed",
+        "original_question": "Could the Powepuff Girls make the background to the Azerbaijani flag?",
+        "gold_decomposition": [
+            "What does the Azerbaijani flag’s background look like?",
+            "IWho are the Powerpuff Girls, and what kind of artistic styles or backgrounds do they create?",
+            "Could the Powerpuff Girls (as characters or in their style) create or inspire a background similar to the Azerbaijani flag?",
+            "Are there any symbolic or design conflicts between the Powerpuff Girls style and the Azerbaijani flag’s elements?",
+            "Based on this, is it possible for the Powerpuff Girls to make the background to the Azerbaijani flag?"
+        ],
+        "3_shot_decomposition": "The Powpuff Girls are fictional cartoon characters created by Cartoon Network. They do not have any official connection to creating real-world designs such as national flags like the one for Azerbaijan. Therefore, it's impossible for the Powpuff Girls to create the background design for the Azerbaijani flag."
+    },
+    {
+        "id": "5090f573b09ac3050824",
+        "original_question": "Are eagles and young bears both used as labels for skills-training youth groups?",
+        "gold_decomposition": [
+            "Are there youth groups named or labeled after 'Eagles' that focus on skills training?",
+            "Are there youth groups named or labeled after 'Young Bears' that focus on skills training?What kinds of skills or activities do these groups typically teach?",
+            "Based on this, are both 'Eagles' and 'Young Bears' commonly used as names for skills-training youth groups?"
+        ],
+        "3_shot_decomposition": "Eagles and young bears are not typically used interchangeably as labels for skills-training youth groups. However, they can represent different concepts within various organizations.\nEagles often symbolize strength, courage, and leadership qualities that are desirable traits for youth development programs. For instance, the \"Eagle Scout\" rank in Boy Scouts represents the highest achievement in scouting.\nBears, on the other hand, may signify power, resilience, and determination. Some youth groups use bear themes to emphasize these characteristics while fostering teamwork and camaraderie among members.\nTherefore, although neither eagles nor young bears are universally employed as exact synonyms for skills-training youth groups, they do carry significant meanings related to personal growth and character building."
+    },
+    {
+        "id": "d912709b7341dd86ba39",
+        "original_question": "Would an Olympic athlete be tired out after running a mile?",
+        "gold_decomposition": [
+            "How physically fit are Olympic athletes generally?",
+            "What is the typical effort level for an Olympic athlete running a mile?",
+            "Does running a mile usually cause fatigue in athletes at this level?",
+            "Are there factors like pace, recovery, or event specialty that affect whether they’d be tired?",
+            "Based on this, would an Olympic athlete likely be tired out after running a mile?"
+        ],
+        "3_shot_decomposition": "An Olympic athlete's fitness level varies depending on their sport and individual abilities. A mile run (1609 meters) may not tire out all Olympic athletes as it depends on their training regimen and conditioning. However, some endurance sports athletes like long-distance runners might find a mile run relatively easy due to their regular training. For other athletes whose events do not require extensive cardiovascular capacity, a mile run could present a challenge but would likely not leave them completely exhausted. It ultimately depends on each athlete's specific physical capabilities and preparation."
+    }
+]
