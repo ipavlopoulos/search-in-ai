@@ -1,0 +1,59 @@
+[
+    {
+        "id": "7a0e419ffb6009156828",
+        "original_question": "Was ship that recovered Apollo 13 named after a World War II battle?",
+        "gold_decomposition": [
+            "What was the name of the ship that recovered Apollo 13 astronauts?",
+            "Is that ship’s name connected to a World War II battle?",
+            "If yes, what was the World War II battle it was named after?",
+            "Based on this, was the ship named after a World War II battle?"
+        ],
+        "3_shot_decomposition": "Which spacecraft was involved in the incident known as \"Apollo 13\"?\nWhich US Navy vessel assisted in the recovery of the Apollo 13 crew following the lunar mission abort?\nWas this naval vessel named after a specific World War II battle?\nThe name of the USS Iwo Jima (LHD-7) has historical significance related to World War II. However, it did not participate directly in the recovery of the Apollo 13 astronauts. Instead, another US Navy vessel, the USS Houston (CG-48), played a key role in the rescue operation. Therefore, while there is a connection to World War II through one of the ships involved, the primary recovery effort was not carried out aboard a ship named specifically for a WWII battle."
+    },
+    {
+        "id": "427fe3968e32005479b9",
+        "original_question": "Is the tibia necessary to win the Stanley Cup?",
+        "gold_decomposition": [
+            "What is the tibia?",
+            "What role does the tibia play in playing hockey or sports in general?",
+            "Is having a functioning tibia essential for a player to participate effectively in hockey?",
+            "Can someone without a tibia still be part of a team that wins the Stanley Cup?",
+            "Based on this, is the tibia necessary to win the Stanley Cup?"
+        ],
+        "3_shot_decomposition": "The tibia is not a part of hockey equipment that contributes directly to winning the Stanley Cup.\nThe Stanley Cup is a championship trophy awarded annually to the National Hockey League (NHL) team that wins its playoff tournament. It does not have any specific requirements related to bones or body parts.\nWinning the Stanley Cup depends on various factors such as team performance, strategy, skill, and luck. Players use specialized hockey equipment like skates, helmets, sticks, gloves, pads, etc., but none of these items include a tibia. Therefore, having a strong tibia bone would not help a team win the Stanley Cup."
+    },
+    {
+        "id": "06b9ed3f803e3d5796ed",
+        "original_question": "Could the Powepuff Girls make the background to the Azerbaijani flag?",
+        "gold_decomposition": [
+            "What does the Azerbaijani flag’s background look like?",
+            "IWho are the Powerpuff Girls, and what kind of artistic styles or backgrounds do they create?",
+            "Could the Powerpuff Girls (as characters or in their style) create or inspire a background similar to the Azerbaijani flag?",
+            "Are there any symbolic or design conflicts between the Powerpuff Girls style and the Azerbaijani flag’s elements?",
+            "Based on this, is it possible for the Powerpuff Girls to make the background to the Azerbaijani flag?"
+        ],
+        "3_shot_decomposition": "The Powpuff Girls are fictional cartoon characters created by Cartoon Network. They have distinctive appearances but do not represent any specific national flags or symbols.\nThe Azerbaijani flag has a unique design consisting of three horizontal stripes: red at the top, green in the middle, and blue at the bottom, along with a golden crescent moon and 28-pointed star placed near the hoist side.\nCreating a background using the Powpuff Girls that resembles the Azerbaijani flag would require significant modification and manipulation of the Powpuff Girls' designs to fit into this particular flag layout. It may not result in a visually accurate representation of both elements."
+    },
+    {
+        "id": "5090f573b09ac3050824",
+        "original_question": "Are eagles and young bears both used as labels for skills-training youth groups?",
+        "gold_decomposition": [
+            "Are there youth groups named or labeled after 'Eagles' that focus on skills training?",
+            "Are there youth groups named or labeled after 'Young Bears' that focus on skills training?What kinds of skills or activities do these groups typically teach?",
+            "Based on this, are both 'Eagles' and 'Young Bears' commonly used as names for skills-training youth groups?"
+        ],
+        "3_shot_decomposition": "Eagles and young bears can serve metaphorical roles in describing various qualities that could be fostered through skills training for youth groups. However, they are not typically used as literal labels or identifiers for such organizations. Youth groups may have different names based on their mission, goals, or cultural contexts. For example, some might use animal names like \"Eagle Scouts\" (Boy Scouts) or \"Cub Scouts,\" but these terms specifically refer to programs within the Boy Scouts of America organization. In other cases, youth groups might choose names unrelated to animals entirely. Therefore, while eagles and young bears can inspire ideas related to strength, courage, and growth, it's essential to understand that using them as actual group names depends on specific circumstances."
+    },
+    {
+        "id": "d912709b7341dd86ba39",
+        "original_question": "Would an Olympic athlete be tired out after running a mile?",
+        "gold_decomposition": [
+            "How physically fit are Olympic athletes generally?",
+            "What is the typical effort level for an Olympic athlete running a mile?",
+            "Does running a mile usually cause fatigue in athletes at this level?",
+            "Are there factors like pace, recovery, or event specialty that affect whether they’d be tired?",
+            "Based on this, would an Olympic athlete likely be tired out after running a mile?"
+        ],
+        "3_shot_decomposition": "An Olympic athlete's fitness level can vary greatly depending on their specific sport and training regimen.\nRunning a mile (1609 meters) is considered a moderate workout for most individuals, but not necessarily exhausting for an Olympic athlete.\nHowever, some athletes may feel more fatigued than others based on factors like their current training focus, overall conditioning, and individual energy levels.\nIt's important to note that every athlete has unique abilities and limitations, so it's difficult to make definitive statements about what would tire them out without considering these variables."
+    }
+]

@@ -8,7 +8,7 @@
             "If yes, what was the World War II battle it was named after?",
             "Based on this, was the ship named after a World War II battle?"
         ],
-        "0_shot_decomposition": "1. What was the name of the ship used in recovering the crew and spacecraft from Apollo 13?\n2. Is there a historical event known as a \"World War II battle\" associated with this name? \n3. Does the name of the recovery ship match the name of the World War II battle?"
+        "0_shot_decomposition": "1. What is the name of the ship that recovered Apollo 13?\n2. Was the ship's name derived from historical events?\n3. Did the ship recover Apollo 13 during World War II?\n4. Is there a notable World War II naval engagement with the same name as the ship?"
     },
     {
         "id": "427fe3968e32005479b9",
@@ -20,7 +20,7 @@
             "Can someone without a tibia still be part of a team that wins the Stanley Cup?",
             "Based on this, is the tibia necessary to win the Stanley Cup?"
         ],
-        "0_shot_decomposition": "1. What is required to win the Stanley Cup?\n2. Are there specific physical attributes needed for hockey players?\n3. Does having a healthy lower leg affect performance in hockey? \n4. Can someone with a missing or non-functional tibia still participate in hockey?\n5. Would losing one's tibia prevent them from playing professional hockey at a high level?"
+        "0_shot_decomposition": "1. What is the definition of \"necessary\" in this context?\n2. Is winning the Stanley Cup dependent on physical attributes such as bone structure?\n3. Does participation in professional ice hockey require specific bones for safety and performance reasons?\n4. Are there examples of successful professional ice hockey players without fully formed or intact tibias?\n5. Can injuries or conditions affecting the tibia prevent someone from participating in professional ice hockey?"
     },
     {
         "id": "06b9ed3f803e3d5796ed",
@@ -32,7 +32,7 @@
             "Are there any symbolic or design conflicts between the Powerpuff Girls style and the Azerbaijani flag’s elements?",
             "Based on this, is it possible for the Powerpuff Girls to make the background to the Azerbaijani flag?"
         ],
-        "0_shot_decomposition": "1. What is the design and composition of the current Azerbaijani flag?\n2. Are there specific colors associated with the Powerpuff Girls characters (Blossom, Bubbles, Buttercup)?\n3. Can these character-specific colors match the colors used in the Azerbaijani flag?\n4. Would it be feasible for Blossom, Bubbles, and Buttercup to fit within the existing dimensions of the Azerbaijani flag's background? \n5. Is there a particular style or theme commonly found on children's television shows like The Powerpuff Girls that could complement the traditional design elements often seen on national flags?"
+        "0_shot_decomposition": "1. What is the design of the current Azerbaijan national flag?\n2. Are Bubbles and Buttercup capable artists with expertise in textile design?\n3. Can Blossom create geometric patterns inspired by traditional Azerbaijani art?\n4. Would the Powerpuff Girls have access to materials similar to those used for creating flags (e.g., fabric)?\n5. Could Professor Utonium assist the Powerpuff Girls in designing a suitable pattern?\n6. Is it feasible for the Powerpuff Girls to work together on such a large-scale project under time pressure?\n7. Does the resulting artwork meet official standards for national flags regarding color representation and proportions? \n8. How would local authorities react if the Powerpuff Girls were chosen as designers without proper qualifications?"
     },
     {
         "id": "5090f573b09ac3050824",
@@ -42,7 +42,7 @@
             "Are there youth groups named or labeled after 'Young Bears' that focus on skills training?What kinds of skills or activities do these groups typically teach?",
             "Based on this, are both 'Eagles' and 'Young Bears' commonly used as names for skills-training youth groups?"
         ],
-        "0_shot_decomposition": "1 What is the term \"eagles\" commonly associated with in relation to youth?\n2 Is there a well-known organization called 'Eagle Scouts' focused on skill training for youths?\n3 In what context do people use the term \"young bear\" when referring to youth groups?\n4 Does the Boy Scouts of America have a program known as Bear rank which focuses on developing certain life-skills? \n5 Can you find evidence of organizations using either eagle or bear terms specifically for labeling their youth group programs?"
+        "0_shot_decomposition": "1. Are eagles commonly associated with youth development programs?\n2. Is \"eagle\" a rank or title given to skilled individuals in certain organizations?\n3. Are there known examples of using eagle imagery in labeling training groups for children or teenagers?\n4. Does the term 'bear' have similar associations with skill-building initiatives aimed at younger generations?\n5. Can you find instances where bear is used metaphorically to describe trained or accomplished youths? \n6. In what contexts do eagles and/or bears appear together in relation to youth group names or descriptions?"
     },
     {
         "id": "d912709b7341dd86ba39",
@@ -54,6 +54,6 @@
             "Are there factors like pace, recovery, or event specialty that affect whether they’d be tired?",
             "Based on this, would an Olympic athlete likely be tired out after running a mile?"
         ],
-        "0_shot_decomposition": "1. What is the average pace for an Olympic-level runner in a one-mile race?\n2. How long does it take on average for an Olympic-level runner to complete a one-mile race at their typical speed?\n3. Does this time frame allow for adequate recovery between runs during training sessions? \n4. Are there specific physical and mental factors associated with being an Olympic athlete that could influence fatigue levels post-run? \n5. Can you describe what constitutes \"tired\" in terms of physiological responses such as heart rate, breathing rate, muscle soreness, etc.? \n6. Have studies been conducted specifically examining the level of exhaustion experienced by elite athletes following high-intensity sprint events like a one-mile run?"
+        "0_shot_decomposition": "1. Is an Olympic athlete participating in a sprint event?\n2. Does this sprint event involve distances longer than one mile?\n3. Are there rest periods between events at the Olympics?\n4. Would an average person experience fatigue after running a mile without training?\n5. How does the athletic ability and endurance level of an Olympic athlete compare to an average person's?"
     }
 ]

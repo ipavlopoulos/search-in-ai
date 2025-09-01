@@ -8,7 +8,7 @@
             "If yes, what was the World War II battle it was named after?",
             "Based on this, was the ship named after a World War II battle?"
         ],
-        "0_shot_decomposition": "Answer:\nNo, it was not. The name of the recovery vessel for Apollo 13 is actually \"Challenger\", which is also the name of another NASA spacecraft.\n\nThe USS Iwo Jima (LPH-2) was an amphibious assault helicopter carrier in service with the United States Navy from 1955 to 1976 and served as the recovery ship during the Apollo 11 mission. It was renamed USS Guadalcanal (LPH-7), but returned to its original name before being decommissioned on July 1, 1980.\nSource"
+        "0_shot_decomposition": "What is the difference between \"a\" and \"an\"?\n\nIs there any way to get rid of this annoying message?\n\nHow do I make my own custom keyboard layout in Windows?"
     },
     {
         "id": "427fe3968e32005479b9",
@@ -20,7 +20,7 @@
             "Can someone without a tibia still be part of a team that wins the Stanley Cup?",
             "Based on this, is the tibia necessary to win the Stanley Cup?"
         ],
-        "0_shot_decomposition": "Answer: No, it is not. The only thing that matters in hockey is who has more points at the end of the season.\n\nExplanation: In order for a team to be eligible to play in the playoffs they must have won 48 games during their regular season (the other teams are determined by how many wins each team had). Once you make the playoffs there's no guarantee your team will go all the way and win the cup; however if you're playing against another team with less than 100 points then you should probably beat them because they don't deserve to get any further into post-season competition!"
+        "0_shot_decomposition": "What is a good way of getting rid of an annoying bug in my code?\n\nI have been trying for hours now, but I can't seem to get it out. It's not really important and doesn't affect anything else that much.\n```\npublic class Bug {\n    public static void main(String[] args) throws Exception {\n\n        // This line causes the problem\n        System.out.println(\"Hello World!\");\n\n        // The rest of this program works fine...\n    }\n}\n```\n\nHow do you make your own custom error page?"
     },
     {
         "id": "06b9ed3f803e3d5796ed",
@@ -32,7 +32,7 @@
             "Are there any symbolic or design conflicts between the Powerpuff Girls style and the Azerbaijani flag’s elements?",
             "Based on this, is it possible for the Powerpuff Girls to make the background to the Azerbaijani flag?"
         ],
-        "0_shot_decomposition": "Answer: No, they could not. The reason is that the colors of the flag are red and green (not pink), with a white crescent moon on top.\n\nThe color scheme was chosen by the founder of modern Azerbaijan, Mirza Alakbar Sabir, who wanted it to be reminiscent of his native Iran but also different enough from its neighbor's flags so as to avoid confusion in battle."
+        "0_shot_decomposition": "I'm not sure what you mean by \"the\" in your question. The word is used as a demonstrative pronoun, and it can refer either to one or more than one thing.\n\nThe phrase \"could have been\" means that something could be true but isn't necessarily so.\n```\nShe could have been an astronaut\n```\n\nThis sentence has two possible meanings:\n\n1) She was an astronaut who might have had other careers (e.g., she may have become famous for her acting career).\n\n2) It's possible that she became an astronaut; however, this possibility hasn’t yet come about.\n\nIn both cases, “might” refers to future possibilities rather than past ones.\n\nIf I say: Could he have been there? What does 'he' refer to?\n\nHe would refer to him/her/it/them/their etc...\n\nWhat do these words mean - they are all from the same book:\n```\na)  ungratefulness b)  ingratitude c)  ingratiation d)  ingratiating e)  ingrattitude f)  ingrattity g)  ingrattiude h)  ingrattituder i)  ingrattudinous j)  ingrattuosity k)  ingrattuous"
     },
     {
         "id": "5090f573b09ac3050824",
@@ -42,7 +42,7 @@
             "Are there youth groups named or labeled after 'Young Bears' that focus on skills training?What kinds of skills or activities do these groups typically teach?",
             "Based on this, are both 'Eagles' and 'Young Bears' commonly used as names for skills-training youth groups?"
         ],
-        "0_shot_decomposition": "Answer: No, they are not. The answer is no because the two words have different meanings.\n\nEagles are birds of prey that live in many parts of the world. They can be found on every continent except Antarctica. Eagles are large raptors with powerful talons and sharp hooked bills. Their wingspans range from 6 to 8 feet (1.8–2.4 meters). There are nine species of eagle worldwide; six of these occur naturally in North America. These include the bald eagle, golden eagle, northern harrier hawk, peregrine falcon, red-tailed hawk, rough-legged buzzard, short-eared owl, snowy owl, and white-tailed kite.\nYoung bears are mammals belonging to the family Ursidae. Bears are native to most continents except Australia and Antarctica. Most bear species inhabit temperate forests but some also live in deserts or tundra regions where there may only be a few trees available for food sources such as berries or nuts during winter months when other animals cannot survive due to lack of water availability at those times of year. Some types of bears eat meat while others prefer fruits instead which makes them omnivores rather than carnivorous like wolves who hunt down their own meals without any help whatsoever!"
+        "0_shot_decomposition": "Is the word \"eagle\" a label or an adjective in this sentence? If it is, what part of speech would you expect to find after it?\n\nThe eagle has landed.\n```\nThe eagle has landed. \n```\n\nWhat does the phrase “the eagle has landed” mean?\n```\nIt means that someone important (an Eagle Scout) arrived at your location\n```\n\nIf I were writing about my first day on the job, how could I use the words “I was hired by…” instead of “I got hired by…?”"
     },
     {
         "id": "d912709b7341dd86ba39",
@@ -54,6 +54,6 @@
             "Are there factors like pace, recovery, or event specialty that affect whether they’d be tired?",
             "Based on this, would an Olympic athlete likely be tired out after running a mile?"
         ],
-        "0_shot_decomposition": "Answer: Yes, they would. They have to train for months and years in order to run that fast.\n\nExplanation: A person who is very fit can usually run about 4 miles (6 km) per hour without getting too tired. An average adult man can run up to 5 mph (8 kph). The fastest runners are able to reach speeds of over 26 mph (42 kph).\n\nThe human body has evolved so it can survive on the land as well as in water or air. It needs energy from food to do this. When we eat our bodies break down carbohydrates into glucose which provides us with energy. This process takes place mainly in the liver but also in other parts of the body such as muscles. Glucose travels around the blood stream until it reaches cells where it is used by them to produce energy. If there isn't enough oxygen available then some of these processes will not take place properly leading to fatigue."
+        "0_shot_decomposition": "What is the difference between \"a\" and \"an\"?\n\nWhat does it mean to say that something has been “solved”?\n\nHow do you know when someone’s question was answered?"
     }
 ]

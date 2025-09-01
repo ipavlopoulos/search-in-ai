@@ -1,0 +1,59 @@
+[
+    {
+        "id": "7a0e419ffb6009156828",
+        "original_question": "Was ship that recovered Apollo 13 named after a World War II battle?",
+        "gold_decomposition": [
+            "What was the name of the ship that recovered Apollo 13 astronauts?",
+            "Is that ship’s name connected to a World War II battle?",
+            "If yes, what was the World War II battle it was named after?",
+            "Based on this, was the ship named after a World War II battle?"
+        ],
+        "3_shot_decomposition": "Sure. Here's the answer:\n\n**Mixed martial arts (MMA)** is not totally original from Roman Colosseum games. Both share some similarities, such as:\n\n- **Combatives techniques:** Both MMA and ancient gladiatorial combat involved fighters using their bodies and skills to defeat each other.\n- **Emphasis on physical prowess:** Both disciplines emphasized strength, agility, and endurance.\n- **Use of weapons and fighting styles:** Some forms of MMA, such as boxing and kickboxing, have roots in ancient combat sports like pugilism.\n\nHowever, there are also significant differences between MMA and Roman Colosseum games:\n\n- **Modern MMA is regulated and controlled:** Ancient gladiators fought in unregulated conditions, often resulting in violence and death. Modern MMA is governed by organizations like the Ultimate Fighting Championship (UFC) and has strict safety protocols in place.\n- **Technology and equipment:** Modern MMA fighters use gloves, protective gear, and specialized training methods to minimize injury risk. In contrast, ancient gladiators lacked these modern conveniences.\n- **Purpose and entertainment:** While some modern MMA fights are considered entertainment, ancient gladiatorial combats were primarily seen as a form of warfare and social control.\n\nTherefore, while MMA shares some similarities with Roman Colosseum games,"
+    },
+    {
+        "id": "427fe3968e32005479b9",
+        "original_question": "Is the tibia necessary to win the Stanley Cup?",
+        "gold_decomposition": [
+            "What is the tibia?",
+            "What role does the tibia play in playing hockey or sports in general?",
+            "Is having a functioning tibia essential for a player to participate effectively in hockey?",
+            "Can someone without a tibia still be part of a team that wins the Stanley Cup?",
+            "Based on this, is the tibia necessary to win the Stanley Cup?"
+        ],
+        "3_shot_decomposition": "The context does not provide information about the tibia, so I cannot answer this question from the provided context."
+    },
+    {
+        "id": "06b9ed3f803e3d5796ed",
+        "original_question": "Could the Powepuff Girls make the background to the Azerbaijani flag?",
+        "gold_decomposition": [
+            "What does the Azerbaijani flag’s background look like?",
+            "IWho are the Powerpuff Girls, and what kind of artistic styles or backgrounds do they create?",
+            "Could the Powerpuff Girls (as characters or in their style) create or inspire a background similar to the Azerbaijani flag?",
+            "Are there any symbolic or design conflicts between the Powerpuff Girls style and the Azerbaijani flag’s elements?",
+            "Based on this, is it possible for the Powerpuff Girls to make the background to the Azerbaijani flag?"
+        ],
+        "3_shot_decomposition": "The context does not provide any information about the Powepuff Girls or the Azerbaijani flag, so I cannot answer this question from the provided context."
+    },
+    {
+        "id": "5090f573b09ac3050824",
+        "original_question": "Are eagles and young bears both used as labels for skills-training youth groups?",
+        "gold_decomposition": [
+            "Are there youth groups named or labeled after 'Eagles' that focus on skills training?",
+            "Are there youth groups named or labeled after 'Young Bears' that focus on skills training?What kinds of skills or activities do these groups typically teach?",
+            "Based on this, are both 'Eagles' and 'Young Bears' commonly used as names for skills-training youth groups?"
+        ],
+        "3_shot_decomposition": "Sure. Here's the answer to the questions:\n\n**1. What is Mixed Martial Arts?**\n\nMixed martial arts (MMA) is a combat sport that combines various striking techniques, grappling, and other physical confrontations. It is a modern iteration of ancient fighting styles such as boxing, wrestling, and Muay Thai.\n\n**2. What were the Roman Colosseum Games?**\n\nThe Roman Colosseum was a vast amphitheater in the center of Rome, Italy, built by Emperor Vespasian around 70 AD. The arena held thousands of spectators who watched gladiatorial contests, including chariot races, wild animal hunts, and theatrical performances.\n\n**3. Are there similarities between MMA and Roman Colosseum games?**\n\nYes, there are some similarities between MMA and the Roman Colosseum games. Both were large spectacles where participants fought to entertain and win money. Both involved skilled fighters engaging in physical confrontations. However, there are also significant differences between the two forms of combat.\n\n**4. Are there differences between MMA and Roman Colosseum games?**\n\nOne key difference is that MMA is regulated and has safety protocols in place to protect fighters and spectators. In contrast, the Colosseum games were unregulated and dangerous, with participants often fighting to"
+    },
+    {
+        "id": "d912709b7341dd86ba39",
+        "original_question": "Would an Olympic athlete be tired out after running a mile?",
+        "gold_decomposition": [
+            "How physically fit are Olympic athletes generally?",
+            "What is the typical effort level for an Olympic athlete running a mile?",
+            "Does running a mile usually cause fatigue in athletes at this level?",
+            "Are there factors like pace, recovery, or event specialty that affect whether they’d be tired?",
+            "Based on this, would an Olympic athlete likely be tired out after running a mile?"
+        ],
+        "3_shot_decomposition": "Sure. Here's a summary of the questions and answers:\n\n**1. What is Mixed Martial Arts?**\nMixed martial arts (MMA) is a combat sport that combines various striking techniques, grappling, and submissions. It is a modern iteration of ancient fighting styles such as boxing, wrestling, and Muay Thai.\n\n**2. What were the Roman Colosseum Games?**\nThe Roman Colosseum was a large amphitheater in Rome, Italy, built around 70 AD. It hosted gladiatorial contests, including chariot races, wild animal shows, and theatrical performances. The Colosseum was also a place for public executions, including those of prisoners of war.\n\n**3. Are there similarities between MMA and Roman Colosseum games?**\nYes, there are some similarities between MMA and the Roman Colosseum games. Both were spectacles where participants fought to entertain and win money. Both involved skilled fighters engaging in physical confrontations. However, there are also significant differences between the two forms of entertainment.\n\n**4. Are there differences between MMA and Roman Colosseum games?**\nSure, there are several key differences between MMA and the Roman Colosseum games. First, the Colosseum was a fixed venue with a limited number of spectators. In contrast,"
+    }
+]

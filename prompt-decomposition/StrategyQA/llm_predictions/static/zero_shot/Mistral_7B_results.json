@@ -8,7 +8,7 @@
             "If yes, what was the World War II battle it was named after?",
             "Based on this, was the ship named after a World War II battle?"
         ],
-        "0_shot_decomposition": "1. What is the name of the ship that recovered Apollo 13?\n2. In which war was the battle named after, that this ship may have been named after?\n3. What is the name of the World War II battle in question?"
+        "0_shot_decomposition": "1. What is the name of the ship that recovered Apollo 13?\n2. In which war was the battle named after that you're asking about?\n3. Is there a connection between the name of the ship and the name of the World War II battle?"
     },
     {
         "id": "427fe3968e32005479b9",
@@ -20,7 +20,7 @@
             "Can someone without a tibia still be part of a team that wins the Stanley Cup?",
             "Based on this, is the tibia necessary to win the Stanley Cup?"
         ],
-        "0_shot_decomposition": "1. What is the definition of the tibia bone in the human body?\n2. Does hockey involve physical contact between players using their bones as tools?\n3. Can a hockey team win the Stanley Cup without having a player with a healthy tibia bone?"
+        "0_shot_decomposition": "1. What is the definition of the term \"Stanley Cup\"?\n2. In what context is the question asking about the necessity of the tibia for winning the Stanley Cup? (hockey team or individual player)\n3. Is there a specific hockey rule stating that having a healthy tibia is required to win the Stanley Cup?\n4. Have there been instances in history where teams or players with injured tibias have still won the Stanley Cup?\n5. Can the functions typically associated with the tibia be performed by other bones or muscles during hockey play?"
     },
     {
         "id": "06b9ed3f803e3d5796ed",
@@ -32,7 +32,7 @@
             "Are there any symbolic or design conflicts between the Powerpuff Girls style and the Azerbaijani flag’s elements?",
             "Based on this, is it possible for the Powerpuff Girls to make the background to the Azerbaijani flag?"
         ],
-        "0_shot_decomposition": "1. What is the design of the Azerbaijani flag?\n2. Can the Powderpuff Girls create a background image based on a given design?\n3. Do the Powderpuff Girls have the necessary artistic skills and tools to recreate the design elements in the Azerbaijani flag?\n4. Is it feasible for the Powderpuff Girls to produce a high-quality background image of the Azerbaijani flag within a reasonable timeframe?"
+        "0_shot_decomposition": "1. Who are the Powerpuff Girls?\n2. Can the Powerpuff Girls create artistic designs?\n3. What is the design of the Azerbaijani flag?\n4. Can the Powerpuff Girls replicate the design of the Azerbaijani flag?"
     },
     {
         "id": "5090f573b09ac3050824",
@@ -42,7 +42,7 @@
             "Are there youth groups named or labeled after 'Young Bears' that focus on skills training?What kinds of skills or activities do these groups typically teach?",
             "Based on this, are both 'Eagles' and 'Young Bears' commonly used as names for skills-training youth groups?"
         ],
-        "0_shot_decomposition": "1. Are there eagle-named skills-training youth groups exist?\n2. What age group does the Eagle youth group cater to?\n3. Is there a bear-named skills-training youth group?\n4. What age group does the Bear youth group cater to?"
+        "0_shot_decomposition": "1. Is \"eagles\" a name used for skills-training youth groups?\n2. Is \"young bears\" a name used for skills-training youth groups?"
     },
     {
         "id": "d912709b7341dd86ba39",
@@ -54,6 +54,6 @@
             "Are there factors like pace, recovery, or event specialty that affect whether they’d be tired?",
             "Based on this, would an Olympic athlete likely be tired out after running a mile?"
         ],
-        "0_shot_decomposition": "1. What is the typical event distance for an Olympic athlete in their specific sport?\n2. How long does it take an Olympic athlete to complete this distance?\n3. What is the average pace of an Olympic athlete during their event?\n4. How many miles is one lap in the athlete's event?\n5. How many laps does the athlete complete during their event?\n6. What is the total distance covered by the athlete during their event?\n7. Does the athlete participate in any additional training sessions on the same day as their competition?\n8. What is the usual recovery time for an Olympic athlete after competing in their event?\n9. Has the athlete reported feeling tired after completing their event in previous competitions?\n10. Based on the information gathered, would running an additional mile immediately after their event likely tire them out?"
+        "0_shot_decomposition": "1. What is the typical event distance for an Olympic athlete in their specific sport?\n2. How far is a mile?\n3. Has the Olympic athlete recently competed in an event?\n4. What is the intensity level of the Olympic athlete's most recent competition?\n5. Based on the information gathered, would running a mile tire out the Olympic athlete?"
     }
 ]

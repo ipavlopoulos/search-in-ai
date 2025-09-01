@@ -1,0 +1,59 @@
+[
+    {
+        "id": "7a0e419ffb6009156828",
+        "original_question": "Was ship that recovered Apollo 13 named after a World War II battle?",
+        "gold_decomposition": [
+            "What was the name of the ship that recovered Apollo 13 astronauts?",
+            "Is that ship’s name connected to a World War II battle?",
+            "If yes, what was the World War II battle it was named after?",
+            "Based on this, was the ship named after a World War II battle?"
+        ],
+        "3_shot_decomposition": "Which spacecrafts have been used by NASA's crewed missions before returning safely back home since their first launches post WWII era until now including but excluding those involved with lunar landings like Gemini series which had no return trips due its nature as test flights only designed around rendezvousing/docking practice rather than landing operations: Challenger; Columbia - both tragically lost upon reentry leading us instead towards focusing our attention herein specifically regarding vessels such Atlas V & Delta IV Heavy rockets employed primarily within contextual framework pertaining orbital insertion maneuvers aimed at deployments encompassment various satell0lites amongst others whilst omitting mention explicitly concerning shuttle program itself owning inherent risks associated henceforth disregarded thusly proceed furthermore delving deeper still beyond mere surface level discourse thereby exploring intricate details surrounding said subject matter namely 'recovery vessel'. Consideration given also extends toward scrutiny over operational protocol adherence alongside meticulous examination conducted throughout entirety duration spanning multiple years cumulatively totalizing countless hours dedicated collectively across numerous teams comprising diverse specializations ranging engineering discipl"
+    },
+    {
+        "id": "427fe3968e32005479b9",
+        "original_question": "Is the tibia necessary to win the Stanley Cup?",
+        "gold_decomposition": [
+            "What is the tibia?",
+            "What role does the tibia play in playing hockey or sports in general?",
+            "Is having a functioning tibia essential for a player to participate effectively in hockey?",
+            "Can someone without a tibia still be part of a team that wins the Stanley Cup?",
+            "Based on this, is the tibia necessary to win the Stanley Cup?"
+        ],
+        "3_shot_decomposition": "Does winning require possession (or control) over specific pieces like bats during playoff hockey matches leading up to the NHL's championship game known colloquially among fans worldwide but officially named after Lord Stanley II—a British peerage titleholder who was instrumental due his support towards ice sports promotion within Canada at its time; what exactly constitutes 'winning', especially when considering historical context wherein teams such Boston Bruins triumphantly secured said trophy multiple times before 1925 under different circumstances compared today’ age group demographics/fan base diversity etc., thus questioning whether modern era criteria align more closely toward individual player statistics rather than collective team effort alone given current emphasis placed upon goaltending prowess exemplified through Vezina Trophies awarded annually since late twenti0th century commencement alongside expansion draft strategic planning undertaken pregame season preparation phase aimed maximizing roster potential henceforthing ensures competitive edge maintained throughout entirety duration event culminating finale night celebratory festivities honoring victorious ensemble post successful conclusion ceremonious occasion held each year following regular league competition concluding sequence final matchup determining ultimate champion entity amongst participant coh"
+    },
+    {
+        "id": "06b9ed3f803e3d5796ed",
+        "original_question": "Could the Powepuff Girls make the background to the Azerbaijani flag?",
+        "gold_decomposition": [
+            "What does the Azerbaijani flag’s background look like?",
+            "IWho are the Powerpuff Girls, and what kind of artistic styles or backgrounds do they create?",
+            "Could the Powerpuff Girls (as characters or in their style) create or inspire a background similar to the Azerbaijani flag?",
+            "Are there any symbolic or design conflicts between the Powerpuff Girls style and the Azerbaijani flag’s elements?",
+            "Based on this, is it possible for the Powerpuff Girls to make the background to the Azerbaijani flag?"
+        ],
+        "3_shot_decomposition": "Firstly identify what elements comprise the national emblem/flag design associated with \"Powpow\" from 'The Powerpuff Girls'. \nSecondary: Determine if these visuals align stylistically enough so they could represent parts like stripes found within flags such as those seen atop many countries' banners including but certainly extending beyond just Afghanistan’s tricolor symbolism which includes green representing hope; red signifying courage & bravery while blue stands out prominently denoting peacefulness amongst its citizens – all three colors intertwined harmoniously forming one cohesive unit without overpowering each individual hue due diligence being exercised throughout creation process ensuring balance maintained between every aspect present upon said canvas whether it may pertain directly onto fabric itself beforehand stitchwork commences post initial sketch phase completion thereby preserving integrity whilst simultaneously allowing room ample space necessary allowance required prior proceedings undertaken henceforth until finalized product reaches desired outcome state ready display public viewership immediately following conclusion ceremony held annually celebrating nationhood pride alongside fellow compatriots gathered together sharing joyous occasion filled moments shared collectively enjoying festivities hosted year after another mark anniversary date honoring"
+    },
+    {
+        "id": "5090f573b09ac3050824",
+        "original_question": "Are eagles and young bears both used as labels for skills-training youth groups?",
+        "gold_decomposition": [
+            "Are there youth groups named or labeled after 'Eagles' that focus on skills training?",
+            "Are there youth groups named or labeled after 'Young Bears' that focus on skills training?What kinds of skills or activities do these groups typically teach?",
+            "Based on this, are both 'Eagles' and 'Young Bears' commonly used as names for skills-training youth groups?"
+        ],
+        "3_shot_decomposition": "Have you heard about 'eagle' programs before within organizations like Boy Scouts/Girl Guides etc... ? \nHave they ever been called by another name such as \"young bear\" program at some point historically when referring specifically towards skill training among children aged around ten years old but younger than teenagers who have just started learning survival techniques including first aid knowledge under guidance provided mainly through outdoor activities organized regularly every weekend throughout summer months until end September each year; these sessions aiming primarily teaching basic life saving practices along campfire building exerieves while also encouraging teamwork amongst participants especially girls only clubs where boys aren’t allowed due parental concerns regarding safety issues related gender segregation policies enforced strictly across many countries worldwide today despite efforts made recently trying change minds publicly speaking against discrimination based solely upon sex alone rather advocating equality irrespective individual abilities regardless whether male female child belongs either group equally well enough given circumstances present currently affects decisions taken locally making changes difficult sometimes resulting negative consequences overall leading further divisions creating barriers prevent progress forward instead promoting division causing harm ultimately hindering growth potential altogether thus becoming counterproductive effectively reducing opportunities available hence limit chances success achieved later down"
+    },
+    {
+        "id": "d912709b7341dd86ba39",
+        "original_question": "Would an Olympic athlete be tired out after running a mile?",
+        "gold_decomposition": [
+            "How physically fit are Olympic athletes generally?",
+            "What is the typical effort level for an Olympic athlete running a mile?",
+            "Does running a mile usually cause fatigue in athletes at this level?",
+            "Are there factors like pace, recovery, or event specialty that affect whether they’d be tired?",
+            "Based on this, would an Olympic athlete likely be tired out after running a mile?"
+        ],
+        "3_shot_decomposition": "How long does it take most people (including non-athletes) approximately how many minutes/hours do they need at least 10 miles per hour average speed runners typically maintain during such runs would complete one lap around standard track length which equals about what distance considering these factors could lead someone who isn't trained as much likely experience significant fatigue within just under two laps if we assume typical endurance levels but also accounting potential variances due individual fitness level health conditions age etc., consider whether even highly conditioned individuals might find themselves exhausted before reaching halfway point given intense physical exertion required especially when pushing oneself beyond usual limits while competitive sports often demand peak performance thus potentially increasing risk exhaustive overexertions leading towards early burnout particularly among those less accustomed rigorous training regimens however despite possible exceptions some may still manage longer distances depending upon personal stamina capacity although generally speaking majority probably wouldn t last more than initial stages unless specifically prepared otherwise hence question remains regarding suitability entirety concerning athletic endeavors involving marathon lengths versus shorter sprints differ greatly therefore requiring distinct preparation approaches accordingly consequently determining appropriateness specific activity type becomes crucial understanding nuances involved herein further"
+    }
+]

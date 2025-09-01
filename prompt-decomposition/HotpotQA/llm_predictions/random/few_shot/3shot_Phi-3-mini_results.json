@@ -1,0 +1,50 @@
+[
+    {
+        "id": "5a8b57f25542995d1e6f1371",
+        "original_question": "Were Scott Derrickson and Ed Wood of the same nationality?",
+        "gold_decomposition": [
+            "What nationality Scott Derrickson had?",
+            "What nationality Ed Wood had?",
+            "Was the nationality the same?"
+        ],
+        "3_shot_decomposition": "To determine if both film director/writer duo were from America: 1) Research their biographies focusing on birthplaces;  2) Verify whether they have ever lived outside American borders during significant periods (either through personal history details provided by them themselves such as interviews with media outlets like The Hollywood Reporter);   3) Check official records including passports which might indicate dual citizenship statuses due to international work experiences—if available online databases can confirm these facts without ambiguities regarding U.S./non-U.psuminal residency at key points throughout each individual’s career timeline would suffice here). If all sources align consistently pointing towards one country over others then we could conclude definitively either way based upon those findings alone rather than speculating otherwise just because there isn't explicit mention within given text snippets pertaining directly toward specific countries being mentioned explicitly alongside names etc.. However absence clear evidence does leave room open still possibly suggesting possibility exists hence why further investigation needed prior before making final determination accordingly thus ensuring accuracy remains paramount when dealing matters relating individuals especially ones involved creative industries where often times multiple jurisdictions may come under consideration simultaneously owning rights related intellectual property assets"
+    },
+    {
+        "id": "5a8c7595554299585d9e36b6",
+        "original_question": "What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?",
+        "gold_decomposition": [
+            "Who potrayed Caroliss Archer in the film Kiss and Tell?",
+            "What governement position was held by her?"
+        ],
+        "3_shot_decomposition": "In which role does actress Marcia Wallace appear as Mrs. Robinson on screen during her appearance with John Belushi’ievesque humor before his death at age 42 due to heart disease complications from cocaine use; she had previously been cast opposite him when he played George Jefferson alongside Jane Curtin (who would later become famous playing Edith Bunker) but never appeared together until their final season episode titled “Bart Gets Angry” where they both shared scenes while performing separate roles within one scene—the latter being credited under different names: ‘Mrs.’ instead than simply using either actor individually because neither wanted recognition beyond just doing good work without seeking fame nor attention outside family circles despite having worked closely throughout most episodes since debuting around midnight hours every Thursday night beginning October ’69 through early May next year following graduation ceremony ceremonies commemorating class reunions annually thereafter whenever possible except once per decade otherwise known today among fans worldwide including those residing abroad especially amongst younger generations born posthumously whose parents often remind them daily how important friendship truly remains regardless whether separated geographically temporarily forevermore henceforth always remember why friends matter so much more nowadays compared against"
+    },
+    {
+        "id": "5a85ea095542994775f606a8",
+        "original_question": "What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?",
+        "gold_decomposition": [
+            "What book series has companion books, which narrate the story of an enslaved alien species?",
+            "Is this book series classified as science fantasy and written for young adults?",
+            "Is this series narrated in the first person?"
+        ],
+        "3_shot_decomposition": "Identify which sci-fi YA book follows events from multiple perspectives using different characters as protagonists across various volumes; each volume tells tales involving captivity on distant realms inhabited by extraterrestrial life forms with unique abilities but facing oppression under human dominion—a collection known collectively through its shared title reflecting these themes without specifying individual titles within your response constraints: The Companions Series (assuming no actual such work exists). If there were indeed works fitting those criteria exactly matching all mentioned elements including authorship details like Jesse Thorn’09', please specify their exact names instead following my instructions strictly avoidance mention specific authors unless necessary due diligence confirms existence against current literary databases up until 2023 knowledge cutoff date provided herein.)*  \n*(Note - As per instruction compliance requirement dictates refraining explicit identification absent verification via contemporary literature resources beyond specified temporal boundary)*"
+    },
+    {
+        "id": "5adbf0a255429947ff17385a",
+        "original_question": "Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?",
+        "gold_decomposition": [
+            "What is Laleli Mosque?",
+            "Where is Laleli Mosque located?What is Esma Sultan Mansion?",
+            "Where is Esma Sultan Mansion located?Are they located in the same neighborhood?"
+        ],
+        "3_shot_decomposition": "Is there information available on whether these historical sites share geographical proximity within Istanbul’nantially speaking yes they do both lie close together but their exact locations differ as follows: The Fatih district houses many significant landmarks including Hagia Sophia which lies at its heart while Aksaray District hosts numerous mosques such like Kadifekuşa Camii (Kadi Vakıf Madrasah) built by Mevlevîye Enderunluk during Ottoman period; however when we talk specifically regarding Leylisi Cami & Effendi Sultans Saraya - İstanbul Beyazislar ve Tarihi Bölümleri Ltd., one can find out more details from them directly since each site has unique history associated with itself apart form being part o fsame neighbourhood . So if you want detailed info then contacting above mentioned company would help because every place holds different story behind why someone chose particular spot over others hence making sure visitors get full experience visitng all places without missing anything important due local knowledge provided through experts working here helping tourists understand better how things were done back yesteryears thus giving us insightful perspective towards understanding past events happening around present day city"
+    },
+    {
+        "id": "5a8e3ea95542995a26add48d",
+        "original_question": "The director of the romantic comedy \"Big Stone Gap\" is based in what New York city?",
+        "gold_decomposition": [
+            "Who directed the the romantic comedy 'Big Stone Gap'?",
+            "In what New York city is the director located?"
+        ],
+        "3_shot_decomposition": "In which major U.S. metropolitan area does John Francis Daley work as he directed “Big Stone Gap” (2013)? \nIdentify his primary professional base considering both film industry hub locations such as Los Angeles County/Orange county region known collectively by its nickname related with Hollywood fame; but if no specific mention exists within provided context regarding where most frequently works on projects like those mentioned herein—excluding cities directly associated solely due their cinematic prominence without explicit reference from given textual information concerning individual creators’ habitation patterns pertaining said artistic endeavors: otherwise suggest nearest plausible urban center correlating geographically proximate yet lesser recognized locales potentially hosting similar production activities whilst maintain alignment thematically consistent narrative content depicted thereof during screenings attended public audiences thereby ensuring continuity preservation throughout viewership experience despite absence definitive evidence pinpoint exact domicile residence details relational actor(s) behind craftsmanship execution process undertaken visually represented upon silver screens annually celebrated globally commemorated occasions celebratory festivities observed universally acknowledged cultural observances honoring shared human heritage across diverse societies worldwide inclusivity emb"
+    }
+]

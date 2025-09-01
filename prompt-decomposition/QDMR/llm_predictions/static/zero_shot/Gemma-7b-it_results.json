@@ -3,30 +3,30 @@
         "id": "CWQ_dev_WebQTest-1011_c0be4f76a5397ba6d0d06f53905e504b",
         "original_question": "What Tibetan speaking countries have a population of less than 993885000?",
         "gold_decomposition": "return Tibetan speaking countries\nreturn #1 that have a population of less than 993885000",
-        "0_shot_decomposition": "1) Which Tibetanspeaking country has  a total number people below this threshold ?\n\n2 ) What is their approximate combined populations in numbers as close approximation possible for each individual nation within these nations' borders and excluding any potential diaspora effects outside those boundaries"
+        "0_shot_decomposition": "1) Which Tibetanspeaking country has  a   population below this number ?\n\n2 ) What is their approximate size in square kilometers and what factors contribute significantly towards its smallness compared with others like China which covers vast swathes across Asia"
     },
     {
         "id": "CWQ_dev_WebQTest-1011_edc922a0faa1e47614eb7e6effe2d1a1",
         "original_question": "What country uses Tibetan that has Anren Town , Sichuan?",
         "gold_decomposition": "return the country that uses Tibetan\nreturn #1 that Anren Town , Sichuan is in",
-        "0_shot_decomposition": "1.** Which Country is Tibet located in?*\n\n2**. Does this particular region have any town named \"Anran\"?**"
+        "0_shot_decomposition": "1) Which countries use Tibetans as their official language and have cities named after Chinese characters similar  to \"Anran\"?\n\n2 ) Is there only one such Country in which this is true ?"
     },
     {
         "id": "CWQ_dev_WebQTest-1036_0b5333d98ef87008aa02d1fbc1554b05",
         "original_question": "What is the most common language in the country where Jamaican English is spoken?",
         "gold_decomposition": "return the country where Jamaican English is spoken\nreturn what is the most common language in #1",
-        "0_shot_decomposition": "1) What countries have official languages similar  to Jamaica's dialect called \"Jamaican slang\"?\n\n2 ) Which linguistic family does Standard American and Canadian Englis belong too while Jamaicans speak which one primarily as their native tongue.? \n\n\n3). Does this particular variety (of either standard US/Canadian english OR JAMAICAN ENGLISH), exhibit any unique grammatical features compared with other dialects within its respective group ?"
+        "0_shot_decomposition": "1) What languages does Jamaica's official currency represent (e g., USD)?\n\n2 ) Which native tongue influences  Jamaican pronunciation and grammar structure ?"
     },
     {
         "id": "CWQ_dev_WebQTest-1036_4e73509d14bda62590480b655eee8751",
         "original_question": "What language is spoken in the country that uses the Jamacian Dollar?",
         "gold_decomposition": "return the country that uses the Jamacian Dollar\nreturn the language spoken in #1",
-        "0_shot_decomposition": "1) What currency does Jamaica use as its official tender and legal form for exchange within their borders?<br>\n\n2 ) Does this particular Jamaican dollar denomination have any specific linguistic association with other languages besides English"
+        "0_shot_decomposition": "1) What currency does Jamaica use as its official tender and legal form for payment within their borders?<br>\n\n2 ) Which specific linguistic variety  of English do people speak primarily on Jamaican soil"
     },
     {
         "id": "CWQ_dev_WebQTest-1081_1ecabf57357cb4abd089a4af52154854",
         "original_question": "Where did George Washington Carver go to school with the largest number of postgraduates?",
         "gold_decomposition": "return schools that George Washington Carver go to\nreturn postgraduates of #1\nreturn the number of #2 for each #1\nreturn #1 where #3 is the largest",
-        "0_shot_decomposition": "1) What is \"George Washinton\" and what does he have in relation  to postgraduate students at schools.?\n\n2 ) Which university has historically had more than other universities for graduate student enrollment by African Americans ?"
+        "0_shot_decomposition": "1) What was  George Washinton Carvers' highest level education attainment and where he completed it at ?\n\n2 ) How many postgraduate students were enrolled in his program there"
     }
 ]

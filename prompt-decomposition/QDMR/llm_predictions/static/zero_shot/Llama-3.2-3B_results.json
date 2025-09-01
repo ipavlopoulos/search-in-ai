@@ -3,30 +3,30 @@
         "id": "CWQ_dev_WebQTest-1011_c0be4f76a5397ba6d0d06f53905e504b",
         "original_question": "What Tibetan speaking countries have a population of less than 993885000?",
         "gold_decomposition": "return Tibetan speaking countries\nreturn #1 that have a population of less than 993885000",
-        "0_shot_decomposition": "Answer: Bhutan, Nepal and Sikkim."
+        "0_shot_decomposition": "Which country has the highest percentage of people who speak English as their second language?\n\nWhat is the name of this type of government?"
     },
     {
         "id": "CWQ_dev_WebQTest-1011_edc922a0faa1e47614eb7e6effe2d1a1",
         "original_question": "What country uses Tibetan that has Anren Town , Sichuan?",
         "gold_decomposition": "return the country that uses Tibetan\nreturn #1 that Anren Town , Sichuan is in",
-        "0_shot_decomposition": "Answer: China"
+        "0_shot_decomposition": "Which of the following is not a part of the 3rd stage in the development of an idea from its inception to publication?\n\nWhat does \"the\" refer to in this sentence: The first thing I did was go out and buy some new clothes.\nWhat word means “to be” or “become”?"
     },
     {
         "id": "CWQ_dev_WebQTest-1036_0b5333d98ef87008aa02d1fbc1554b05",
         "original_question": "What is the most common language in the country where Jamaican English is spoken?",
         "gold_decomposition": "return the country where Jamaican English is spoken\nreturn what is the most common language in #1",
-        "0_shot_decomposition": "Answer: English"
+        "0_shot_decomposition": "Which of these words are not used to describe a person who has been arrested for committing an offence?\n\nWhat does \"bush\" mean when it refers to someone's hair?"
     },
     {
         "id": "CWQ_dev_WebQTest-1036_4e73509d14bda62590480b655eee8751",
         "original_question": "What language is spoken in the country that uses the Jamacian Dollar?",
         "gold_decomposition": "return the country that uses the Jamacian Dollar\nreturn the language spoken in #1",
-        "0_shot_decomposition": "Answer: English"
+        "0_shot_decomposition": "Which of these countries use the Jamaican dollar as their currency?\n\nThe answer to this question can be found by looking at the following table:\n\nCountry\nCurrency\nJamaica\nUS$1 = 100 cents US\\$1 = 2.5 dollars (or $0.25) Jamaica \\$1 = 10 shillings ($0.50)\nJamaica \\$\n1 = 20 pence ($0.05)\n\nSo, if you want to know what currency a particular country uses, look up its name and see how many times it appears on each line.\n\nFor example, \"Canada\" appears twice on the first row, so Canada's currency must be Canadian Dollars."
     },
     {
         "id": "CWQ_dev_WebQTest-1081_1ecabf57357cb4abd089a4af52154854",
         "original_question": "Where did George Washington Carver go to school with the largest number of postgraduates?",
         "gold_decomposition": "return schools that George Washington Carver go to\nreturn postgraduates of #1\nreturn the number of #2 for each #1\nreturn #1 where #3 is the largest",
-        "0_shot_decomposition": "Answer: The University of Illinois at Urbana-Champaign"
+        "0_shot_decomposition": "Which is a synonym for \"postgraduate\"?\n.…\n\nWhat was the name of the first university in America?\n\nHarvard\n…\n\nHow many universities are there in the United States? (Hint: There's more than one.)\n\n2,000+\n…\n\nWho were some famous students at Harvard University?\n\nJohn F. Kennedy\nThomas Jefferson\nAbraham Lincoln\n\n\n### What does it mean when someone says they're going to graduate from college or high school?\n\nThey will have completed their studies and received an official diploma.\n\n## 1 Answer\n\nAnswer #1"
     }
 ]

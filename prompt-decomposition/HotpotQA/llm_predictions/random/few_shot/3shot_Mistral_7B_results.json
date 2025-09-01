@@ -1,0 +1,50 @@
+[
+    {
+        "id": "5a8b57f25542995d1e6f1371",
+        "original_question": "Were Scott Derrickson and Ed Wood of the same nationality?",
+        "gold_decomposition": [
+            "What nationality Scott Derrickson had?",
+            "What nationality Ed Wood had?",
+            "Was the nationality the same?"
+        ],
+        "3_shot_decomposition": "Scott Derrickson is an American filmmaker.\nEd Wood was also an American filmmaker. Therefore, both were of the same nationality."
+    },
+    {
+        "id": "5a8c7595554299585d9e36b6",
+        "original_question": "What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?",
+        "gold_decomposition": [
+            "Who potrayed Caroliss Archer in the film Kiss and Tell?",
+            "What governement position was held by her?"
+        ],
+        "3_shot_decomposition": "In which role did the actress portray Corliss Archer in the film 'Kiss and Tell'?\nWhat government position was held by the actress who played this role? (Note: The question asks for the real-life government position, not the character's occupation within the movie.)"
+    },
+    {
+        "id": "5a85ea095542994775f606a8",
+        "original_question": "What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?",
+        "gold_decomposition": [
+            "What book series has companion books, which narrate the story of an enslaved alien species?",
+            "Is this book series classified as science fantasy and written for young adults?",
+            "Is this series narrated in the first person?"
+        ],
+        "3_shot_decomposition": "Which science fiction young adult series, written in first person, includes companion books that tell the stories of enslaved worlds and alien species?\nI am thinking of the Mass Effect video game franchise. However, I believe there might be other works with similar descriptions as well. If you could provide more context or specific details, I would be happy to help narrow down the answer!\nUpdate: Based on additional information provided by the user, it seems that the correct answer is actually the 'Expanse' series by James S. A. Corey. The companion books are titled 'Leviathan Awakes', 'Caliban's War', and 'Abaddon's Gate'. These books focus on different perspectives and characters from the main storyline."
+    },
+    {
+        "id": "5adbf0a255429947ff17385a",
+        "original_question": "Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?",
+        "gold_decomposition": [
+            "What is Laleli Mosque?",
+            "Where is Laleli Mosque located?What is Esma Sultan Mansion?",
+            "Where is Esma Sultan Mansion located?Are they located in the same neighborhood?"
+        ],
+        "3_shot_decomposition": "The Laleli Mosque and Esma Sultan Mansion are both located in Istanbul, Turkey. However, they are not situated in the same neighborhood.\n\nLaleli Mosque is located in the Laleli district, which is known for its bazaars and shops selling traditional Turkish goods. It is easily accessible by public transportation and is close to other historical sites such as the Spice Bazaar and the New Mosque.\n\nEsma Sultan Mansion, on the other hand, is located in the Beyoglu district, specifically in the Cihangir neighborhood. This area is famous for its bohemian atmosphere, cafes, bars, and art galleries. The mansion is a popular tourist attraction and can be reached via public transport or taxi."
+    },
+    {
+        "id": "5a8e3ea95542995a26add48d",
+        "original_question": "The director of the romantic comedy \"Big Stone Gap\" is based in what New York city?",
+        "gold_decomposition": [
+            "Who directed the the romantic comedy 'Big Stone Gap'?",
+            "In what New York city is the director located?"
+        ],
+        "3_shot_decomposition": "In which New York City does the director of the romantic comedy \"Big Stone Gap\" reside?\nNote: I assume you mean the director Adriana Trigiani. She is an American author and filmmaker from Shirley, Virginia, not New York City. However, if there is a specific New York City-based director associated with \"Big Stone Gap,\" please let me know and I will update my answer accordingly."
+    }
+]

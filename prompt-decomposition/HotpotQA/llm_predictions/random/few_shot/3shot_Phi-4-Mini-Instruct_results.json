@@ -1,0 +1,50 @@
+[
+    {
+        "id": "5a8b57f25542995d1e6f1371",
+        "original_question": "Were Scott Derrickson and Ed Wood of the same nationality?",
+        "gold_decomposition": [
+            "What nationality Scott Derrickson had?",
+            "What nationality Ed Wood had?",
+            "Was the nationality the same?"
+        ],
+        "3_shot_decomposition": "Are both individuals mentioned American by birth/nationality (Scott Derrickson) as well nationalities differ between them being from different countries like Canada/USA vs USA respectively(Ed wood)? Are they considered Americans despite their differing origins/countries?\n\nIs there confusion regarding whether one individual might have dual citizenship based on these descriptions?\n\n\nClarify if there's ambiguity around identifying each person's country due solely relying upon given names.\n\nDoesn't knowing one's full background information pose challenges when trying only rely using provided snippets alone without additional context/data available outside those statements/questions presented above?. \n\nWas your intention behind asking all related queries concerning clarifying potential confusions arising out-of-the-blue while attempting answering such question(s)?\n\nDid you intend me ask follow-up inquiries aiming at resolving ambiguities surrounding identification/determination aspects pertaining towards understanding which country's origin belonged either person involved stated previously within my original inquiry/question set forth initially?.\n\nCould I possibly miss something crucially important here?, leading us astray away off intended path we were supposed originally pursuing back then?..  Did someone else perhaps unknowingly divert our course unintentionally causing unintended detour..?\n\n\n\nYes! You got everything right; no further clarification needed.\nI apologize once again - thank-you very much indeed!\n\nNo worries whatsoever – just wanted double-checking things alright.."
+    },
+    {
+        "id": "5a8c7595554299585d9e36b6",
+        "original_question": "What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?",
+        "gold_decomposition": [
+            "Who potrayed Caroliss Archer in the film Kiss and Tell?",
+            "What governement position was held by her?"
+        ],
+        "3_shot_decomposition": "In which movie does actress Jane Wyman portray her husband Richard Burton as his wife Corrine Macmillan/Karl Malden/Milhouse/Vidgen/Corcian/Corrin/Dorene/Rose/Sarah/Jane/Wendy/Lucy/Gail/Helen/Beth/Nora/Patsy/Fay/Ellen/Alice/Tina/The Girl/Irene/Ozzy/Zoe/Yoko/Ursula/Sharon/Stella/Reese/Xena/Ingrid/Brigitte Oenning-Hasek/New York City Mayor Sarah Palin Governor Christine Todd Whitman Secretary Janet Reno U.S Ambassador Madeleine Albright Vice President Spiro Agnew Acting Director George H.W.Bush Chief Justice William Rehnquist Supreme Court Associate Justices Ruth Bader Ginsburg Sandra Day O’Connor Antonin Scalia Anthony Kennedy Sonia Sotomayor Clarence Thomas John Roberts Samuel A.Taylor Elena Kagan Brett Yackel Barbara Boxer Nancy Pelosi Hillary Clinton Elizabeth Dole Condi Rice Ann Richards Mary Jo Kopechne Michelle Obama Jill Stein Kamala Harris Bernie Sanders Joe Biden Donald Trump Barack Obamawilliam Jefferson Alexander Hamilton James Madison Andrew Jackson Martin VanBuren Abraham Lincoln Robert E.Louis Brandeis Louis McComas Henry Clay Stephen Douglas Franklin Pierce Rutherford Hayes"
+    },
+    {
+        "id": "5a85ea095542994775f606a8",
+        "original_question": "What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?",
+        "gold_decomposition": [
+            "What book series has companion books, which narrate the story of an enslaved alien species?",
+            "Is this book series classified as science fantasy and written for young adults?",
+            "Is this series narrated in the first person?"
+        ],
+        "3_shot_decomposition": "Name one book from each pair: The Darkest Minds / A World Unseen\nIdentify which universe these pairs belong.\nDescribe how characters travel between universes.\n\nAnswer:\nA Young Adult Science Fiction Series with Companion Books\n\n1. What title does Cassandra Cottman go by before becoming known as Cassiopeia Starfire?\n\n2. Who originally owned Titan Industries prior to its acquisition through bankruptcy proceedings involving Michael Corleone Jr., Al Durodinoff Sr., Don Cornelius III (Donny), Tony Soprano II (\"Little Anthony\"), Vincent Mancini IV-VII (“Vincent”), Dominic Santorelli V-Sixteen “Dom,” Salvatore Tessier VI-XVI-Ten-Four-Eight-Seven-Nine-Half-Powerless-Little-Giant-Master-of-the-City-Warrior-King-Bat Master-Darkness-Antagonizer-The-Ruler-And-Iron-Clad-Champion-Inferior-to-All-and-a-Man-for-all-Time-Jr.-the-New-Reborn-Leader-in-Chief-within-Itself-He-who-is-not-one-but-many-he-that-has-no-name-or-form-thou-shalt-call-me-Omega-Orion-Isis-Uranus-Neptune-Pluto-Zodiacal Constell"
+    },
+    {
+        "id": "5adbf0a255429947ff17385a",
+        "original_question": "Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?",
+        "gold_decomposition": [
+            "What is Laleli Mosque?",
+            "Where is Laleli Mosque located?What is Esma Sultan Mansion?",
+            "Where is Esma Sultan Mansion located?Are they located in the same neighborhood?"
+        ],
+        "3_shot_decomposition": "Where can I find information on whether these buildings share their location with others like mosques from different eras (Ottoman Empire) as well as mansions built by wealthy families during Ottoman times?\n\nIs there historical evidence suggesting connections between people living near each building at some point through family ties/relationships/marriages/etc.? Are such relationships documented anywhere online/in books/papers/articles etc., especially if they involve famous figures connected either directly/widely indirectly via marriage/family relations/ties/trade/business partnerships/school friendships/social circles/religious affiliations/connections/cultural exchanges/historical events/the arts/literature/music/art/designs/science/natural phenomena/economic developments/business ventures/growth/shifts/democratization/development/disaster/rescue efforts/race/classism/prejudice/oppression/exploitation/diversity/interests/issues/problems/challenges/progresses/transformation/change/adaptation/stability/supporting growth development progress transformation change adaptation stability support sustainable economic prosperity social justice cultural heritage preservation environmental protection human rights equality diversity inclusion peace conflict resolution reconciliation healing restoration harmony cooperation collaboration partnership alliance unity solidarity community spirit compassion empathy understanding tolerance acceptance love kindness respect mutual benefit shared values common good wellbeing happiness joy hope optimism gratitude appreciation beauty creativity inspiration innovation imagination curiosity passion enthusiasm excitement wonder awe amazement admiration"
+    },
+    {
+        "id": "5a8e3ea95542995a26add48d",
+        "original_question": "The director of the romantic comedy \"Big Stone Gap\" is based in what New York city?",
+        "gold_decomposition": [
+            "Who directed the the romantic comedy 'Big Stone Gap'?",
+            "In what New York city is the director located?"
+        ],
+        "3_shot_decomposition": "Where does John Lee Hancock live while working on films like Big Stone Gap (2015)? \nIs he currently residing there as well?\n\nAnswer: Is his residence still located within Manhattan borough?\n\n\nYes\n\nNo\nIf no, where else might you find him living now outside NYC metropolitan area but possibly close by considering film industry connections.\n\nDoesn't matter if he's moved away completely from NY metro.\n\n\nJohn Lee Hancocks current place of residency isn't publicly disclosed; however directors often move between cities depending upon their projects schedule.\nSo it's uncertain whether John's home base has stayed constant over time despite being primarily associated with Hollywood/Los Angeles due its proximity & thriving entertainment scene presence amidst many filmmakers choosing Los Angles studios locations filming spots etc., given how frequently people relocate nowadays especially those involved heavily across multiple industries such diverse ones including filmmaking alongside others professions too..\n\nIt's possible though since most professionals tend towards staying near major hubs/cities relevantly connected closely together geographically speaking rather than moving far distances apart unless absolutely necessary circumstances arise prompting them otherwise ultimately deciding factors likely revolve around personal preferences priorities lifestyle choices amongst various influencing elements impacting decisions made accordingly.. \n\nTherefore without having access directly onto specific details pertaining specifically regarding exact present-day residential address(es) held presently occupied exclusively solely personally privately owned properties belonging uniquely individually singular individuals"
+    }
+]

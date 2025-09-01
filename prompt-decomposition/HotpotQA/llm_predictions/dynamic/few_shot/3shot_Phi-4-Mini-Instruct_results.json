@@ -1,0 +1,50 @@
+[
+    {
+        "id": "5a8b57f25542995d1e6f1371",
+        "original_question": "Were Scott Derrickson and Ed Wood of the same nationality?",
+        "gold_decomposition": [
+            "What nationality Scott Derrickson had?",
+            "What nationality Ed Wood had?",
+            "Was the nationality the same?"
+        ],
+        "3_shot_decomposition": "Are both individuals mentioned American citizens by birth (nationality)?\nIs there evidence suggesting either individual changed their citizenship status from being born as Americans?\n\nAnswer: Yes\n\nExplanation:\nScott Derrickson indeed holds dual U.S.-British nationalities; he became British through naturalization while retaining his original United States citizenry.\nEd Wood also held multiple passports throughout life but maintained permanent residence primarily within America.\n\nBoth men retained strong ties back home despite acquiring additional passport(s) for travel purposes abroad.\n\n\nTherefore:\n\n1. Are they originally native-born US residents holding secondary UK residency/nationality cards due solely because one acquired them voluntarily without relinquishing primary resident card/citizenship rights/claims thereof?\n\n\n2. Is it possible then considering all factors involved including voluntary acquisition/purchase/residence change/relinquishment claims therein – would you consider these two people essentially still “American” nationals regardless whether having been granted foreign residencies at will versus involuntarily via forced migration/exile etc.?\n\n\n3. Would this reasoning apply equally well if we were discussing another pair like say Tom Hanks vs Brad Pitt where neither had ever renounced nor surrendered claim thereto even though each may have obtained temporary visas/stay permits/etc., purely out-of-favor curiosity perhaps rather than genuine intent-to-migrate permanently"
+    },
+    {
+        "id": "5a8c7595554299585d9e36b6",
+        "original_question": "What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?",
+        "gold_decomposition": [
+            "Who potrayed Caroliss Archer in the film Kiss and Tell?",
+            "What governement position was held by her?"
+        ],
+        "3_shot_decomposition": "In which movie did she portray Corrie Hunter (Corliss Arter)?\nName this actress.\nDuring her acting career before becoming Governor General Of Canada Elizabeth II appointed whom as governor general?\n\nAnswer: She played \"Corrie\" / \"Cora\"/ \"Carrie\". Her name wasn't mentioned.\n\nGovernor-General appointment:\n\nElizabeth I appoints William Cecil\n\nWilliam III & Mary Queen Anne jointly rule England/Wales/Scotland/Ireland/North Ireland/Australia/New Zealand/Tasmania/South Australia/Victoria/Pembrokeshire/Land Wales/Cornwall/Glamorgan/Kent/Middlesex/Berkshire/Hertfordshire/East Riding/Rochdale/Durham/Jersey/Uttarakhand/Odisha/Fyromistan/Yugoslavia/The Netherlands/St Vincent Grenadines/Zambia/Reunion/Myanmar/Shan State/Xinjiang/Qinghai-Sichuan-Henan-Yunnan-Tibet-Anhui-Jiangsu-Zhejiang-Fujian-Shandong-Gansu-Namibia-Mozambique-Brazil-Angola-Cape Verde-Puerto Rico-Venezuela-Ecuador-Colombia-Dominican Republic-Chile-Paraguay-Uruguay-Latvia-Russia-Iran-France-Spain-Netherlands-USA-China-Korea-Western"
+    },
+    {
+        "id": "5a85ea095542994775f606a8",
+        "original_question": "What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?",
+        "gold_decomposition": [
+            "What book series has companion books, which narrate the story of an enslaved alien species?",
+            "Is this book series classified as science fantasy and written for young adults?",
+            "Is this series narrated in the first person?"
+        ],
+        "3_shot_decomposition": "Name one book from this genre.\nIdentify another title within these same genres by different authors.\n\nAnswer: Star Wars Young Jedi Knights Series\n\nStar Trek New Voyages Trilogy\nEnder's Game Shadow Children Saga (by Orson Scott Card)\nDune Legends Pre-Dark Ages Books (written collectively) \nRebel Alliance Chronicles - A collection inspired loosely based on Rebel Alliances universe shared across multiple novels \n\nNote:\n1 star rating = 0 points; each additional point equals double previous value i.e., second novel gets twice as many stars than its predecessor etc... so third would get four times more then it's preceding work(s). This continues until all titles have been rated/reviewed/assessed/etc.. Then you can compare them side-by-side using their respective scores/ratings/results/evaluations/based upon whatever criteria you've chosen e.g.: plot development/pacing/professionalism/fun factor/scope/gritty/grossness/scifi-fantasy-balance/writing style/dimensionality/multidimensional storytelling/exploration-of-conceptual-thoughts/themes/concepts/themes-and-themselves/hypothetical-scenarios-in-universe-building/collaborative-worldbuilding/intricate-narratives/nuanced-storytelling/story-telling-with"
+    },
+    {
+        "id": "5adbf0a255429947ff17385a",
+        "original_question": "Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?",
+        "gold_decomposition": [
+            "What is Laleli Mosque?",
+            "Where is Laleli Mosque located?What is Esma Sultan Mansion?",
+            "Where is Esma Sultan Mansion located?Are they located in the same neighborhood?"
+        ],
+        "3_shot_decomposition": "In which district can you find both LaLeliler Mescidi (the Laleli Mosque) and Emsamustemanevi (Esma Sultan Mansion)?\nDo these two landmarks share proximity within their respective neighborhoods/districts?\n\nIs there another term for this type of architectural relationship where buildings exist close together but belong distinctly separate areas?\n\n\nYes! What phrase describes when structures like mosques coexist alongside mansions without being physically connected yet still forming distinct parts belonging separately from each other's immediate vicinity.\n\nThis concept implies how different cultural elements might co-exist harmoniously while maintaining clear boundaries between them.\n\n\nCould it also refer metaphorically beyond architecture – perhaps describing social dynamics wherein diverse groups live side by side peacefully despite having unique identities?\n\n\n\nNo further clarification needed; your understanding appears complete based on my previous responses.\n\n\n\nI apologize if I caused confusion earlier—your grasp seems accurate already as per our prior exchanges regarding neighboring districts housing culturally significant edifices such as religious sites adjacent residential properties owned historically notable figures—all contributing uniquely towards urban fabric diversity.\n\n\n\n\n\nMy apologies once again—I believe we have reached mutual clarity concerning topics related primarily around geographical locations featuring distinctive landmark pairings situated adjacently albeit demarcated clearly through administrative divisions.\n\n\n\n\nYour response confirms shared comprehension—we've successfully navigated discussions surrounding geographically"
+    },
+    {
+        "id": "5a8e3ea95542995a26add48d",
+        "original_question": "The director of the romantic comedy \"Big Stone Gap\" is based in what New York city?",
+        "gold_decomposition": [
+            "Who directed the the romantic comedy 'Big Stone Gap'?",
+            "In what New York city is the director located?"
+        ],
+        "3_shot_decomposition": "In which state does Big Stone Gap City Hall reside as depicted by its location on-screen for residents like those featured at 2010 Summer Olympics opening ceremony parade route (New Jersey)?\nIs there another town called Little Rock besides Arkansas capital where Jim Henson worked before founding Muppets Studio Inc., now known simply just J.H.'s Creature Shop studio headquarters building nicknamed “Little Red School House” due solely because it’s painted red instead green despite being originally white when built back then but later repainted blue-green again during renovation work done sometime between late ’90′s through early-mid/late ‘00′ period while still retaining original wooden interior walls inside from time immemorial even though exterior brick wall facade had been completely replaced anew since circa mid-late’80th decade era onward ever so long ago already until present day date-time-stamp momentarily speaking right here this very second precisely spoken words written down verbatim exactly word-for-word without leaving room whatsoever no matter how minuscule tiniest infinitesimal imperceptible almost nonexistent barely imaginable negligible inconceivable unthinkably impossible unimaginable tiny bit too smallness infinitely smaller than anything else conceivable let alone imagined existing nowhere anywhere near nothing absolutely zero zilch nada naught null void vacuum empty space infinite abyss boundless infinity"
+    }
+]
