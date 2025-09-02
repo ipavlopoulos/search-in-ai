@@ -7,7 +7,7 @@
             "What nationality Ed Wood had?",
             "Was the nationality the same?"
         ],
-        "3_shot_decomposition": "What nationalities were Scottie Derronickn  and Edward Woood from respectively. \n\nPlease provide more information to answer this question"
+        "3_shot_decomposition": "Please specify whichnationality of Ed Wood and Scott Derrickson. The text does not provide information on their nationality."
     },
     {
         "id": "5a8c7595554299585d9e36b6",
@@ -16,7 +16,7 @@
             "Who potrayed Caroliss Archer in the film Kiss and Tell?",
             "What governement position was held by her?"
         ],
-        "3_shot_decomposition": "In which movie role does actress Amanda Seyfried have her most significant box-office success to date as an actor/actress at this point time.\n\nPlease provide me more information if you want help answering these questions: \n\n\n* **Arthur’SMagazine:** What year it began publication  and its general topic focus (e g fashion , lifestyle etc.)   \n\n\n\n ***First For Woman**: Same details like above"
+        "3_shot_decomposition": "What government position was held by the character Corliss Archer in the film Kiss and Tell?\nWhat gender is the character Corliss Archer in the film Kiss and Tell?"
     },
     {
         "id": "5a85ea095542994775f606a8",
@@ -26,7 +26,7 @@
             "Is this book series classified as science fantasy and written for young adults?",
             "Is this series narrated in the first person?"
         ],
-        "3_shot_decomposition": "In which sci-fi book universe does this story take place within as well. \n\nPlease provide more information to answer these questions so I can give you an accurate response:  the text provided above doesn’t contain enough context therefore it impossible me complete those queries accurately"
+        "3_shot_decomposition": "What science fantasy young adult series has a set of companion books narrating the stories of enslaved worlds and alien species?\nHow does the main character interact with the protagonist's spirit in the book series \"The Wheel of Time\"?\nIs the protagonist of the book series \"The Wheel of Time\" male or female?"
     },
     {
         "id": "5adbf0a255429947ff17385a",
@@ -36,7 +36,7 @@
             "Where is Laleli Mosque located?What is Esma Sultan Mansion?",
             "Where is Esma Sultan Mansion located?Are they located in the same neighborhood?"
         ],
-        "3_shot_decomposition": "Whether they are situated within close proximity to each other. Are you able provide more information on their locations so I can answer this question accurately.?"
+        "3_shot_decomposition": "Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?\nIf not, what is the neighborhood of each separate location?"
     },
     {
         "id": "5a8e3ea95542995a26add48d",
@@ -45,6 +45,6 @@
             "Who directed the the romantic comedy 'Big Stone Gap'?",
             "In what New York city is the director located?"
         ],
-        "3_shot_decomposition": "What town are you referring to as being home base by Big stone gap movie Director Mark Waters."
+        "3_shot_decomposition": "What city in New York is the director of \"Big Stone Gap\" based in?\nWhich romantic comedy is \"Big Stone Gap\"?"
     }
 ]

@@ -8,7 +8,7 @@
             "If yes, what was the World War II battle it was named after?",
             "Based on this, was the ship named after a World War II battle?"
         ],
-        "0_shot_decomposition": "1. What is the name of the ship that recovered Apollo 13?\n2. In which war was the battle named after that you're asking about?\n3. Is there a connection between the name of the ship and the name of the World War II battle?"
+        "0_shot_decomposition": "subq1: What is the name of the ship that recovered Apollo 13?\nsubq2: In what war was the Battle of Midway fought?\nsubq3: What is the name of the ship that was involved in the Battle of Midway?\nsubq4: Is the name of the ship that recovered Apollo 13 the same as the name of the ship involved in the Battle of Midway?"
     },
     {
         "id": "427fe3968e32005479b9",
@@ -20,7 +20,7 @@
             "Can someone without a tibia still be part of a team that wins the Stanley Cup?",
             "Based on this, is the tibia necessary to win the Stanley Cup?"
         ],
-        "0_shot_decomposition": "1. What is the definition of the term \"Stanley Cup\"?\n2. In what context is the question asking about the necessity of the tibia for winning the Stanley Cup? (hockey team or individual player)\n3. Is there a specific hockey rule stating that having a healthy tibia is required to win the Stanley Cup?\n4. Have there been instances in history where teams or players with injured tibias have still won the Stanley Cup?\n5. Can the functions typically associated with the tibia be performed by other bones or muscles during hockey play?"
+        "0_shot_decomposition": "subq1: What is the tibia?\nsubq2: What is the Stanley Cup?\nsubq3: Is the tibia a sports trophy?\nsubq4: Is the tibia a part of a hockey player's body?\nsubq5: Can a hockey game be won without a player's participation?\nsubq6: Does a hockey player's performance depend on the tibia?\nsubq7: Is the tibia a requirement for a hockey team to win the Stanley Cup?"
     },
     {
         "id": "06b9ed3f803e3d5796ed",
@@ -32,7 +32,7 @@
             "Are there any symbolic or design conflicts between the Powerpuff Girls style and the Azerbaijani flag’s elements?",
             "Based on this, is it possible for the Powerpuff Girls to make the background to the Azerbaijani flag?"
         ],
-        "0_shot_decomposition": "1. Who are the Powerpuff Girls?\n2. Can the Powerpuff Girls create artistic designs?\n3. What is the design of the Azerbaijani flag?\n4. Can the Powerpuff Girls replicate the design of the Azerbaijani flag?"
+        "0_shot_decomposition": "subq1: What are the colors of the Azerbaijani flag?\nsubq2: What are the colors of the Powepuff Girls' uniforms?\nsubq3: Can the colors of the Powepuff Girls' uniforms be mixed to create the colors of the Azerbaijani flag?\nsubq4: Does the Powepuff Girls' team have the necessary artistic skills to create a flag design?\nsubq5: Do the Powepuff Girls have the necessary materials to create a flag?\nsubq6: Is it appropriate for the Powepuff Girls to create a national flag, given their status as fictional characters?\nsubq7: Does the Azerbaijani government allow for the creation of official flags by non-government entities?\nsubq8: Would the Powepuff Girls' flag creation be recognized as the official Azerbaijani flag by the international community?\nsubq9: Does the Powepuff Girls' flag creation violate any intellectual property rights or trademarks?\nsubq10: Would the Powepuff Girls' flag creation be considered a parody or a tribute, and if so, would that affect its legit"
     },
     {
         "id": "5090f573b09ac3050824",
@@ -42,7 +42,7 @@
             "Are there youth groups named or labeled after 'Young Bears' that focus on skills training?What kinds of skills or activities do these groups typically teach?",
             "Based on this, are both 'Eagles' and 'Young Bears' commonly used as names for skills-training youth groups?"
         ],
-        "0_shot_decomposition": "1. Is \"eagles\" a name used for skills-training youth groups?\n2. Is \"young bears\" a name used for skills-training youth groups?"
+        "0_shot_decomposition": "subq1: Is \"eagles\" a name used for skills-training youth groups?\nsubq2: Is \"young bears\" a name used for skills-training youth groups?\nsubq3: Are both \"eagles\" and \"young bears\" names used for the same skills-training youth groups?"
     },
     {
         "id": "d912709b7341dd86ba39",
@@ -54,6 +54,6 @@
             "Are there factors like pace, recovery, or event specialty that affect whether they’d be tired?",
             "Based on this, would an Olympic athlete likely be tired out after running a mile?"
         ],
-        "0_shot_decomposition": "1. What is the typical event distance for an Olympic athlete in their specific sport?\n2. How far is a mile?\n3. Has the Olympic athlete recently competed in an event?\n4. What is the intensity level of the Olympic athlete's most recent competition?\n5. Based on the information gathered, would running a mile tire out the Olympic athlete?"
+        "0_shot_decomposition": "subq1: Is an Olympic athlete a human?\nsubq2: Can humans run a mile?\nsubq3: Is running a mile considered a strenuous activity for an Olympic athlete?\nsubq4: Does strenuous physical activity cause fatigue in humans?\nsubq5: Does the level of fatigue depend on the individual's fitness level?\nsubq6: Is an Olympic athlete's fitness level typically high?\nsubq7: Does the level of fatigue vary based on the athlete's specific sport?\nsubq8: Does running a mile in a single session typically cause significant fatigue in an Olympic athlete?"
     }
 ]

@@ -8,7 +8,7 @@
             "If yes, what was the World War II battle it was named after?",
             "Based on this, was the ship named after a World War II battle?"
         ],
-        "3_shot_decomposition": "Which ships have been involved in recovering astronauts from space missions?\nDid one such recovery ship participate in the Apollo 13 mission?\nIf so, what was its name?\nDoes this ship's name originate from a historical event like a war battle?"
+        "3_shot_decomposition": "Did a ship recover the Apollo 13 astronauts?\nIf so, what was the name of the recovery ship?\nDoes the name of the recovery ship have origins related to a historical event such as a World War II battle?\nIs it true that the recovery ship's name has those specific connections?"
     },
     {
         "id": "427fe3968e32005479b9",
@@ -20,7 +20,7 @@
             "Can someone without a tibia still be part of a team that wins the Stanley Cup?",
             "Based on this, is the tibia necessary to win the Stanley Cup?"
         ],
-        "3_shot_decomposition": "Who has won the Stanley Cup historically?\nDo non-human entities have ever been awarded the Stanley Cup?\nHas anyone who does not possess a human body (including limbs) won the Stanley Cup? \nDoes having a functioning tibia guarantee winning the Stanley Cup?"
+        "3_shot_decomposition": "What does it mean to \"win\" the Stanley Cup?\nHow many players contribute directly to winning the Stanley Cup?\nDoes having a functioning tibia affect a player's ability to participate in hockey? \nAre there other physical attributes besides the tibia that could impact a team's chances of winning the Stanley Cup?"
     },
     {
         "id": "06b9ed3f803e3d5796ed",
@@ -32,7 +32,7 @@
             "Are there any symbolic or design conflicts between the Powerpuff Girls style and the Azerbaijani flag’s elements?",
             "Based on this, is it possible for the Powerpuff Girls to make the background to the Azerbaijani flag?"
         ],
-        "3_shot_decomposition": "Who designed the current Azerbaijani flag?\nWhen was the current design adopted?\nDoes the current Azerbaijan flag have a specific meaning behind its colors and patterns?\nCould Bubbles, Blossom, Buttercup create similar designs or patterns found on the Azerbaijani flag?"
+        "3_shot_decomposition": "What does the current Azerbaijan national flag look like?\nWho are The Powerpuff Girls characters (Blossom, Bubbles, Buttercup)?\nDoes the combination of these girls' colors match the Azerbaijan national flag's design?\nIf yes, could they theoretically create such a pattern?"
     },
     {
         "id": "5090f573b09ac3050824",
@@ -42,7 +42,7 @@
             "Are there youth groups named or labeled after 'Young Bears' that focus on skills training?What kinds of skills or activities do these groups typically teach?",
             "Based on this, are both 'Eagles' and 'Young Bears' commonly used as names for skills-training youth groups?"
         ],
-        "3_shot_decomposition": "Do eagle-based programs exist for training youth?\nDo bear-themed programs exist for training youth?\nHave these types of programs been historically associated with skill-building for youth?"
+        "3_shot_decomposition": "Are eagles used as symbols or labels for certain skill-training youth groups?\nAre young bears used as symbols or labels for other specific types of youth training programs?\nHave eagles been associated historically with military or warrior training programs?\nHas the concept of using animals like eagles or bears as group identifiers originated independently multiple times throughout history?"
     },
     {
         "id": "d912709b7341dd86ba39",
@@ -54,6 +54,6 @@
             "Are there factors like pace, recovery, or event specialty that affect whether they’d be tired?",
             "Based on this, would an Olympic athlete likely be tired out after running a mile?"
         ],
-        "3_shot_decomposition": "How long does it take for an average person to run one mile at moderate pace?\nWhat is the typical endurance level required for an Olympic athlete competing in distance events like track and field?\nDoes the time taken by an Olympic athlete to complete a mile exceed what an average person can achieve?"
+        "3_shot_decomposition": "How long does it take for most Olympic athletes to run one mile during competition?\nDoes fatigue typically occur within that time frame for elite runners like those competing in the Olympics?\nHas anyone ever finished an Olympic marathon distance (or even shorter distances) completely unaided, without feeling exhausted afterwards?"
     }
 ]

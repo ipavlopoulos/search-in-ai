@@ -8,7 +8,7 @@
             "If yes, what was the World War II battle it was named after?",
             "Based on this, was the ship named after a World War II battle?"
         ],
-        "3_shot_decomposition": "Sure. Here's the answer to your questions:\n\n**Mixed martial arts (MMA)** is not totally original from Roman Colosseum games. Both share some similarities, such as the use of violence and competition. However, there are also significant differences between the two forms of combat. For example, MMA is regulated by governing bodies and has a structured set of rules and regulations, while the Colosseum games were unregulated and often violent. Additionally, MMA is a modern form of combat that has evolved over many years, while the Colosseum games were a spectacle of ancient Rome.\n\n**The cuisine of Hawaii** is known for its fresh seafood and tropical fruits. While some traditional Hawaiian dishes do contain animal products, there is a growing trend towards plant-based options. Many restaurants now offer vegan and vegetarian options, including salads, soups, and curries.\n\n**Giant squid** can be captured in natural habitats, but it is a challenging and dangerous task. The squid are large and powerful, and they can escape if not handled properly. In addition, the capture of giant squid often involves using heavy nets or traps that can cause injury or death to the animals."
+        "3_shot_decomposition": "What is the purpose of the International Space Station?\nWhat are the main components of the International Space"
     },
     {
         "id": "427fe3968e32005479b9",
@@ -20,7 +20,7 @@
             "Can someone without a tibia still be part of a team that wins the Stanley Cup?",
             "Based on this, is the tibia necessary to win the Stanley Cup?"
         ],
-        "3_shot_decomposition": "The premise of the question is incorrect. The tibia is a bone in the lower leg, not a part of the human body used in the sport of ice hockey."
+        "3_shot_decomposition": "What is the tibia?\nWhat is the role of the tibia in winning a Stanley Cup?"
     },
     {
         "id": "06b9ed3f803e3d5796ed",
@@ -32,7 +32,7 @@
             "Are there any symbolic or design conflicts between the Powerpuff Girls style and the Azerbaijani flag’s elements?",
             "Based on this, is it possible for the Powerpuff Girls to make the background to the Azerbaijani flag?"
         ],
-        "3_shot_decomposition": "The context does not provide any information about the Powepuff Girls or the Azerbaijani flag, so I cannot answer this question from the provided context."
+        "3_shot_decomposition": "What is the purpose of the background in the Azerbaijani flag?\nWhat is the significance of the"
     },
     {
         "id": "5090f573b09ac3050824",
@@ -42,7 +42,7 @@
             "Are there youth groups named or labeled after 'Young Bears' that focus on skills training?What kinds of skills or activities do these groups typically teach?",
             "Based on this, are both 'Eagles' and 'Young Bears' commonly used as names for skills-training youth groups?"
         ],
-        "3_shot_decomposition": "Sure. Here's a summary of the information you provided:\n\n**Mixed Martial Arts (MMA)**\n\n* A combat sport involving multiple disciplines such as striking, grappling, and submission techniques.\n* Originated in the 20th century by combining various martial art styles.\n* Has evolved into a global phenomenon with professional leagues and competitions.\n\n**Roman Coliseum Games**\n\n* Ancient spectacles held in the Roman Empire from 304 BCE to 476 CE.\n* Combined athletic contests, theatrical performances, and public executions.\n* Featured gladiatorial combats between trained fighters.\n* Had a distinct cultural significance and attracted large audiences.\n\n**Similarities between MMA and Roman Colosseum Games:**\n\n* Both involved intense physical competition and skill displays.\n* Both had elaborate rules and regulations to ensure fair play.\n* Both attracted large crowds who enjoyed the spectacle of human prowess.\n\n**Differences between MMA and Roman Colosseum Games:**\n\n* MMA involves regulated fighting with a focus on striking and grappling techniques.\n* The Colosseum featured wild and unpredictable fights with no rules or limitations.\n* MMA has a structured competition format with weight classes and rules.\n* The Colosseum was a more chaotic and unpredictable venue.\n\n**"
+        "3_shot_decomposition": "What is the difference between eagles and young bears?\nWhat are the main skills taught in skills-"
     },
     {
         "id": "d912709b7341dd86ba39",
@@ -54,6 +54,6 @@
             "Are there factors like pace, recovery, or event specialty that affect whether they’d be tired?",
             "Based on this, would an Olympic athlete likely be tired out after running a mile?"
         ],
-        "3_shot_decomposition": "Sure. Here's a summary of the information you provided:\n\n**Mixed Martial Arts (MMA)**\n\n* A combat sport involving multiple disciplines such as striking, grappling, and submission techniques.\n* Originated in the 20th century by combining various martial art styles.\n* Has evolved into a global phenomenon with professional leagues and competitions.\n\n**Roman Coliseum Games**\n\n* Ancient spectacles held in ancient Rome from 64 BCE to 41 CE.\n* Combined athletic contests, including wrestling, chariot racing, and gladiatorial combats.\n* The main purpose was entertainment and spectacle rather than competitive sports.\n\n**Similarities and Differences Between MMA and Roman Colosseum Games**\n\n* Both involved physical competition and skill displays.\n* Both had elaborate rules and regulations to ensure fair play.\n* Both attracted large audiences due to their dramatic nature.\n* However, MMA is more regulated and controlled than the Colosseum games, which were open to anyone regardless of fitness level or training.\n\n**Conclusion**\n\nWhile there are some similarities between MMA and the Colosseum games, they are not entirely the same. MMA is a modern sporting discipline with professional leagues and competitions, while the Colosseum games were primarily recreational events."
+        "3_shot_decomposition": "What is the definition of an Olympic athlete?\nWhat is the duration of a typical Olympic marathon?"
     }
 ]

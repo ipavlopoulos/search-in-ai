@@ -8,7 +8,7 @@
             "If yes, what was the World War II battle it was named after?",
             "Based on this, was the ship named after a World War II battle?"
         ],
-        "0_shot_decomposition": "Sure, here is the sub-question you requested:\n\n**Sub-Question:** Was ship that recovered Apollo 13 named after a World War II battle?"
+        "0_shot_decomposition": "subq1: What was the name of the ship that recovered Apollo 13?\nsub"
     },
     {
         "id": "427fe3968e32005479b9",
@@ -20,7 +20,7 @@
             "Can someone without a tibia still be part of a team that wins the Stanley Cup?",
             "Based on this, is the tibia necessary to win the Stanley Cup?"
         ],
-        "0_shot_decomposition": "Sure, here is the sub-question you requested:\n\n**Sub-Question:** Is the tibia necessary to win the Stanley Cup?"
+        "0_shot_decomposition": "subq1: What is the tibia?\nsubq2: What is its role in the"
     },
     {
         "id": "06b9ed3f803e3d5796ed",
@@ -32,7 +32,7 @@
             "Are there any symbolic or design conflicts between the Powerpuff Girls style and the Azerbaijani flag’s elements?",
             "Based on this, is it possible for the Powerpuff Girls to make the background to the Azerbaijani flag?"
         ],
-        "0_shot_decomposition": "Sure, here are the sub-questions:\n\n1. What is the purpose of the Azerbaijani flag?\n2. What colors are used in the Azerbaijani flag?\n3. Are there any specific patterns or designs incorporated into the flag design?\n4. How did the Powepuff Girls contribute to the creation of the Azerbaijani flag?"
+        "0_shot_decomposition": "subq1: What is the background of the Azerbaijani flag?\nsubq2: What"
     },
     {
         "id": "5090f573b09ac3050824",
@@ -42,7 +42,7 @@
             "Are there youth groups named or labeled after 'Young Bears' that focus on skills training?What kinds of skills or activities do these groups typically teach?",
             "Based on this, are both 'Eagles' and 'Young Bears' commonly used as names for skills-training youth groups?"
         ],
-        "0_shot_decomposition": "Sure, here are the sub-questions:\n\n1. Are eagles used as labels for skills-training youth groups?\n2. Are young bears used as labels for skills-training youth groups?"
+        "0_shot_decomposition": "subq1: Are eagles used as labels for skills-training youth groups?\nsubq2"
     },
     {
         "id": "d912709b7341dd86ba39",
@@ -54,6 +54,6 @@
             "Are there factors like pace, recovery, or event specialty that affect whether they’d be tired?",
             "Based on this, would an Olympic athlete likely be tired out after running a mile?"
         ],
-        "0_shot_decomposition": "1. How long is a mile?\n2. What is the average training time for an Olympic athlete?\n3. How does the duration of training affect fatigue?"
+        "0_shot_decomposition": "subq1: How long would an Olympic athlete need to run to be tired out after running a"
     }
 ]

@@ -7,7 +7,7 @@
             "What nationality Ed Wood had?",
             "Was the nationality the same?"
         ],
-        "3_shot_decomposition": "What nationalities were Scott Derrickson and Ed Wood Jr.? \nAre their nationalities identical?"
+        "3_shot_decomposition": "Is Scott Derrickson American?\nWas Ed Wood born in England but naturalized American later?\nAre both individuals from different birth countries but one having gained another country citizenship after being born there initially?"
     },
     {
         "id": "5a8c7595554299585d9e36b6",
@@ -16,7 +16,7 @@
             "Who potrayed Caroliss Archer in the film Kiss and Tell?",
             "What governement position was held by her?"
         ],
-        "3_shot_decomposition": "In which film did Claire Carleton portray Corliss Archer?\nWhat role did Claire Carleton play in the film \"Kiss and Tell\"? \nWas Claire Carleton a U.S. politician?"
+        "3_shot_decomposition": "In which film appeared Colleen Townsend playing Corliss Archer?\nWhat type of movie is Kiss and Tell (1945)?\nWas there more than one actress portraying Corliss Archer in films based on Betty Cornell's novel series?\nWho played the role of Corliss Archer in the 1957 TV show Corliss Archer Show?\n Who starred in the 1960s television adaptation Corliss Tanner?\n In what year was the first book written by Betty Cornell titled \"Kiss and Tell\"? \n What is the title of the main female protagonist from the novels by Betty Cornell?"
     },
     {
         "id": "5a85ea095542994775f606a8",
@@ -26,7 +26,7 @@
             "Is this book series classified as science fantasy and written for young adults?",
             "Is this series narrated in the first person?"
         ],
-        "3_shot_decomposition": "In which genre does the book series fall (science fiction/fantasy)?\nIs the narrative format of the main series first-person narration?\nAre there companion books in this series telling the stories of enslaved worlds and alien species?"
+        "3_shot_decomposition": "In which genre does the book series belong (science fiction/fantasy)?\nIs it primarily aimed at adults or younger readers (young adult)?\nHow many companions books exist within the main narrative?\nAre these companion books also written from different perspectives/narrators? \nWhat is the primary narration style used throughout the series?"
     },
     {
         "id": "5adbf0a255429947ff17385a",
@@ -36,7 +36,7 @@
             "Where is Laleli Mosque located?What is Esma Sultan Mansion?",
             "Where is Esma Sultan Mansion located?Are they located in the same neighborhood?"
         ],
-        "3_shot_decomposition": "In which district are both the Laleli Mosque and Esma Sultan Mansion located?\nIs there more than one location where both the Laleli Mosque and Esma Sultan Mansion can be found?"
+        "3_shot_decomposition": "Is there more than one location mentioned (Laleli Mosque and Esma Sultan Mansion)?\nIn which city are these two locations situated?\nWhat neighborhoods exist within Istanbul where both buildings can be found? \nCan you identify the specific neighborhood for each building separately?"
     },
     {
         "id": "5a8e3ea95542995a26add48d",
@@ -45,6 +45,6 @@
             "Who directed the the romantic comedy 'Big Stone Gap'?",
             "In what New York city is the director located?"
         ],
-        "3_shot_decomposition": "In which film does the term \"Big Stone Gap\" appear as its title?\nIs the movie \"Big Stone Gap\" a romantic comedy?\nWhere is the production team for the movie \"Big Stone Gap\" primarily based?"
+        "3_shot_decomposition": "What is the title of the movie being directed by Adriana Trillini?\nIs the director of Big Stone Gap male or female? \nIn which US state does the film Big Stone Gap take place?\nIn which year was the film Big Stone Gap released? \nIs the location mentioned (New York City) related to where the director lives, or just one filming location?"
     }
 ]

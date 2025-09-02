@@ -8,7 +8,7 @@
             "If yes, what was the World War II battle it was named after?",
             "Based on this, was the ship named after a World War II battle?"
         ],
-        "3_shot_decomposition": "Does NASA name spacecraft based off of battles fought during war history like Battle Of Normandy. Was this particular craft also given such naming convention.?"
+        "3_shot_decomposition": "What was the name of the ship that recovered Apollo 13?\nWhat was the name of the World War II battle that the ship was named after?\nAre there any connections between the name of the ship and the battle it was named after?"
     },
     {
         "id": "427fe3968e32005479b9",
@@ -20,7 +20,7 @@
             "Can someone without a tibia still be part of a team that wins the Stanley Cup?",
             "Based on this, is the tibia necessary to win the Stanley Cup?"
         ],
-        "3_shot_decomposition": "Does winning The Stanly cup require using your Tibia bone specifically against opponents legs during gameplay of hockey game. \n\nThe answer should include information about whether this rule exists within Hockey rules"
+        "3_shot_decomposition": "What is the Stanley Cup trophy made of?\nWhat part of the body is the tibia, and is it essential to win the Stanley Cup?\nDoes the tibia play a role in basketball skills needed to win the Stanley Cup?\nIf the tibia is not essential to win, what other physical attribute is most critical to success in basketball and winning the Stanley Cup?"
     },
     {
         "id": "06b9ed3f803e3d5796ed",
@@ -32,7 +32,7 @@
             "Are there any symbolic or design conflicts between the Powerpuff Girls style and the Azerbaijani flag’s elements?",
             "Based on this, is it possible for the Powerpuff Girls to make the background to the Azerbaijani flag?"
         ],
-        "3_shot_decomposition": "Does Azerbaijan have any official symbols that resemble those of The Powerpuff girls' design style like its coat arms color red & yellow similar  to Red Riding Hood character designed after Little Bo Peepers fairy tale characters."
+        "3_shot_decomposition": "To what extent would the design of the Powepuff Girls match the colors and overall style of the Azerbaijani flag?\nWould the inclusion of the Powepuff Girls design match the theme of the Azerbaijani flag?\nWould incorporating the Powepuff Girls design into the Azerbaijani flag be aesthetically pleasing?\nIs there any precedent for such design combinations in flags of other countries?"
     },
     {
         "id": "5090f573b09ac3050824",
@@ -42,7 +42,7 @@
             "Are there youth groups named or labeled after 'Young Bears' that focus on skills training?What kinds of skills or activities do these groups typically teach?",
             "Based on this, are both 'Eagles' and 'Young Bears' commonly used as names for skills-training youth groups?"
         ],
-        "3_shot_decomposition": "Do eagle cubs have similar training practices like those of Young Bears Youth Group (YBYG)? \n\nDoes YBG use other animal symbols besides just \"eagle\"  and 'bear'?"
+        "3_shot_decomposition": "Are eagles and young bears similar skills-training youth groups?\nDo the names \"eagles\" and \"young bears\" accurately describe the activities of these groups?\nDoes the name \"eagles\" accurately describe the skills training provided by these groups?\nDoes the name \"young bears\" accurately describe the skills training provided by these groups?"
     },
     {
         "id": "d912709b7341dd86ba39",
@@ -54,6 +54,6 @@
             "Are there factors like pace, recovery, or event specialty that affect whether they’d be tired?",
             "Based on this, would an Olympic athlete likely be tired out after running a mile?"
         ],
-        "3_shot_decomposition": "How much energy does it take roughly  to run one miles at average speed of human being. \n\nDoes Running A Mile Really Take That Much Energy Out Of You After The Race Is Over.?"
+        "3_shot_decomposition": "What is the average distance for an Olympic mile?\nWhat is the physical exertion required to run a mile, and would an athlete be significantly tired after completing it?\nWould an Olympic athlete be extremely tired after running a mile?"
     }
 ]

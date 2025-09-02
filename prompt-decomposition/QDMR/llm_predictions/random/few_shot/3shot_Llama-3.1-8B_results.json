@@ -3,30 +3,30 @@
         "id": "CWQ_dev_WebQTest-1011_c0be4f76a5397ba6d0d06f53905e504b",
         "original_question": "What Tibetan speaking countries have a population of less than 993885000?",
         "gold_decomposition": "return Tibetan speaking countries\nreturn #1 that have a population of less than 993885000",
-        "3_shot_decomposition": "return country with population of less than 993885000 \nreturn #1 where official language is Tibetan"
+        "3_shot_decomposition": "tibetan language \ncountry with tibetan language\npopulation size\n#1 country where population is less than 993885000"
     },
     {
         "id": "CWQ_dev_WebQTest-1011_edc922a0faa1e47614eb7e6effe2d1a1",
         "original_question": "What country uses Tibetan that has Anren Town , Sichuan?",
         "gold_decomposition": "return the country that uses Tibetan\nreturn #1 that Anren Town , Sichuan is in",
-        "3_shot_decomposition": "return country where Tibetan is spoken \nreturn #1 which includes province with city Anren Town"
+        "3_shot_decomposition": "subq1: what is name of country \nsubq2: does it use Tibetan language \nsubq3: where is located Anren town \nsubq4: which province is Anren Town part of"
     },
     {
         "id": "CWQ_dev_WebQTest-1036_0b5333d98ef87008aa02d1fbc1554b05",
         "original_question": "What is the most common language in the country where Jamaican English is spoken?",
         "gold_decomposition": "return the country where Jamaican English is spoken\nreturn what is the most common language in #1",
-        "3_shot_decomposition": "return country where Jamaican English is spoken\nreturn #1 what is official language there \nreturn #2 is it more widely spoken than other languages"
+        "3_shot_decomposition": "country where Jamaican English is spoken \nlanguage \n#1 what is the most commonly used language"
     },
     {
         "id": "CWQ_dev_WebQTest-1036_4e73509d14bda62590480b655eee8751",
         "original_question": "What language is spoken in the country that uses the Jamacian Dollar?",
         "gold_decomposition": "return the country that uses the Jamacian Dollar\nreturn the language spoken in #1",
-        "3_shot_decomposition": "return name of country using Jamaican dollar \nreturn #1 official language"
+        "3_shot_decomposition": "country \n#1 that uses Jamaican dollar\n#2 what currency it uses\n#3 name of the country\n#4 official language(s)"
     },
     {
         "id": "CWQ_dev_WebQTest-1081_1ecabf57357cb4abd089a4af52154854",
         "original_question": "Where did George Washington Carver go to school with the largest number of postgraduates?",
         "gold_decomposition": "return schools that George Washington Carver go to\nreturn postgraduates of #1\nreturn the number of #2 for each #1\nreturn #1 where #3 is the largest",
-        "3_shot_decomposition": "return institution where george washington carver went to school \nreturn #1 which had the most postgraduate students"
+        "3_shot_decomposition": "subq1: Where is Tuskegee University located?\nsubq2: What university did George Washington Carver attend? \nsubq3: Did George Washington Carver graduate from this institution?"
     }
 ]
