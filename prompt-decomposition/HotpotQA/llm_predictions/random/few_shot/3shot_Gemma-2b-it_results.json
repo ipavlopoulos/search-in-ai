@@ -7,7 +7,7 @@
             "What nationality Ed Wood had?",
             "Was the nationality the same?"
         ],
-        "3_shot_decomposition": "Scott Derrickson and Ed Wood are both American directors."
+        "3_shot_decomposition": "What was the nationality of Scott Derrickson and Ed Wood?\nDid Scott Derrickson and Ed Wood"
     },
     {
         "id": "5a8c7595554299585d9e36b6",
@@ -16,7 +16,7 @@
             "Who potrayed Caroliss Archer in the film Kiss and Tell?",
             "What governement position was held by her?"
         ],
-        "3_shot_decomposition": "The context does not provide any information about the woman who played Corliss Archer in the film Kiss and Tell, so I cannot answer this question from the provided context."
+        "3_shot_decomposition": "I cannot provide the answer to this question as the context does not provide any information about Corliss Archer"
     },
     {
         "id": "5a85ea095542994775f606a8",
@@ -26,7 +26,7 @@
             "Is this book series classified as science fantasy and written for young adults?",
             "Is this series narrated in the first person?"
         ],
-        "3_shot_decomposition": "What is The Hunger Games series?\nIn what genre is The Hunger Games series?"
+        "3_shot_decomposition": "What is the name of the science fantasy young adult series?\nWhat is the name of the series"
     },
     {
         "id": "5adbf0a255429947ff17385a",
@@ -36,7 +36,7 @@
             "Where is Laleli Mosque located?What is Esma Sultan Mansion?",
             "Where is Esma Sultan Mansion located?Are they located in the same neighborhood?"
         ],
-        "3_shot_decomposition": "I cannot access real-time or location-based information, therefore I cannot answer this question."
+        "3_shot_decomposition": "Where are the Laleli Mosque and Esma Sultan Mansion located?\nAre they in the same"
     },
     {
         "id": "5a8e3ea95542995a26add48d",
@@ -45,6 +45,6 @@
             "Who directed the the romantic comedy 'Big Stone Gap'?",
             "In what New York city is the director located?"
         ],
-        "3_shot_decomposition": "What is the name of the director of the romantic comedy \"Big Stone Gap\"?\nWhat city does the director reside in?"
+        "3_shot_decomposition": "What city is the director of the romantic comedy \"Big Stone Gap\" based in?\nWhich famous"
     }
 ]

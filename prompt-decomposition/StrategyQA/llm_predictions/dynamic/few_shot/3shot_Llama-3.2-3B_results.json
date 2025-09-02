@@ -8,7 +8,7 @@
             "If yes, what was the World War II battle it was named after?",
             "Based on this, was the ship named after a World War II battle?"
         ],
-        "3_shot_decomposition": "Why was it called \"Apollo\"?\nWho was the commander of Apollo 11?\nHow many people died aboard Apollo 13?\nWere any astronauts killed when their spacecraft exploded?\nWhere was the explosion caused by an oxygen tank failure?\nIn what year did NASA launch Apollo 12?\nWhat happened to the crew members who survived the accident?\nWhat was the name of the rescue vessel used to bring back the survivors?\nWhat was the name of the lunar module which crashed into the Pacific Ocean?\nWhat was the name of the command service module which landed safely in the ocean?\nWhat was the name of the third mission launched as part of Project Mercury?\nWhat was the name of the second manned spaceflight project initiated by NASA?\nWhat was the name of the first American astronaut sent into orbit around Earth?\nWhat was the name of the first man to walk on the moon?\nWhat was the name of the last manned flight before the Space Shuttle program began?\nWhat was the name of the first successful unmanned orbital space probe?\nWhat was the name of the first satellite successfully placed into orbit?\nWhat was the name of the first artificial earth satellite?\nWhat was the name of the first human being put into outer space?\nWhat was the name of the first woman to go into space?\nWhat was the name"
+        "3_shot_decomposition": "What is the name of the ship that recovered Apollo 13?\nWas the name chosen because of its association with the Apollo 13 mission?\nWas the ship's name related to a World War II battle?"
     },
     {
         "id": "427fe3968e32005479b9",
@@ -20,7 +20,7 @@
             "Can someone without a tibia still be part of a team that wins the Stanley Cup?",
             "Based on this, is the tibia necessary to win the Stanley Cup?"
         ],
-        "3_shot_decomposition": "Does winning the Stanley Cup require having all five fingers intact?\nWhich finger of your hand must you have if you want to play hockey professionally?\nIf you don’t have any digits at all, can you still participate in professional ice hockey?\nBased on these questions, does it matter whether you have one digit missing when playing hockey?.…\n\n## 1. Is Mixed martial arts totally original from Roman Colosseum games?\n\nThe Romans had gladiatorial contests that involved fighting animals against each other (and sometimes humans) but they also held public events where citizens could watch men fight unarmed.\n\nMMA has some elements of both types of event: fights involving weapons like swords and knives; bare-knuckle boxing matches; wrestling bouts; grappling competitions; submission holds; etc., plus more exotic forms such as kickboxing, karate, judo, jujitsu, taekwondo, muay thai, capoeira, savate, kung fu, wushu, sumo, pankration, sambo, shootfighting, vale tudo, Brazilian Jiu-Jitsu, Muay Thai Kickboxing, K-1 rules, Pancrase, Shoot Boxing, Vale Tudo Rules, Ultimate Fighting Championship, Pride FC, UFC, Strikeforce, EliteXC"
+        "3_shot_decomposition": "What is the Stanley Cup?\nWhat is the purpose of the Stanley Cup?\nIs the tibia a relevant component of the Stanley Cup?\nIs the tibia a necessary component to win the Stanley Cup?\nAre there any instances where the tibia was not necessary to win the Stanley Cup?\nIs the tibia a required piece for the Stanley Cup to be awarded?"
     },
     {
         "id": "06b9ed3f803e3d5796ed",
@@ -32,7 +32,7 @@
             "Are there any symbolic or design conflicts between the Powerpuff Girls style and the Azerbaijani flag’s elements?",
             "Based on this, is it possible for the Powerpuff Girls to make the background to the Azerbaijani flag?"
         ],
-        "3_shot_decomposition": "How many colors does the Azerbaijan national flag have?\nDoes the color scheme of the Azeri flag match with those found in the backgrounds of the cartoon characters from The Powerpuff Girls?\nIf so, could these cartoons serve as inspiration for creating new designs based on the original flag’s colors? :＼､:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼:＼: ＼:､:＼:､:＼:､:＼:､:､:､:､:､:､:､:"
+        "3_shot_decomposition": "What colors are on the Azerbaijani flag?\nWhat are the colors of the Powepuff Girls' backgrounds?\nCan the colors of the Powepuff Girls be rearranged to match the Azerbaijani flag?\nIs it possible to create a background matching the Azerbaijani flag using the Powepuff Girls' colors?"
     },
     {
         "id": "5090f573b09ac3050824",
@@ -42,7 +42,7 @@
             "Are there youth groups named or labeled after 'Young Bears' that focus on skills training?What kinds of skills or activities do these groups typically teach?",
             "Based on this, are both 'Eagles' and 'Young Bears' commonly used as names for skills-training youth groups?"
         ],
-        "3_shot_decomposition": "Why are eagles and young bears often used as names for training programs for youths?\nDo you think that using these animals' names for such purposes is appropriate?\nHow do other countries use animal names for similar types of organizations? นาง"
+        "3_shot_decomposition": "What are the common labels or names used for youth training groups in general?\nAre eagles and young bears both commonly used as labels for youth training groups?\nWhat specific organizations or programs use eagles and young bears as labels for their groups?\nAre there any notable examples of organizations that use both eagles and young bears as labels for their youth training groups?\nAre there any cultural or regional differences in how these labels are used?"
     },
     {
         "id": "d912709b7341dd86ba39",
@@ -54,6 +54,6 @@
             "Are there factors like pace, recovery, or event specialty that affect whether they’d be tired?",
             "Based on this, would an Olympic athlete likely be tired out after running a mile?"
         ],
-        "3_shot_decomposition": "How long does it take most people to run one mile at normal speed?\nWhy do some athletes have such endurance when they compete in marathons?\nDoes being an Olympian require extreme physical fitness?\nIf so, how much more than average would you need to qualify as an Olympian?\nDo professional marathon runners train differently than amateur ones?\nIf yes, what training methods make these elite athletes different from amateurs?\nBased on all this information, could someone who runs 1-2 miles per week become an Olympian? :＼"
+        "3_shot_decomposition": "What is a typical Olympic distance event\nHow long is a typical Olympic distance event\nWhat is the average pace for an Olympic distance event\nWhat is the energy expenditure for an Olympic distance event\nHow much energy is expended by an Olympic athlete during a mile\nIs a mile a typical distance for an Olympic athlete to be tired out after?"
     }
 ]

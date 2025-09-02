@@ -7,7 +7,7 @@
             "What nationality Ed Wood had?",
             "Was the nationality the same?"
         ],
-        "3_shot_decomposition": "Are Scottie Derronickn  and Edward Woood from which country they were born into respectively. \n\nPlease provide more information to answer that question if you want me too"
+        "3_shot_decomposition": "Are Scott Derrickson and Ed Wood of the same nationality?\nWhat nationality are Scott Derrickson and Ed Wood?"
     },
     {
         "id": "5a8c7595554299585d9e36b6",
@@ -16,7 +16,7 @@
             "Who potrayed Caroliss Archer in the film Kiss and Tell?",
             "What governement position was held by her?"
         ],
-        "3_shot_decomposition": "In which movie role does actress Natasha Lyonne play an assassin with red hair that she dyes blonde to match her characters appearance at one point during filming.\n\nPlease provide me more information so I can answer your question fully: What political office had been previously occupied  by said actor/actress prior their portrayal as such on screen.?"
+        "3_shot_decomposition": "What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?\nWhat was the name of the woman who portrayed Corliss Archer in the film Kiss and Tell?"
     },
     {
         "id": "5a85ea095542994775f606a8",
@@ -26,7 +26,7 @@
             "Is this book series classified as science fantasy and written for young adults?",
             "Is this series narrated in the first person?"
         ],
-        "3_shot_decomposition": "In which sci-fi book universe does The Hobbit exist within as well. What title are these novels collectively known by.?\n\nPlease provide me with more information to answer both questions if you wish..."
+        "3_shot_decomposition": "What science fantasy young adult series does the text describe?\nWhat are the companion books in the series called?"
     },
     {
         "id": "5adbf0a255429947ff17385a",
@@ -36,7 +36,7 @@
             "Where is Laleli Mosque located?What is Esma Sultan Mansion?",
             "Where is Esma Sultan Mansion located?Are they located in the same neighborhood?"
         ],
-        "3_shot_decomposition": "Whether they are situated within close proximity to each other. Please provide more information if you want me answer that question as well!"
+        "3_shot_decomposition": "The text does not describe the Laleli Mosque and Esma Sultan Mansion, therefore I cannot answer this question."
     },
     {
         "id": "5a8e3ea95542995a26add48d",
@@ -45,6 +45,6 @@
             "Who directed the the romantic comedy 'Big Stone Gap'?",
             "In what New York city is the director located?"
         ],
-        "3_shot_decomposition": "In which NY City does Big stone gap take place. \n\nPlease provide me with more information so I can answer that question fully"
+        "3_shot_decomposition": "What New York city is the director of \"Big Stone Gap\" based in?\nWhat is the title of the romantic comedy \"Big Stone Gap\"?"
     }
 ]

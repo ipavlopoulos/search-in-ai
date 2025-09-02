@@ -7,7 +7,7 @@
             "What nationality Ed Wood had?",
             "Was the nationality the same?"
         ],
-        "3_shot_decomposition": "Scott Derrickson and Ed Wood were both American filmmakers. However, it's important to note that they lived during different time periods - Scott Derrickson is currently active (born in 1973), while Ed Wood passed away in 1978."
+        "3_shot_decomposition": "subq1: Who is Scott Derrickson?\nsubq2: Who is Ed Wood?\nsubq3: What is the nationality of Scott Derrickson?\nsubq4: What is the nationality of Ed Wood?\nsubq5: Are Scott Derrickson and Ed Wood of the same nationality?"
     },
     {
         "id": "5a8c7595554299585d9e36b6",
@@ -16,7 +16,7 @@
             "Who potrayed Caroliss Archer in the film Kiss and Tell?",
             "What governement position was held by her?"
         ],
-        "3_shot_decomposition": "Who acted as Corliss Archer in the film \"Kiss and Tell\"?\nWhat government position did she hold before her acting career?\nNote: It would be helpful to know which specific person you are asking about, as there may have been multiple individuals named Corliss Archer throughout history. Additionally, it's important to clarify if we're discussing the character from the film \"Kiss and Tell\" or an actual historical figure named Corliss Archer. If you could provide more context or details, I'd be happy to help answer your question! However, based on the information given, it seems unlikely that someone who acted in a movie played a significant role in government prior to their acting career."
+        "3_shot_decomposition": "subq1: Who portrayed Corliss Archer in the film Kiss and Tell?\nsubq2: In what film did Corliss Archer appear?\nsubq3: What is the name of the woman who portrayed Corliss Archer in the film Kiss and Tell?\nsubq4: What government position was held by the woman who portrayed Corliss Archer?"
     },
     {
         "id": "5a85ea095542994775f606a8",
@@ -26,7 +26,7 @@
             "Is this book series classified as science fantasy and written for young adults?",
             "Is this series narrated in the first person?"
         ],
-        "3_shot_decomposition": "Which science fiction young adult series features companion books telling the stories of enslaved worlds and alien species from their perspectives?\nWhat is the title of this series written in the first person?\n[Note: I believe you are referring to the Mass Effect video game series.]\nHowever, if we consider only book series, then the answer would be:\nThe Expanse series by James S. A. Corey also includes several companion novels that explore the experiences of various characters and civilizations outside the main storyline. These novels provide additional context and depth to the universe established in the primary series."
+        "3_shot_decomposition": "subq1: What is the name of the science fantasy young adult series?\nsubq2: In what person is the series narrated?\nsubq3: What is the genre of the series?\nsubq4: What is the set of companion books called?\nsubq5: What are the stories in the companion books about?\nsubq6: What is the subject of the stories in the companion books?"
     },
     {
         "id": "5adbf0a255429947ff17385a",
@@ -36,7 +36,7 @@
             "Where is Laleli Mosque located?What is Esma Sultan Mansion?",
             "Where is Esma Sultan Mansion located?Are they located in the same neighborhood?"
         ],
-        "3_shot_decomposition": "Where is the Laleli Mosque located?\nWhere is the Esma Sultan Mansion located?\nAre the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?\n\nAnswer: No, they are not. The Laleli Mosque is located in Istanbul, Turkey, near the Grand Bazaar. The Esma Sultan Mansion, also known as Kısık Ağa Mansions or Yeniçerri Harem, is situated on the European side of Istanbul, in the Balat district."
+        "3_shot_decomposition": "subq1: What is the name of the mosque in question?\nsubq2: What is the name of the mansion in question?\nsubq3: In which city are these structures located?\nsubq4: Are the Laleli Mosque and Esma Sultan Mansion in the same neighborhood?"
     },
     {
         "id": "5a8e3ea95542995a26add48d",
@@ -45,6 +45,6 @@
             "Who directed the the romantic comedy 'Big Stone Gap'?",
             "In what New York city is the director located?"
         ],
-        "3_shot_decomposition": "In which New York City does the director of 'Big Stone Gap' reside?\nWhere is the director of 'Big Stone Gap' based in New York? [\nIncorrect answer: Adrianne Palicki, an American actress, portrayed the lead role in the film 'Big Stone Gap'. However, she is not the director. The director of this film is Adriana Trigiani. She is based in New York City. Specifically, her base is in Manhattan."
+        "3_shot_decomposition": "subq1: Who is the director of the romantic comedy \"Big Stone Gap\"?\nsubq2: In which city is the director of \"Big Stone Gap\" based in New York?"
     }
 ]

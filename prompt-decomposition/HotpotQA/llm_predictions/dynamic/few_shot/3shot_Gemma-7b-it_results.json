@@ -7,7 +7,7 @@
             "What nationality Ed Wood had?",
             "Was the nationality the same?"
         ],
-        "3_shot_decomposition": "Are Scottie Derronick (Scott)  and Edward Woode(Ed ) from different nationalities or not."
+        "3_shot_decomposition": "What nationality was Scott Derrickson?\nWhat nationality was Ed Wood?\nWere Scott Derrickson and Ed Wood of the same nationality?"
     },
     {
         "id": "5a8c7595554299585d9e36b6",
@@ -16,7 +16,7 @@
             "Who potrayed Caroliss Archer in the film Kiss and Tell?",
             "What governement position was held by her?"
         ],
-        "3_shot_decomposition": "In which movie did Amanda Seyfried play her role as Elizabeth Bennet, alongside Keira Knightley. \n\nPlease provide more information about this question so I can answer it properly"
+        "3_shot_decomposition": "What government position did the woman who portrayed Corliss Archer in the film Kiss and Tell hold?\nWas the character Corliss Archer in Kiss and Tell portrayed by a woman or a man?"
     },
     {
         "id": "5a85ea095542994775f606a8",
@@ -26,7 +26,7 @@
             "Is this book series classified as science fantasy and written for young adults?",
             "Is this series narrated in the first person?"
         ],
-        "3_shot_decomposition": "In which sci-fi book universe does Harry Dresden exist within as an alternate timeline version to his own reality show on television called Witch Hunter Chronicle from Dark Horse Comics Inc.?"
+        "3_shot_decomposition": "What is the name of the science fantasy young adult series that has a set of companion books narrating the stories of enslaved worlds and alien species?\nWhat is the format of the companion books in the series?"
     },
     {
         "id": "5adbf0a255429947ff17385a",
@@ -36,7 +36,7 @@
             "Where is Laleli Mosque located?What is Esma Sultan Mansion?",
             "Where is Esma Sultan Mansion located?Are they located in the same neighborhood?"
         ],
-        "3_shot_decomposition": "Whether or not they are situated within close proximity to each other.\n\nIs there any information regarding their locations for me so I can answer this question accurately ?"
+        "3_shot_decomposition": "Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?\nIf they are located in different neighborhoods, which ones are they located in?"
     },
     {
         "id": "5a8e3ea95542995a26add48d",
@@ -45,6 +45,6 @@
             "Who directed the the romantic comedy 'Big Stone Gap'?",
             "In what New York city is the director located?"
         ],
-        "3_shot_decomposition": "In which NY City does Big stone gap take place. \n\nPlease provide more information if you want me to answer this question further"
+        "3_shot_decomposition": "Which New York city is the director of \"Big Stone Gap\" based in?\nWhere is the director of \"Big Stone Gap\" based?"
     }
 ]

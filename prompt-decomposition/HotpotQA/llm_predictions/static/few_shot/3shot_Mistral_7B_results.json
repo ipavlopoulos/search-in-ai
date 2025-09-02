@@ -7,7 +7,7 @@
             "What nationality Ed Wood had?",
             "Was the nationality the same?"
         ],
-        "3_shot_decomposition": "Scott Derrickson is an American filmmaker.\nEd Wood was also an American filmmaker. Both are from the United States."
+        "3_shot_decomposition": "subq1: What is the nationality of Scott Derrickson?\nsubq2: What is the nationality of Ed Wood?"
     },
     {
         "id": "5a8c7595554299585d9e36b6",
@@ -16,7 +16,7 @@
             "Who potrayed Caroliss Archer in the film Kiss and Tell?",
             "What governement position was held by her?"
         ],
-        "3_shot_decomposition": "In which film does the actress portray Corliss Archer?\nWhat government position was held by the actress who played Corliss Archer in 'Kiss and Tell'? (Note: Corliss Archer is not actually a government official but rather a high school student pretending to be one.)"
+        "3_shot_decomposition": "subq1: What is the name of the woman who portrayed Corliss Archer in the film Kiss and Tell?\nsubq2: In what film did the woman portray Corliss Archer?\nsubq3: What is the name of the government position held by the woman who portrayed Corliss Archer?"
     },
     {
         "id": "5a85ea095542994775f606a8",
@@ -26,7 +26,7 @@
             "Is this book series classified as science fantasy and written for young adults?",
             "Is this series narrated in the first person?"
         ],
-        "3_shot_decomposition": "In which science fiction young adult series are there companion books focusing on enslaved worlds and alien species?\nWhat is the title of this series written in the first person?\n[I believe the answer to be \"Mass Effect\", but I am unsure as the description provided does not exactly match any specific details from that series.]\n\nUpdate: After further research, it appears that the given information does not correspond to the Mass Effect series. Therefore, my initial response cannot be considered correct. If you have more information or if someone else can provide an accurate answer, please let me know!\n\nCorrection: My apologies for the incorrect response. At present, I do not possess enough knowledge to identify the correct answer based on the provided clues. Please check back later for updates or feel free to share your insights below. Thank you for visiting Brainly!"
+        "3_shot_decomposition": "subq1: What is the name of the science fantasy young adult series?\nsubq2: In what narrative perspective is the series told?\nsubq3: What is the name of the set of companion books that narrate the stories of enslaved worlds and alien species?"
     },
     {
         "id": "5adbf0a255429947ff17385a",
@@ -36,7 +36,7 @@
             "Where is Laleli Mosque located?What is Esma Sultan Mansion?",
             "Where is Esma Sultan Mansion located?Are they located in the same neighborhood?"
         ],
-        "3_shot_decomposition": "Where is the Laleli Mosque located?\nWhere is the Esma Sultan Mansion located?\nAre these two landmarks situated in the same neighborhood?\n\nAnswer: No, they are not. The Laleli Mosque is located in Istanbul, Turkey, near the Grand Bazaar. The Esma Sultan Mansion, also known as Kısık Ağa Mansions, is situated on the European side of Istanbul, in the Balat district."
+        "3_shot_decomposition": "subq1: What is the name of the first building in question?\nsubq2: What is the name of the second building in question?\nsubq3: In which neighborhood are these buildings located?"
     },
     {
         "id": "5a8e3ea95542995a26add48d",
@@ -45,6 +45,6 @@
             "Who directed the the romantic comedy 'Big Stone Gap'?",
             "In what New York city is the director located?"
         ],
-        "3_shot_decomposition": "In which New York City does the director of 'Big Stone Gap,' Adriana Trigiani, reside?\nNote: There are several cities named New York in the United States. Please specify if you mean New York City (New York) or any other location to avoid confusion. Since no such specification was provided in the question, I assume it refers to New York City, as it is the most commonly known one. If this assumption is incorrect, please let me know so I can adjust my answer accordingly."
+        "3_shot_decomposition": "subq1: Who is the director of the romantic comedy \"Big Stone Gap\"?\nsubq2: In which city is the director of \"Big Stone Gap\" based in New York?"
     }
 ]

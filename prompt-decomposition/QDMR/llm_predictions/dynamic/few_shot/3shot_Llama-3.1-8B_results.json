@@ -3,30 +3,30 @@
         "id": "CWQ_dev_WebQTest-1011_c0be4f76a5397ba6d0d06f53905e504b",
         "original_question": "What Tibetan speaking countries have a population of less than 993885000?",
         "gold_decomposition": "return Tibetan speaking countries\nreturn #1 that have a population of less than 993885000",
-        "3_shot_decomposition": "list all tibetan-speaking countries \nfor each one return its population\nfilter results for populations < 993885000"
+        "3_shot_decomposition": "subq1: What Tibetan languages does \"Tibetan speaking\" refer to?\nsubq2: Which countries use these languages predominantly?\nsubq3: What is the total world population threshold given (less than 993885000)?\nsubq4: Is there a specific time frame for which we're considering these countries' populations? \nsubq5: Are non-Tibetan speakers included in each country's overall population count?"
     },
     {
         "id": "CWQ_dev_WebQTest-1011_edc922a0faa1e47614eb7e6effe2d1a1",
         "original_question": "What country uses Tibetan that has Anren Town , Sichuan?",
         "gold_decomposition": "return the country that uses Tibetan\nreturn #1 that Anren Town , Sichuan is in",
-        "3_shot_decomposition": "return province where Anren Town is located \nreturn #1 which includes Tibetan language"
+        "3_shot_decomposition": "subq1: What province does Anren Town belong to?\nsubq2: In which country is Sichuan located?\nsubq3: Which language includes Tibetan?"
     },
     {
         "id": "CWQ_dev_WebQTest-1036_0b5333d98ef87008aa02d1fbc1554b05",
         "original_question": "What is the most common language in the country where Jamaican English is spoken?",
         "gold_decomposition": "return the country where Jamaican English is spoken\nreturn what is the most common language in #1",
-        "3_shot_decomposition": "return country where Jamaican English is spoken\nreturn primary language of #1"
+        "3_shot_decomposition": "subq1: What is the name of the country where Jamaican English is spoken?\nsubq2: Is Jamaican English the most widely used language there?\nsubq3: If not, what is the most commonly spoken language in that country?"
     },
     {
         "id": "CWQ_dev_WebQTest-1036_4e73509d14bda62590480b655eee8751",
         "original_question": "What language is spoken in the country that uses the Jamacian Dollar?",
         "gold_decomposition": "return the country that uses the Jamacian Dollar\nreturn the language spoken in #1",
-        "3_shot_decomposition": "return currency used in Jamaica\nreturn official language(s) of #1"
+        "3_shot_decomposition": "subq1: What country uses the Jamaican Dollar?\nsubq2: In which region is Jamaica located?\nsubq3: What languages are official in Jamaica?\nsubq4: Which one among them is most widely spoken?"
     },
     {
         "id": "CWQ_dev_WebQTest-1081_1ecabf57357cb4abd089a4af52154854",
         "original_question": "Where did George Washington Carver go to school with the largest number of postgraduates?",
         "gold_decomposition": "return schools that George Washington Carver go to\nreturn postgraduates of #1\nreturn the number of #2 for each #1\nreturn #1 where #3 is the largest",
-        "3_shot_decomposition": "return institution where George Washington Carver earned graduate degree \nreturn location of #1 if it has more than one campus"
+        "3_shot_decomposition": "subq1: Where did George Washington Carver attend graduate studies?\nsubq2: What institution had the most graduates when George Washington Carver attended it?"
     }
 ]
