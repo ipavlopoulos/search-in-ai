@@ -7,7 +7,7 @@
             "What nationality Ed Wood had?",
             "Was the nationality the same?"
         ],
-        "3_shot_decomposition": "What nationalities were Scott Derrickson and Ed Wood?\nAre their nationalities the same?"
+        "3_shot_decomposition": "Where were Scott Derrickson born?\nWhere was Edward D. Wood Jr. (also known as Ed Wood) born?"
     },
     {
         "id": "5a8c7595554299585d9e36b6",
@@ -16,7 +16,7 @@
             "Who potrayed Caroliss Archer in the film Kiss and Tell?",
             "What governement position was held by her?"
         ],
-        "3_shot_decomposition": "In which film did the actress portray Corliss Archer?\nWhat role does the questioner associate with the title 'Kiss and Tell'? \nWho played the lead female role in the associated film? \nWhat government position was held by this person?"
+        "3_shot_decomposition": "In which film appeared the portrayal of Corliss Archer?\nWho played the role of Corliss Archer in that film?\nWhat year was the film released?\nWas the actress portraying Corliss Archer in a major US government position during her time in office? \nIf so, what specific government position(s) were they holding?"
     },
     {
         "id": "5a85ea095542994775f606a8",
@@ -26,7 +26,7 @@
             "Is this book series classified as science fantasy and written for young adults?",
             "Is this series narrated in the first person?"
         ],
-        "3_shot_decomposition": "In which genre does the book series fall (science fiction/young adult)?\nIs the narrative format of the main storybooks first-person?\nAre there companion books in the series?\nWhose perspectives do these companion books tell?"
+        "3_shot_decomposition": "In which genre (science fiction/fantasy) does the book series belong?\nIs the narrative primarily told from one main protagonist's perspective?\nAre there companion books that tell parallel stories from different perspectives (worlds/species)?"
     },
     {
         "id": "5adbf0a255429947ff17385a",
@@ -36,7 +36,7 @@
             "Where is Laleli Mosque located?What is Esma Sultan Mansion?",
             "Where is Esma Sultan Mansion located?Are they located in the same neighborhood?"
         ],
-        "3_shot_decomposition": "Where is the Laleli Mosque located?\nWhere is the Esma Sultan Mansion located?\nDo these locations share the same neighborhood?"
+        "3_shot_decomposition": "Where are both the Laleli Mosque and Esma Sultan Mansion located?\nIs there only one specific neighborhood where these locations exist together?"
     },
     {
         "id": "5a8e3ea95542995a26add48d",
@@ -45,6 +45,6 @@
             "Who directed the the romantic comedy 'Big Stone Gap'?",
             "In what New York city is the director located?"
         ],
-        "3_shot_decomposition": "In which state does the film \"Big Stone Gap\" take place?\nIs the setting of the film actually located near a specific New York city? \nIf so, which one?"
+        "3_shot_decomposition": "In which US state does Big Stone Gap take place?\nIs the movie actually set in New York City rather than being filmed there? \nIn which New York city is the film's production company located?"
     }
 ]

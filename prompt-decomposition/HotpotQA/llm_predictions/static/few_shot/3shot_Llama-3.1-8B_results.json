@@ -7,7 +7,7 @@
             "What nationality Ed Wood had?",
             "Was the nationality the same?"
         ],
-        "3_shot_decomposition": "What country were Scott Derrickson and Ed Wood born in?\nAre their countries of birth the same?"
+        "3_shot_decomposition": "What country were both Scott Derrickson and Edward D. Wood born in?\nAre there any differences between their names (Scott vs Ed)?"
     },
     {
         "id": "5a8c7595554299585d9e36b6",
@@ -16,7 +16,7 @@
             "Who potrayed Caroliss Archer in the film Kiss and Tell?",
             "What governement position was held by her?"
         ],
-        "3_shot_decomposition": "In which film did Colleen Townsend portray Corliss Archer?\nWhat US state governorship was held by Colleen Townsend?"
+        "3_shot_decomposition": "In which film did Veronica Lake portray Corliss Archer?\nWas the actress also involved in politics?\nIf so, what specific government position(s) did she hold?"
     },
     {
         "id": "5a85ea095542994775f606a8",
@@ -26,7 +26,7 @@
             "Is this book series classified as science fantasy and written for young adults?",
             "Is this series narrated in the first person?"
         ],
-        "3_shot_decomposition": "In which book series does the narrator tell their story in first-person?\nWhat type of companion books exist within this series?"
+        "3_shot_decomposition": "Is the book series written by Suzanne Collins?\nDoes it start with the book 'I Am Number Four'? \nAre there other companion books titled 'The Luxen', 'The Loric Chronicles - Otherworld', 'The Shadowhunter Academy Series (Legacies)', 'Pandemonium,' not but does have similar companion series like 'Origins', 'Lorien Legacies Reckoning', 'Rebel Alliance Series'; however most notable being 'The Illuminae Files: The Andromeda Saga Companion Books.'"
     },
     {
         "id": "5adbf0a255429947ff17385a",
@@ -36,7 +36,7 @@
             "Where is Laleli Mosque located?What is Esma Sultan Mansion?",
             "Where is Esma Sultan Mansion located?Are they located in the same neighborhood?"
         ],
-        "3_shot_decomposition": "In which district are both the Laleli Mosque and Esma Sultan Mansion found?\nWhat is the name of this district?"
+        "3_shot_decomposition": "What neighborhoods contain the Laleli Mosque and the Esma Sultan Mansion respectively?\nIn which country/city are these locations found (assuming Istanbul)? \nIs there more than one location by each name?"
     },
     {
         "id": "5a8e3ea95542995a26add48d",
@@ -45,6 +45,6 @@
             "Who directed the the romantic comedy 'Big Stone Gap'?",
             "In what New York city is the director located?"
         ],
-        "3_shot_decomposition": "What is the title of the film directed by Adriana Trigiani?\nIn which New York City does the author-director live?"
+        "3_shot_decomposition": "What is the title of the movie mentioned in relation to the question?\nIs it true that the film \"Big Stone Gap\" (2014) is set in Virginia rather than being specifically related to a location within the state of New York?\nIn which city does the actual production team behind \"Big Stone Gap\", be it its directors, writers etc., have their offices or primary residence?"
     }
 ]

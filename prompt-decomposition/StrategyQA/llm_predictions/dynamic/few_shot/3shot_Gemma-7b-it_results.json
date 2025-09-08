@@ -8,7 +8,7 @@
             "If yes, what was the World War II battle it was named after?",
             "Based on this, was the ship named after a World War II battle?"
         ],
-        "3_shot_decomposition": "The name \"Apollo\" has not been used to describe any battles. The spacecraft's primary purpose had no connection with warfare either way therefore it does make sense naming such an object AFTER war related events as Battle Of Normandy"
+        "3_shot_decomposition": "What was the name of the ship that recovered Apollo 13?\nDid the ship that recovered Apollo 13 have a name associated with a World War II battle?\nIf the ship was named after a battle, which battle was it named after?"
     },
     {
         "id": "427fe3968e32005479b9",
@@ -20,7 +20,7 @@
             "Can someone without a tibia still be part of a team that wins the Stanley Cup?",
             "Based on this, is the tibia necessary to win the Stanley Cup?"
         ],
-        "3_shot_decomposition": "Does one need all of your limbs (including both tibias) intact at any point during hockey game play-offs like that awarded through winning  the Stanely cup. If not which limb does it involve most frequently when scoring goals.?"
+        "3_shot_decomposition": "What is the Stanley Cup?\nDoes the tibia play a role in winning the Stanley Cup?\nIf the tibia doesn't play a role, what other body part would be most important for winning the Stanley Cup?\nIf the tibia is not a factor in determining the winner of the Stanley Cup, what other factors are most important?\nDoes winning the Stanley Cup depend on a player's ability to have a healthy and strong tibia?"
     },
     {
         "id": "06b9ed3f803e3d5796ed",
@@ -32,7 +32,7 @@
             "Are there any symbolic or design conflicts between the Powerpuff Girls style and the Azerbaijani flag’s elements?",
             "Based on this, is it possible for the Powerpuff Girls to make the background to the Azerbaijani flag?"
         ],
-        "3_shot_decomposition": "The POWEPUFF GIRLS were not created specifically with any particular country's flags. They represent various cultural backgrounds rather than being tied exclusively  to one specific nation like Azerbaijan"
+        "3_shot_decomposition": "What colours are on the Azerbaijani flag?\nWhat are the design elements of the Azerbaijani flag?\nCould the Powepuff Girls design incorporate the colours of the Azerbaijani flag?\nWould the design of the Powepuff Girls be significantly altered if they were to represent the Azerbaijani flag?\nDoes the current design of the Powepuff Girls align with the overall aesthetic of the Azerbaijani flag?"
     },
     {
         "id": "5090f573b09ac3050824",
@@ -42,7 +42,7 @@
             "Are there youth groups named or labeled after 'Young Bears' that focus on skills training?What kinds of skills or activities do these groups typically teach?",
             "Based on this, are both 'Eagles' and 'Young Bears' commonly used as names for skills-training youth groups?"
         ],
-        "3_shot_decomposition": "Do eagle cubs have similar training practices compared against bear cub ones at an early age level within indigenous communities worldwide.\n\nDoes this question relate directly into skill development through physical strength & agility exercises like climbing trees/walls etc.?"
+        "3_shot_decomposition": "What is the meaning of the term \"eagle\" when used in the context of skills-training youth groups?\nIs the term \"young bear\" also used synonymously with \"eagle\" in this context?\nAre there any other symbols or imagery commonly used to describe skills-training youth groups in the area?"
     },
     {
         "id": "d912709b7341dd86ba39",
@@ -54,6 +54,6 @@
             "Are there factors like pace, recovery, or event specialty that affect whether they’d be tired?",
             "Based on this, would an Olympic athlete likely be tired out after running a mile?"
         ],
-        "3_shot_decomposition": "How much energy does it take roughly average person run one miles at moderate pace. \n\nThe amount  energy required by someone who runs distance varies depending upon factors such as age , fitness level gender body composition speed etc.., but generally speaking most people would feel moderately fatigued if they ran approximately half-mile under normal conditions . Running even further than quarter -miles will require more endurance which could lead fatigue over time"
+        "3_shot_decomposition": "How far is a mile?\nWhat is the average distance an Olympic athlete can run in a mile?\nHow much energy does it take to run a mile?\nWould an Olympic athlete be tired out after running a mile at their maximum speed?"
     }
 ]

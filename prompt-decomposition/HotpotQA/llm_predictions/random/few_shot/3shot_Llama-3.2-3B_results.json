@@ -7,7 +7,7 @@
             "What nationality Ed Wood had?",
             "Was the nationality the same?"
         ],
-        "3_shot_decomposition": "Was director Scott Derrickson born in America?\nWhich country were directors Scott Derrickson and Ed Wood both from?.…\n\nWhich film directed by Scott Derrickson won an Academy Award?\nWhich movie directed by Scott Derrickson received nominations at the Oscars?.…\n\nWhich actor played the role of Dr. Henry Wu on the TV show Stargate SG-1?\nWhich actor portrayed the role of Dr. Henry Wu on the television series Stargate:SG-1?.…\n\nWhich actress starred as Elizabeth Weir on the TV show Stargate SG-1?\nWhich actress appeared as Elizabeth Weir on the science fiction drama Stargate:SG-1?.…\n\nWhich actress had a recurring guest star appearance on the TV show Stargate SG-1?\nWhich actress made several appearances on the sci-fi series Stargate:SG-1?.…\n\nWhich actress voiced the role of Queen Amidala in Star Wars Episode I - The Phantom Menace?\nWhich actress provided her voice to play the part of Queen Amidala in Star Wars Episode 1:The Phantom Menace?.…\n\nWhich actress performed the role of Padmé Naberrie/Queen Amidala in Star Wars Episode II - Attack Of The Clones?\nWhich actress gave life to the role of Padme Naberre/P"
+        "3_shot_decomposition": "What nationality is Scott Derrickson?\nWhat nationality is Ed Wood?"
     },
     {
         "id": "5a8c7595554299585d9e36b6",
@@ -16,7 +16,7 @@
             "Who potrayed Caroliss Archer in the film Kiss and Tell?",
             "What governement position was held by her?"
         ],
-        "3_shot_decomposition": "In which movie does actress Jeanette Nolan portray an FBI agent?"
+        "3_shot_decomposition": "Who portrayed Corliss Archer in the film Kiss and Tell?\nWhat government position did the actress hold?"
     },
     {
         "id": "5a85ea095542994775f606a8",
@@ -26,7 +26,7 @@
             "Is this book series classified as science fantasy and written for young adults?",
             "Is this series narrated in the first person?"
         ],
-        "3_shot_decomposition": "What Science Fantasy Young Adult Series does not have any sequels to its original story line?.…\n\nWhich book series by Orson Scott Card features an artificial intelligence that can take on human form?.…\n\nWhich book series by Orson Scott Card features an AI with no memory but which learns from experience?.…\n\nWhich book series by Orson Scott Card features an AI capable of taking on multiple forms at once?.…\n\nWhich book series by Orson Scott Card features an AI capable of creating new lifeforms?.…\n\nWhich book series by Orson Scott Card features an AI capable of manipulating reality?.…\n\nWhich book series by Orson Scott Card features an AI capable of communicating telepathically?.…\n\nWhich book series by Orson Scott Card features an AI capable of controlling other AIs?.…\n\nWhich book series by Orson Scott Card features an AI capable of becoming immortal?.…\n\nWhich book series by Orson Scott Card features an AI capable of being self-aware?.…\n\nWhich book series by Orson Scott Card features an AI capable of learning languages?.…\n\nWhich book series by Orson Scott Card features an AI capable of using weapons?.…\n\nWhich book series by Orson Scott Card features an AI capable of surviving without food or water?.…\n\nWhich book series by Orson Scott Card features an AI capable"
+        "3_shot_decomposition": "In what series of books is the narrative first person?\nWhat companion books narrate the stories of enslaved worlds and alien species in this series?"
     },
     {
         "id": "5adbf0a255429947ff17385a",
@@ -36,7 +36,7 @@
             "Where is Laleli Mosque located?What is Esma Sultan Mansion?",
             "Where is Esma Sultan Mansion located?Are they located in the same neighborhood?"
         ],
-        "3_shot_decomposition": "Where are these buildings located?"
+        "3_shot_decomposition": "Is the Laleli Mosque located in Istanbul?\nIs the Esma Sultan Mansion located in Istanbul?\nIs the Laleli Mosque and the Esma Sultan Mansion located in the same neighborhood in Istanbul?"
     },
     {
         "id": "5a8e3ea95542995a26add48d",
@@ -45,6 +45,6 @@
             "Who directed the the romantic comedy 'Big Stone Gap'?",
             "In what New York city is the director located?"
         ],
-        "3_shot_decomposition": "Where does the film Big Stone Gap take place?\n\nWhich actor directed the movie Big Stone Gap?\nWhich actress starred as the lead role in the 2014 film Big Stone Gap?.…\n\nWhich country has been ruled by an absolute monarchy since its independence from Portugal in 1975?\nWhich country has had an absolute monarchy since gaining independence from Portugal in 1975?.…\n\nWhich state capital is located on the border between Texas and Oklahoma?\nWhich state capital lies at the junction of three states: Arkansas, Louisiana, and Mississippi?.…\n\nWhich U.S. president served during both World War I and II?\nWhich American President served during both world wars (World Wars I & II)?.…\n\nWhich former British colony became independent in 1960?\nWhich former British colony gained independence in 1960?.…\n\nWhich European nation borders France to the west and Italy to the east?\nWhich European nation shares land borders with France to the West and Italy to the East?.…\n\nWhich African nation borders Egypt to the north and Sudan to the south?\nWhich African nation shares land borders with Egypt to the North and Sudan to the South?.…\n\nWhich Asian island chain separates the Indian Ocean from the Pacific Ocean?\nWhich Island Chain Separates The Indian Ocean From The Pacific Ocean?.…\n\nWhich ocean surrounds most of Australia"
+        "3_shot_decomposition": "Which New York city is the director of \"Big Stone Gap\" based in?\nWhat is the name of the city?"
     }
 ]

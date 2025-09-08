@@ -8,7 +8,7 @@
             "If yes, what was the World War II battle it was named after?",
             "Based on this, was the ship named after a World War II battle?"
         ],
-        "3_shot_decomposition": "The USS Houston (CL-81) was indeed involved in the recovery of the Apollo 13 spacecraft. However, it was not named after any specific World War II battle. Instead, it was named after the city of Houston, Texas, as part of a tradition where US Navy ships have been given names reflecting their homeports. There has been some confusion due to another US Navy vessel, the USS Samuel B. Roberts (DE-410), which was named after the Battle of Samar during World War II. But the USS Houston did not share this connection."
+        "3_shot_decomposition": "subq1: What is the name of the ship that recovered Apollo 13?\nsubq2: Was there a World War II battle named after the ship that recovered Apollo 13?"
     },
     {
         "id": "427fe3968e32005479b9",
@@ -20,7 +20,7 @@
             "Can someone without a tibia still be part of a team that wins the Stanley Cup?",
             "Based on this, is the tibia necessary to win the Stanley Cup?"
         ],
-        "3_shot_decomposition": "The tibia is not a part of hockey equipment used by players. It's a bone located in the lower leg. Winning the Stanley Cup requires a team to have excellent performance in all aspects of ice hockey, including goaltending, skating, passing, shooting, and teamwork. There is no specific body part required to achieve this goal."
+        "3_shot_decomposition": "subq1: What is the tibia?\nsubq2: What is the Stanley Cup?\nsubq3: How is the Stanley Cup won?\nsubq4: Is the tibia a part of the human body that is relevant to playing ice hockey?\nsubq5: Is the tibia a part of the equipment used in ice hockey?\nsubq6: Does the tibia have any direct impact on the outcome of a hockey game or the Stanley Cup final?\nsubq7: Is the tibia a requirement for a player to participate in a hockey game or the Stanley Cup final?\nsubq8: Has the tibia ever been a factor in determining the winner of the Stanley Cup?\nsubq9: Is there any historical or anecdotal evidence suggesting that the tibia is necessary to win the Stanley Cup?\nsubq10: Based on the above, is the tibia necessary to win the Stanley Cup?"
     },
     {
         "id": "06b9ed3f803e3d5796ed",
@@ -32,7 +32,7 @@
             "Are there any symbolic or design conflicts between the Powerpuff Girls style and the Azerbaijani flag’s elements?",
             "Based on this, is it possible for the Powerpuff Girls to make the background to the Azerbaijani flag?"
         ],
-        "3_shot_decomposition": "The Powepuff Girls are fictional cartoon characters created by Cartoon Network. They have distinctive appearances as cute, bubbly girls with superpowers.\nThe design of national flags represents the history, culture, and symbols unique to each country.\nAzerbaijan's flag consists of three horizontal stripes: blue at the top representing the Caspian Sea, red in the middle symbolizing the blood shed for independence, and green at the bottom signifying the country's rich vegetation and natural resources.\nIt is unlikely that the Powepuff Girls could create a background that accurately reflects these elements and the meaning behind the colors in the Azerbaijani flag. Their appearance and powers do not align with the symbolism represented in the flag."
+        "3_shot_decomposition": "subq1: What is the Powepuff Girls?\nsubq2: What is the Azerbaijani flag?\nsubq3: What are the main elements of the Azerbaijani flag?\nsubq4: Can the Powepuff Girls create or design a flag?\nsubq5: Is it possible to incorporate the main elements of the Azerbaijani flag into a Powepuff Girls-themed design?\nsubq6: Would the resulting design still meet the requirements for a national flag?"
     },
     {
         "id": "5090f573b09ac3050824",
@@ -42,7 +42,7 @@
             "Are there youth groups named or labeled after 'Young Bears' that focus on skills training?What kinds of skills or activities do these groups typically teach?",
             "Based on this, are both 'Eagles' and 'Young Bears' commonly used as names for skills-training youth groups?"
         ],
-        "3_shot_decomposition": "Eagles and young bears have been used metaphorically to describe various concepts related to leadership development and skills training. However, they are not actually used as labels or mascots for all youth groups. Some organizations may use these animals as symbols due to their strength, agility, and other desirable traits. But it's essential to note that not every group using an eagle or bear name is directly associated with actual eagles or bears. It ultimately depends on the specific organization and its mission."
+        "3_shot_decomposition": "subq1: What are the names of the skills-training youth groups often referred to as \"eagles\" and \"bears\"?\nsubq2: Are these names derived from the animal species, eagles and bears, or are they metaphorical or symbolic names?\nsubq3: Are there any specific organizations or programs that use these names for their youth groups?\nsubq4: Are there any differences in the focus or activities of these youth groups, depending on whether they are called \"eagles\" or \"bears\"?\nsubq5: Are there any other animal names commonly used for skills-training youth groups, and if so, what are they?"
     },
     {
         "id": "d912709b7341dd86ba39",
@@ -54,6 +54,6 @@
             "Are there factors like pace, recovery, or event specialty that affect whether they’d be tired?",
             "Based on this, would an Olympic athlete likely be tired out after running a mile?"
         ],
-        "3_shot_decomposition": "An Olympic athlete's fitness level varies depending on their specific sport and training regimen. A one-mile run would not necessarily tire out all Olympic athletes as some may train regularly at longer distances. However, it could represent a significant challenge for those who primarily compete in shorter events like sprinting or weightlifting. Additionally, factors such as current form, mental preparation, and environmental conditions can also impact performance during a mile run. Overall, while a mile run might not exhaust every Olympic athlete, it could certainly provide a challenging workout."
+        "3_shot_decomposition": "subq1: What is the definition of an Olympic athlete?\nsubq2: What is the distance of a mile?\nsubq3: How does physical exertion affect an Olympic athlete's energy levels?\nsubq4: Is it possible for an Olympic athlete to run a mile without being tired?\nsubq5: What factors might contribute to an Olympic athlete feeling tired after running a mile?\nsubq6: Are there any exceptions or variables that could affect an Olympic athlete's level of tiredness after running a mile?\nsubq7: Based on the factors listed, is it likely that an Olympic athlete would be tired out after running a mile?"
     }
 ]

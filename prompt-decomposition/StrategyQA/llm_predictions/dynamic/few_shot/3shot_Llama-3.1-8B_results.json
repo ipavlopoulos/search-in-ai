@@ -8,7 +8,7 @@
             "If yes, what was the World War II battle it was named after?",
             "Based on this, was the ship named after a World War II battle?"
         ],
-        "3_shot_decomposition": "In what year was the Apollo 13 mission launched?\nWho built the recovery ships used by NASA?\nWhat was the name of one of these recovery ships involved with the Apollo 13 mission?\nWhy was the specific recovery ship chosen as its namesake?\nDoes the origin of the ship's name relate to a notable event such as a World War II battle?"
+        "3_shot_decomposition": "Which US Navy ships were involved in recovering astronauts from space missions?\nWhy was USS Iwo Jima not selected for recovery duties following the Apollo 13 mission?\nDoes USS Pampanito have any relation to a notable historical event like a war?\nHow does the name of the actual ship that recovered Apollo 13 relate to its historical significance?\nWho was the commander-in-chief Allied Forces North Africa during WWII?"
     },
     {
         "id": "427fe3968e32005479b9",
@@ -20,7 +20,7 @@
             "Can someone without a tibia still be part of a team that wins the Stanley Cup?",
             "Based on this, is the tibia necessary to win the Stanley Cup?"
         ],
-        "3_shot_decomposition": "Who wins the Stanley Cup?\nHow do teams qualify to compete for the Stanley Cup?\nDo players have to meet specific physical requirements to participate in the NHL playoffs?\nDoes having a healthy tibia affect participation in the NHL playoffs?"
+        "3_shot_decomposition": "subq1: What does winning the Stanley Cup require?\nsubq2: Is physical fitness related to bone health essential for hockey players?\nsubq3: Which bones play crucial roles in supporting athletic performance during ice hockey?\nsubq4: Can individuals participate in professional ice hockey if they have a missing or damaged tibia?"
     },
     {
         "id": "06b9ed3f803e3d5796ed",
@@ -32,7 +32,7 @@
             "Are there any symbolic or design conflicts between the Powerpuff Girls style and the Azerbaijani flag’s elements?",
             "Based on this, is it possible for the Powerpuff Girls to make the background to the Azerbaijani flag?"
         ],
-        "3_shot_decomposition": "Can the colors pink and blue be found among the primary colors used in the design of the Azerbaijani flag?\nDoes the pattern of the Azerbaijani flag include stripes or geometric shapes similar to those depicted in The Powerpuff Girls' backgrounds?\nDo the specific shades of pink and blue from The Powerpuff Girls match the exact hues required for the Azerbaijani flag's design?\nIf so, could the style and color scheme of The Powerpuff Girls potentially serve as inspiration for creating the background of the Azerbaijani flag?"
+        "3_shot_decomposition": "What does the current design of the Azerbaijani flag look like?\nCan a cartoon show featuring cute girls like The Powerpuff Girls create a realistic national flag design?\nDoes the color palette of The Powerpuff Girls match that of the Azerbaijani flag?\nConsidering these factors, can The Powerpuff Girls possibly influence the Azerbaijan flag's design?"
     },
     {
         "id": "5090f573b09ac3050824",
@@ -42,7 +42,7 @@
             "Are there youth groups named or labeled after 'Young Bears' that focus on skills training?What kinds of skills or activities do these groups typically teach?",
             "Based on this, are both 'Eagles' and 'Young Bears' commonly used as names for skills-training youth groups?"
         ],
-        "3_shot_decomposition": "Have eagles been historically associated with training programs or organizations?\nDo some cultures use eagle imagery to represent strength or skill-building among youth?\nHas the term \"eagle scout\" ever referred specifically to skilled youth?\nDoes the phrase \"bear cub\" refer to a group of trained or developing individuals?\nWere these terms commonly applied before modern times?"
+        "3_shot_decomposition": "In what cultures do eagle-related terms describe skill-based training programs?\nDoes the same apply to bear-themed labels in various cultural contexts?\nAre these eagle and bear terminology examples associated with similar types of organizations (e.g., scouting)?\nCan specific historical instances demonstrate usage of eagle/bear terminology as group identifiers?"
     },
     {
         "id": "d912709b7341dd86ba39",
@@ -54,6 +54,6 @@
             "Are there factors like pace, recovery, or event specialty that affect whether they’d be tired?",
             "Based on this, would an Olympic athlete likely be tired out after running a mile?"
         ],
-        "3_shot_decomposition": "How long does it take for an average person to run one mile at moderate pace?\nWhat level of physical fitness would an Olympic athlete possess compared to an average person?\nDoes being an Olympic athlete guarantee endurance beyond what's expected for someone who runs moderately fast?\nCould an Olympic athlete recover quickly enough to avoid feeling tired after running a single mile if they're accustomed to longer distances?"
+        "3_shot_decomposition": "How long does it take an average person to run one mile?\nCan an elite-level runner cover that distance faster than most athletes?\nDoes being an Olympic athlete imply having exceptional endurance abilities?\nAfter completing a standard mile race, what might be expected physical state of such an individual?"
     }
 ]

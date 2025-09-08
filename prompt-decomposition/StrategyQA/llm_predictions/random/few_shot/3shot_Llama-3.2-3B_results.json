@@ -8,7 +8,7 @@
             "If yes, what was the World War II battle it was named after?",
             "Based on this, was the ship named after a World War II battle?"
         ],
-        "3_shot_decomposition": "Which battleship was named USS Missouri (BB-63)?\nWhen did the battleship USS Missouri (BB-63) serve during World War II?\nWhy was the battleship USS Missouri (BB-63) named after the Battle of Midway?\nHow does naming a warship after a specific event relate to its history? :＼"
+        "3_shot_decomposition": "What ship is associated with the Apollo 13 mission?\nWas the ship named after a specific event or battle?\nIs the ship's name related to a World War II battle?\nWas the ship named after a World War II battle that occurred near the location of the Apollo 13 mission?"
     },
     {
         "id": "427fe3968e32005479b9",
@@ -20,7 +20,7 @@
             "Can someone without a tibia still be part of a team that wins the Stanley Cup?",
             "Based on this, is the tibia necessary to win the Stanley Cup?"
         ],
-        "3_shot_decomposition": "How many players need to play hockey to make up one team?\nWhich part of the body does each player use when playing hockey?\nDoes every member of a hockey team have to participate in order to win the Stanley Cup?.…\n\n### Is it possible that all members of a hockey team must play?\n\nThe answer depends upon how you define winning. If we consider only those teams who compete against other teams (as opposed to exhibition matches), then yes, everyone has to play.\n\nHowever, if we include exhibitions where some players may not even get into the game at all, then this requirement becomes less clear-cut; after all, what happens if two-thirds of your roster gets injured before they can take any ice time during regular season play? In such cases, perhaps only half of them will count towards wins anyway! But again - these things vary depending on league rules so I won't go further down that rabbit hole here because it's just too complicated.\n\n\n## What about professional sports leagues like MLB/NBA/MLS/etc.? Do they require participation from ALL players OR JUST SOME OF THEM TO COUNT TOWARDS WINNING THE CUP/CHEMISTRY CHALLENGE?\n\nIn most major pro sports leagues today including Major League Baseball (MLB) National Basketball Association(NBA),National Hockey"
+        "3_shot_decomposition": "What is the Stanley Cup?\nWhat is the role of the tibia in hockey or sports?\nIs the tibia a required part of the equipment or physical attributes to win the Stanley Cup?\nIs the tibia necessary for winning the Stanley Cup?"
     },
     {
         "id": "06b9ed3f803e3d5796ed",
@@ -32,7 +32,7 @@
             "Are there any symbolic or design conflicts between the Powerpuff Girls style and the Azerbaijani flag’s elements?",
             "Based on this, is it possible for the Powerpuff Girls to make the background to the Azerbaijani flag?"
         ],
-        "3_shot_decomposition": "Why do you think that Azerbaijan has chosen this particular color combination for its national flag?\nHow does the choice of colors reflect the history and cultural heritage of Azerbaijan?\nDoes it seem like a good idea to use cartoon characters such as those featured in The Powerpuff Girls cartoons as part of your country’s official flag design?rysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler"
+        "3_shot_decomposition": "What is the current design of the Azerbaijani flag?\nWhat colors are typically associated with the Azerbaijani flag?\nCan the colors of the Azerbaijani flag be used to create a background?\nWould a simple design like a geometric pattern be sufficient for the background?"
     },
     {
         "id": "5090f573b09ac3050824",
@@ -42,7 +42,7 @@
             "Are there youth groups named or labeled after 'Young Bears' that focus on skills training?What kinds of skills or activities do these groups typically teach?",
             "Based on this, are both 'Eagles' and 'Young Bears' commonly used as names for skills-training youth groups?"
         ],
-        "3_shot_decomposition": "How do you use eagle scout and bear cub as titles of training programs for youths?\nDo these terms have any other meanings outside this context?\nDoes using either word imply that it’s not just about being trained but also having some sort of merit badge awarded at completion?rysler Chrysler Jeep Dodge Ram Fiat\nWhat does ‘eagle’ mean when referring to scouting activities?\nWhat does ‘bear’ mean when referring to scouting activities?\nWhich words can only be applied to Scouting activities?rysler Chrysler Jeep Dodge Ram Fiat\nWhy did I get kicked out of my church choir because they didn’t like me singing gospel songs?\n.…\n\nWhat was your reason(s) for getting kicked out of the Church Choir?\n\n…\n\nDid anyone else ever experience similar issues before (or after)?\n\n….\n\nWas there anything specific about how you sang those particular Gospel Songs which made them uncomfortable enough to kick you out?\n\n.....\n\nWere there any other reasons given besides what we’ve already discussed here today regarding why exactly they decided against allowing us back into our group again tomorrow morning during rehearsal time period scheduled right now starting soon within next few minutes please join hands together around one another circle forming shape inside center area located directly underneath large cross hanging high above everyone present standing close up near each side wall facing opposite direction away towards farthest point"
+        "3_shot_decomposition": "What is the origin of the term “eagle scout”?\nWhat is the origin of the term “bear scout”?\nIs the term “eagle scout” commonly used in youth groups?\nIs the term “bear scout” commonly used in youth groups?\nAre eagles and young bears both used as labels for skills-training youth groups?"
     },
     {
         "id": "d912709b7341dd86ba39",
@@ -54,6 +54,6 @@
             "Are there factors like pace, recovery, or event specialty that affect whether they’d be tired?",
             "Based on this, would an Olympic athlete likely be tired out after running a mile?"
         ],
-        "3_shot_decomposition": "How long does it take most humans to run one mile at normal speed?\nDoes this time vary based on age, gender, fitness level, etc.?\nIf so, how much variation can occur due to these factors?\nDo Olympians have any special training that allows them to cover more distance than average person within same amount of time?rysler Chrysler Jeep Dodge Ram Fiat\nrysler Chrysler Jeep Dodge Ram Fiat"
+        "3_shot_decomposition": "What is a typical running distance for an Olympic athlete?\nHow long does it take an Olympic athlete to run a typical distance?\nIs running a typical distance for an Olympic athlete sufficient to cause fatigue?"
     }
 ]

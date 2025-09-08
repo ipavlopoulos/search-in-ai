@@ -8,7 +8,7 @@
             "If yes, what was the World War II battle it was named after?",
             "Based on this, was the ship named after a World War II battle?"
         ],
-        "3_shot_decomposition": "The name \"Apollo\" was not chosen because it relates directly  to any particular war. Instead its meaning has been interpreted as being related more closely by association than direct connection:\n\n**Meaning:** The word 'apollo' derives ultimately Greek origin which means “shining one” referring specifically about objects shining like gold (referring also sometimes stars)."
+        "3_shot_decomposition": "What was the name of the ship that recovered Apollo 13?\nWas that ship named after a World War II battle?\nIf yes, which battle was it named after?"
     },
     {
         "id": "427fe3968e32005479b9",
@@ -20,7 +20,7 @@
             "Can someone without a tibia still be part of a team that wins the Stanley Cup?",
             "Based on this, is the tibia necessary to win the Stanley Cup?"
         ],
-        "3_shot_decomposition": "Does winning an NHL game require using your tibias specifically as part gameplay mechanics like skating around other players. \n\nThe rules do not specify whether you must use any particular body parts when playing hockey"
+        "3_shot_decomposition": "Is the tibia bone relevant to playing hockey and scoring goals?\nDoes the tibia play a direct role in scoring goals in hockey?\nDoes an athlete need their tibia intact to win the Stanley Cup?"
     },
     {
         "id": "06b9ed3f803e3d5796ed",
@@ -32,7 +32,7 @@
             "Are there any symbolic or design conflicts between the Powerpuff Girls style and the Azerbaijani flag’s elements?",
             "Based on this, is it possible for the Powerpuff Girls to make the background to the Azerbaijani flag?"
         ],
-        "3_shot_decomposition": "The design principles behind flags often reflect cultural symbols. What does each part represent about Azerbaijan's culture as depicted by its Flag Design?...\n\nWould you like me provide information regarding other topics related  to mixedmartial art ,Roman coliseum game history etc.?"
+        "3_shot_decomposition": "What are the colors of the Azerbaijani flag?\nCould the Powepuff Girls recreate the colors of the Azerbaijani flag?\nWould this change be considered controversial or offensive?"
     },
     {
         "id": "5090f573b09ac3050824",
@@ -42,7 +42,7 @@
             "Are there youth groups named or labeled after 'Young Bears' that focus on skills training?What kinds of skills or activities do these groups typically teach?",
             "Based on this, are both 'Eagles' and 'Young Bears' commonly used as names for skills-training youth groups?"
         ],
-        "3_shot_decomposition": "Does \"eagle\" have any connection historically related specifically  to skill training programs designed primarily targeting youths ages 13 through eighteen years old ?\n\nAnd does “young bear” also hold similar historical ties within such contexts involving younger individuals being trained physically at an early age."
+        "3_shot_decomposition": "What is the meaning of the term \"eagle\" when used to describe young people?\nWhat is the meaning of the term \"bear\" when used to describe young people?\nAre youth skills-training groups sometimes labeled \"eagles\" and \"bears\"?"
     },
     {
         "id": "d912709b7341dd86ba39",
@@ -54,6 +54,6 @@
             "Are there factors like pace, recovery, or event specialty that affect whether they’d be tired?",
             "Based on this, would an Olympic athlete likely be tired out after running a mile?"
         ],
-        "3_shot_decomposition": "How much energy does it take physically  to run one miles at top speed as human being. \n\nThe average person would use about half his maximum oxygen capacity while jogging slowly over flat terrain covering roughly two kilometers (1mile) distance . The elite athletes like marathon runners cover similar distances using only around quarter if its maximal aerobic potential which means they have plenty left reserve when finishing such race even though most people wouldn't feel capable doing so due fatigue limiting endurance capabilities"
+        "3_shot_decomposition": "What is the average distance covered in a mile?\nWhat factors might contribute to an athlete's fatigue after running a mile?\nAssuming an Olympic athlete has a high level of endurance, would they be significantly tired out after running a mile?"
     }
 ]

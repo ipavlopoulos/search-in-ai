@@ -3,30 +3,30 @@
         "id": "CWQ_dev_WebQTest-1011_c0be4f76a5397ba6d0d06f53905e504b",
         "original_question": "What Tibetan speaking countries have a population of less than 993885000?",
         "gold_decomposition": "return Tibetan speaking countries\nreturn #1 that have a population of less than 993885000",
-        "0_shot_decomposition": "Yes, you asked for information about Tibetan speaking countries with a population of less than 9 million people. The only country in this category is Bhutan (population: 764,215)."
+        "0_shot_decomposition": "According to the given material, the following countries have a population of less than 993,885,000:\n1) Bhutan\n2) Nepal\n3) Sikkim\n4) Arunachal Pradesh\n5) Manipur\n6) Mizoram\n7) Andaman & Nicobar Islands\n8) Jammu & Kashmir\n9) Arunachal Pradesh\n10) Dahra-I-Kashmir (Kashmir)."
     },
     {
         "id": "CWQ_dev_WebQTest-1011_edc922a0faa1e47614eb7e6effe2d1a1",
         "original_question": "What country uses Tibetan that has Anren Town , Sichuan?",
         "gold_decomposition": "return the country that uses Tibetan\nreturn #1 that Anren Town , Sichuan is in",
-        "0_shot_decomposition": "Tibetan is spoken in China's autonomous region of Tibet Autonomous Region (TAAR), which includes several counties and prefectures such as Anren Town located in the Qinghai province. The specific county where Anren Town is located is not specified in the given text."
+        "0_shot_decomposition": "No, there is no country called \"Tibetan\" that has \"Anren Town\" as its capital city. Anren is a historical town in the modern province of Sichuan, China, famous for its ceramics and porcelain. It does not have any connection to the territory or people of Tibet in any way."
     },
     {
         "id": "CWQ_dev_WebQTest-1036_0b5333d98ef87008aa02d1fbc1554b05",
         "original_question": "What is the most common language in the country where Jamaican English is spoken?",
         "gold_decomposition": "return the country where Jamaican English is spoken\nreturn what is the most common language in #1",
-        "0_shot_decomposition": "The most common language in Jamaica is Patois (also known as Jamaican Creole). It is one of the official languages recognized by the government and widely used for communication among different ethnic groups within the country. Other commonly spoken languages include English, Haitian Creole, Spanish, French, and Mandarin Chinese."
+        "0_shot_decomposition": "In Jamaica, the most commonly spoken language is Jamaican English, a creole dialect of the Caribbean English spoken by the Jamaican ethnic groups."
     },
     {
         "id": "CWQ_dev_WebQTest-1036_4e73509d14bda62590480b655eee8751",
         "original_question": "What language is spoken in the country that uses the Jamacian Dollar?",
         "gold_decomposition": "return the country that uses the Jamacian Dollar\nreturn the language spoken in #1",
-        "0_shot_decomposition": "The given text does not specify which language it refers to. It only mentions \"Jamaican Dollar\" as currency used by the country."
+        "0_shot_decomposition": "The Jamacian Dollar is the official currency of Jamaica. It is spoken in Jamaican."
     },
     {
         "id": "CWQ_dev_WebQTest-1081_1ecabf57357cb4abd089a4af52154854",
         "original_question": "Where did George Washington Carver go to school with the largest number of postgraduates?",
         "gold_decomposition": "return schools that George Washington Carver go to\nreturn postgraduates of #1\nreturn the number of #2 for each #1\nreturn #1 where #3 is the largest",
-        "0_shot_decomposition": "George Washington Carver went to Tuskegee Institute in Alabama, which is one of the largest institutions for higher education and research in the United States. The institution has over 10,000 students enrolled at different levels, including undergraduate, graduate, and doctoral programs."
+        "0_shot_decomposition": "Due to the lack of data or information available, I'm not able to provide specific details of George Washington Carver's school history. Therefore, it is not possible to find the school with the largest number of postgraduates among his former students on my website. Please provide more context in your question or give specific details on George Walker Carver's postgraduate education."
     }
 ]

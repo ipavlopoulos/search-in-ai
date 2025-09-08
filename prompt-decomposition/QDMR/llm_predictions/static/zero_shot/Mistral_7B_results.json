@@ -3,30 +3,30 @@
         "id": "CWQ_dev_WebQTest-1011_c0be4f76a5397ba6d0d06f53905e504b",
         "original_question": "What Tibetan speaking countries have a population of less than 993885000?",
         "gold_decomposition": "return Tibetan speaking countries\nreturn #1 that have a population of less than 993885000",
-        "0_shot_decomposition": "1. Which Tibetan speaking countries exist in the world?\n2. For each country, what is its current estimated population size?\n3. Is the population size of each country less than 993,885,000?"
+        "0_shot_decomposition": "subq1: Which countries have Tibetan as an official language or a significant ethnic Tibetan population?\nsubq2: For each country identified, obtain the current population data.\nsubq3: For each country, compare the population data with the figure 993885000.\nsubq4: Identify the countries where the population is less than 993885000."
     },
     {
         "id": "CWQ_dev_WebQTest-1011_edc922a0faa1e47614eb7e6effe2d1a1",
         "original_question": "What country uses Tibetan that has Anren Town , Sichuan?",
         "gold_decomposition": "return the country that uses Tibetan\nreturn #1 that Anren Town , Sichuan is in",
-        "0_shot_decomposition": "1. Which country borders the region of Sichuan in China?\n2. In which town within Sichuan is there a place called Anren Town?\n3. What language is predominantly spoken in the area surrounding Anren Town?"
+        "0_shot_decomposition": "subq1: Which country is located in East Asia and is known for its Great Wall?\nsubq2: Which administrative region of this country is home to the city of Chengdu?\nsubq3: Which province of this region is Sichuan?\nsubq4: Which county-level city in Sichuan has Anren Town?\nsubq5: Which autonomous prefecture of this county-level city has a significant Tibetan population?"
     },
     {
         "id": "CWQ_dev_WebQTest-1036_0b5333d98ef87008aa02d1fbc1554b05",
         "original_question": "What is the most common language in the country where Jamaican English is spoken?",
         "gold_decomposition": "return the country where Jamaican English is spoken\nreturn what is the most common language in #1",
-        "0_shot_decomposition": "1. In which country is Jamaican English primarily spoken?\n2. What is the official language of this country?\n3. Is Jamaican English the same as the official language?\n4. If not, what is the name of the most commonly spoken language in this country besides Jamaican English?"
+        "0_shot_decomposition": "subq1: In which country is Jamaican English primarily spoken?\nsubq2: What is the official language of the country mentioned in subq1?\nsubq3: What is the most commonly spoken language in the country mentioned in subq1, excluding the official language?\nsubq4: What percentage of the population in the country mentioned in subq1 speaks the most commonly spoken language mentioned in subq3?\nsubq5: What is the most common language in the world, considering all countries?\nsubq6: Does the most common language in the world (subq5) have any significant influence on the language spoken in the country mentioned in subq1?"
     },
     {
         "id": "CWQ_dev_WebQTest-1036_4e73509d14bda62590480b655eee8751",
         "original_question": "What language is spoken in the country that uses the Jamacian Dollar?",
         "gold_decomposition": "return the country that uses the Jamacian Dollar\nreturn the language spoken in #1",
-        "0_shot_decomposition": "1. Which country uses the Jamacian Dollar as its currency?\n2. What is the primary language spoken in this country?"
+        "0_shot_decomposition": "subq1: Which country uses the Jamaican Dollar?\nsubq2: In which language is the official business conducted in the identified country?"
     },
     {
         "id": "CWQ_dev_WebQTest-1081_1ecabf57357cb4abd089a4af52154854",
         "original_question": "Where did George Washington Carver go to school with the largest number of postgraduates?",
         "gold_decomposition": "return schools that George Washington Carver go to\nreturn postgraduates of #1\nreturn the number of #2 for each #1\nreturn #1 where #3 is the largest",
-        "0_shot_decomposition": "1. Who went to school: George Washington Carver?\n2. Which schools did George Washington Carver attend for graduate studies?\n3. How many graduates does each school have in total?\n4. Which school has the largest number of graduates?"
+        "0_shot_decomposition": "subq1: Who was George Washington Carver?\nsubq2: In which country was George Washington Carver born?\nsubq3: When was George Washington Carver born?\nsubq4: In which state did George Washington Carver attend high school?\nsubq5: When did George Washington Carver graduate from high school?\nsubq6: Which college did George Washington Carver attend for his undergraduate studies?\nsubq7: When did George Washington Carver graduate from his undergraduate studies?\nsubq8: Which university did George Washington Carver attend for his postgraduate studies?\nsubq9: How many postgraduate students were there at the university George Washington Carver attended?"
     }
 ]

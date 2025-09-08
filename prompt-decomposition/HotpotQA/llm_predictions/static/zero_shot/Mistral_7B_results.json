@@ -7,7 +7,7 @@
             "What nationality Ed Wood had?",
             "Was the nationality the same?"
         ],
-        "0_shot_decomposition": "1. What is the nationality of Scott Derrickson?\n2. What is the nationality of Ed Wood?"
+        "0_shot_decomposition": "subq1: In which country was Scott Derrickson born?\nsubq2: In which country was Ed Wood born?\nsubq3: What is Scott Derrickson's nationality based on the country of his birth?\nsubq4: What is Ed Wood's nationality based on the country of his birth?\nsubq5: Are the nationalities of Scott Derrickson and Ed Wood the same?"
     },
     {
         "id": "5a8c7595554299585d9e36b6",
@@ -16,7 +16,7 @@
             "Who potrayed Caroliss Archer in the film Kiss and Tell?",
             "What governement position was held by her?"
         ],
-        "0_shot_decomposition": "1. Who played the role of Corliss Archer in the film \"Kiss and Tell\"?\n2. What is the given name of the actress who portrayed Corliss Archer?\n3. What political office did this particular actress hold within the US Government?"
+        "0_shot_decomposition": "subq1: Which film is Kiss and Tell?\nsubq2: Who played the character Corliss Archer in Kiss and Tell?\nsubq3: What is the full name of the actress who played Corliss Archer in Kiss and Tell?\nsubq4: In what year was the actress born?\nsubq5: What is the name of the political position held by the actress in question?\nsubq6: In which country was this political position held?\nsubq7: What party did the actress represent in this political position?\nsubq8: For how long did the actress hold this political position?"
     },
     {
         "id": "5a85ea095542994775f606a8",
@@ -26,7 +26,7 @@
             "Is this book series classified as science fantasy and written for young adults?",
             "Is this series narrated in the first person?"
         ],
-        "0_shot_decomposition": "1. Which science fiction young adult series is written in the first person perspective?\n2. What is the name of the science fantasy series with companion books?\n3. Are these companion books narrated from the first person point of view?\n4. In what genre do these books fall under (science fiction or fantasy)?\n5. What is the theme of the companion books regarding enslaved worlds and alien species?"
+        "0_shot_decomposition": "subq1: Which science fantasy series is being referred to?\nsubq2: In what narrative perspective is this series written?\nsubq3: What is the primary focus of the series in terms of content?\nsubq4: Are there companion books to this series?\nsubq5: What do these companion books narrate?\nsubq6: What is the common theme among the stories narrated in these companion books?\nsubq7: What is the setting of these stories, specifically in terms of locations of enslaved worlds and alien species?"
     },
     {
         "id": "5adbf0a255429947ff17385a",
@@ -36,7 +36,7 @@
             "Where is Laleli Mosque located?What is Esma Sultan Mansion?",
             "Where is Esma Sultan Mansion located?Are they located in the same neighborhood?"
         ],
-        "0_shot_decomposition": "1. Which city do the Laleli Mosque and Esma Sultan Mansion belong to?\n2. In which neighborhood is the Laleli Mosque located?\n3. In which neighborhood is the Esma Sultan Mansion located?"
+        "0_shot_decomposition": "subq1: In which city are the Laleli Mosque and Esma Sultan Mansion located?\nsubq2: What is the name of the neighborhood where the Laleli Mosque is situated?\nsubq3: What is the name of the neighborhood where the Esma Sultan Mansion is situated?\nsubq4: Are the neighborhoods where the Laleli Mosque and Esma Sultan Mansion are located the same?"
     },
     {
         "id": "5a8e3ea95542995a26add48d",
@@ -45,6 +45,6 @@
             "Who directed the the romantic comedy 'Big Stone Gap'?",
             "In what New York city is the director located?"
         ],
-        "0_shot_decomposition": "1. Who is the director of the movie \"Big Stone Gap\"?\n2. In which city does this director reside in New York?"
+        "0_shot_decomposition": "subq1: Who is the director of the romantic comedy \"Big Stone Gap\"?\nsubq2: In which city was the director of \"Big Stone Gap\" born?\nsubq3: Where does the director of \"Big Stone Gap\" currently reside?\nsubq4: Which city does the director of \"Big Stone Gap\" consider his professional base?\nsubq5: In which New York city does the director of \"Big Stone Gap\" have his production office?"
     }
 ]

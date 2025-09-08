@@ -8,7 +8,7 @@
             "If yes, what was the World War II battle it was named after?",
             "Based on this, was the ship named after a World War II battle?"
         ],
-        "0_shot_decomposition": "What is the difference between \"a\" and \"an\"?\n\nIs there any way to get rid of this annoying message?\n\nHow do I make my own custom keyboard layout in Windows?"
+        "0_shot_decomposition": "subq1: Was the Apollo 13 mission successful?\nsubq2: Was the ship recovered from the Apollo 13 mission a US Navy vessel?\nsubq3: Was the ship recovered from the Apollo 13 mission named after a US military operation or battle?\nsubq4: Was the ship recovered from the Apollo 13 mission named \"Iwo Jima\"?\nsubq5: Was the ship recovered from the Apollo 13 mission named after a US military operation or battle that occurred during World War II?"
     },
     {
         "id": "427fe3968e32005479b9",
@@ -20,7 +20,7 @@
             "Can someone without a tibia still be part of a team that wins the Stanley Cup?",
             "Based on this, is the tibia necessary to win the Stanley Cup?"
         ],
-        "0_shot_decomposition": "What is a good way of getting rid of an annoying bug in my code?\n\nI have been trying for hours now, but I can't seem to get it out. It's not really important and doesn't affect anything else that much.\n```\npublic class Bug {\n    public static void main(String[] args) throws Exception {\n\n        // This line causes the problem\n        System.out.println(\"Hello World!\");\n\n        // The rest of this program works fine...\n    }\n}\n```\n\nHow do you make your own custom error page?"
+        "0_shot_decomposition": "subq1: What is the Stanley Cup?\nsubq2: Is the Stanley Cup awarded to a team's player, not a physical trophy?\nsubq3: Is the Stanley Cup awarded to the team that wins the most games in a season?\nsubq4: Is the Stanley Cup awarded to the team that wins the most games in the playoffs?\nsubq5: Are the tibia and fibula bones in the human leg related to the Stanley Cup?\nsubq6: Is the tibia a bone that is not typically associated with hockey?\nsubq7: Are the tibia and fibula bones in the human leg essential for the human body's functioning?\nsubq8: Is the human body able to function without the tibia and fibula bones?\nsubq9: Is the Stanley Cup awarded to a team, not an individual player?\nsubq10: Is a team's success in winning the Stanley Cup dependent on individual player performance, including those with tibia and fibula injuries?"
     },
     {
         "id": "06b9ed3f803e3d5796ed",
@@ -32,7 +32,7 @@
             "Are there any symbolic or design conflicts between the Powerpuff Girls style and the Azerbaijani flag’s elements?",
             "Based on this, is it possible for the Powerpuff Girls to make the background to the Azerbaijani flag?"
         ],
-        "0_shot_decomposition": "I'm not sure what you mean by \"the\" in your question. The word is used as a demonstrative pronoun, and it can refer either to one or more than one thing.\n\nThe phrase \"could have been\" means that something could be true but isn't necessarily so.\n```\nShe could have been an astronaut\n```\n\nThis sentence has two possible meanings:\n\n1) She was an astronaut who might have had other careers (e.g., she may have become famous for her acting career).\n\n2) It's possible that she became an astronaut; however, this possibility hasn’t yet come about.\n\nIn both cases, “might” refers to future possibilities rather than past ones.\n\nIf I say: Could he have been there? What does 'he' refer to?\n\nHe would refer to him/her/it/them/their etc...\n\nWhat do these words mean - they are all from the same book:\n```\na)  ungratefulness b)  ingratitude c)  ingratiation d)  ingratiating e)  ingrattitude f)  ingrattity g)  ingrattiude h)  ingrattituder i)  ingrattudinous j)  ingrattuosity k)  ingrattuous"
+        "0_shot_decomposition": "subq1: What are the colors of the Azerbaijani flag?\nsubq2: What shapes are commonly associated with the Azerbaijani flag?\nsubq3: What materials are typically used to create the shapes on a flag?\nsubq4: Are there any specific design requirements or restrictions for creating the background of the Azerbaijani flag?\nsubq5: Are the Powepuff Girls able to create the shapes associated with the Azerbaijani flag?\nsubq6: Are the Powepuff Girls able to create a background design that meets the design requirements for the Azerbaijani flag?"
     },
     {
         "id": "5090f573b09ac3050824",
@@ -42,7 +42,7 @@
             "Are there youth groups named or labeled after 'Young Bears' that focus on skills training?What kinds of skills or activities do these groups typically teach?",
             "Based on this, are both 'Eagles' and 'Young Bears' commonly used as names for skills-training youth groups?"
         ],
-        "0_shot_decomposition": "Is the word \"eagle\" a label or an adjective in this sentence? If it is, what part of speech would you expect to find after it?\n\nThe eagle has landed.\n```\nThe eagle has landed. \n```\n\nWhat does the phrase “the eagle has landed” mean?\n```\nIt means that someone important (an Eagle Scout) arrived at your location\n```\n\nIf I were writing about my first day on the job, how could I use the words “I was hired by…” instead of “I got hired by…?”"
+        "0_shot_decomposition": "subq1: What are some common labels for youth groups?\nsubq2: Are eagles and bears commonly used labels for youth groups?\nsubq3: Do eagles have any specific meaning or association in youth group labels?\nsubq4: Do young bears have any specific meaning or association in youth group labels?\nsubq5: Are eagles and young bears used interchangeably as labels for youth groups?\nsubq6: Are eagles and young bears labels for youth groups in any specific regions or cultures?\nsubq7: Can eagles and young bears be used as labels for youth groups in general, without any specific cultural or regional context?\nsubq8: Are there any notable examples or organizations that use eagles and young bears as labels for youth groups?"
     },
     {
         "id": "d912709b7341dd86ba39",
@@ -54,6 +54,6 @@
             "Are there factors like pace, recovery, or event specialty that affect whether they’d be tired?",
             "Based on this, would an Olympic athlete likely be tired out after running a mile?"
         ],
-        "0_shot_decomposition": "What is the difference between \"a\" and \"an\"?\n\nWhat does it mean to say that something has been “solved”?\n\nHow do you know when someone’s question was answered?"
+        "0_shot_decomposition": "subq1: What is the average pace of an Olympic athlete during a 400-meter dash?\nsubq2: What is the average distance an Olympic athlete runs per event?\nsubq3: How long does an Olympic event typically last?\nsubq4: What is the average heart rate of an Olympic athlete during intense exercise?\nsubq5: What is the average oxygen consumption of an Olympic athlete during intense exercise?\nsubq6: What is the average pace of a trained runner during a mile-long run?\nsubq7: How much does the average mile-long run for an Olympic athlete take to complete?\nsubq8: What is the average resting heart rate of an Olympic athlete?\nsubq9: What is the average level of physical exertion of an Olympic event?\nsubq10: How much does the average Olympic athlete typically train per week?"
     }
 ]

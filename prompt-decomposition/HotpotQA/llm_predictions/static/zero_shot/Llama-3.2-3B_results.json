@@ -7,7 +7,7 @@
             "What nationality Ed Wood had?",
             "Was the nationality the same?"
         ],
-        "0_shot_decomposition": "What is a \"societé\" in French?\n\nThe word Société comes from Latin socius, which means “companion” or “partner”. In English it can mean either an association (as in The Royal Society) or a company."
+        "0_shot_decomposition": "subq1: Was Scott Derrickson born in the United States?\nsubq2: Was Ed Wood born in the United States?\nsubq3: Was Scott Derrickson born outside of the United States?\nsubq4: Was Ed Wood born outside of the United States?"
     },
     {
         "id": "5a8c7595554299585d9e36b6",
@@ -16,7 +16,7 @@
             "Who potrayed Caroliss Archer in the film Kiss and Tell?",
             "What governement position was held by her?"
         ],
-        "0_shot_decomposition": "Which of these is not a type of political party?\n\nWhich of these is an example of a nonpartisan election?"
+        "0_shot_decomposition": "subq1: Who portrayed Corliss Archer in the film Kiss and Tell?\nsubq2: What film is Corliss Archer from?\nsubq3: Is Corliss Archer a real person?\nsubq4: Is Corliss Archer male or female?\nsubq5: Who played Corliss Archer in the film Kiss and Tell?"
     },
     {
         "id": "5a85ea095542994775f606a8",
@@ -26,7 +26,7 @@
             "Is this book series classified as science fantasy and written for young adults?",
             "Is this series narrated in the first person?"
         ],
-        "0_shot_decomposition": "What is the name of this type of story where two people meet for the first time but have known each other before?\n\nWhat was the title of that 1980s movie about an astronaut who gets trapped on Mars with his robot dog?"
+        "0_shot_decomposition": "subq1: What type of fiction does the series belong to?\nsubq2: Is the series primarily aimed at a young adult audience?\nsubq3: Is the series told in first-person narration?\nsubq4: Are there companion books to the series that explore other stories or worlds?\nsubq5: Do the companion books also tell stories in first-person narration?\nsubq6: Are the companion books focused on enslaved worlds or alien species?\nsubq7: Are the enslaved worlds and alien species mentioned in the original series part of the same fictional universe?"
     },
     {
         "id": "5adbf0a255429947ff17385a",
@@ -36,7 +36,7 @@
             "Where is Laleli Mosque located?What is Esma Sultan Mansion?",
             "Where is Esma Sultan Mansion located?Are they located in the same neighborhood?"
         ],
-        "0_shot_decomposition": "Is there a mosque near the Istanbul Modern Museum?\n\n# 1. Introduction\nThe city of Istanbul is one of the most visited cities by tourists from all over the world, with its rich history and culture as well as its modern architecture. The historical part of this city has been declared as World Heritage Site by UNESCO since 1985 [1]. In addition to that, it also hosts many museums such as the Istanbul Archaeology Museums (Istanbul Arkeoloji Müzesi), Topkapi Palace Museum (Topkapı Sarayı Müzesi) or Pera Museum (Pera Müzesi). These are just some examples among hundreds of other attractions which can be found within the boundaries of the city.\n\nIn order to make your trip more enjoyable you may want to know where these places are exactly located so that you don't get lost while walking around them! This project aims at providing information about different locations including their names, addresses, phone numbers etc., through an interactive map application developed using Google Maps API v3 for Android platform.\n## #2. Methodology\nThis section describes how we have approached our problem statement above: \"How do I find out what's nearby me?\" We will first explain why we chose Google Map API instead of another mapping service"
+        "0_shot_decomposition": "subq1: Is Laleli, a neighborhood in Istanbul, Turkey, a real place?\nsubq2: Is Esma Sultan Mansion a real building in Istanbul, Turkey?\nsubq3: Is the Laleli Mosque a real building in Istanbul, Turkey?\nsubq4: Are the Laleli Mosque and Esma Sultan Mansion both located in the same general area of Istanbul?"
     },
     {
         "id": "5a8e3ea95542995a26add48d",
@@ -45,6 +45,6 @@
             "Who directed the the romantic comedy 'Big Stone Gap'?",
             "In what New York city is the director located?"
         ],
-        "0_shot_decomposition": "What was the name of the first computer virus?\n\nThe 2014 film \"Interstellar\" features a character named TARS. What does this stand for?"
+        "0_shot_decomposition": "subq1: Is \"Big Stone Gap\" a real movie?\nsubq2: Is the director of \"Big Stone Gap\" a real person?\nsubq3: Is the director of \"Big Stone Gap\" a female?\nsubq4: Is the director of \"Big Stone Gap\" based in New York City?\nsubq5: Is New York City a state?\nsubq6: Is a state typically associated with a specific city?\nsubq7: Is the city associated with the state typically named after a person?"
     }
 ]

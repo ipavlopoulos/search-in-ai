@@ -7,7 +7,7 @@
             "What nationality Ed Wood had?",
             "Was the nationality the same?"
         ],
-        "0_shot_decomposition": "1. What was Scott Derrickson's country of birth?\n2. What was Ed Wood's country of birth? \n3. Are there countries where both Scott Derrickson and Ed Wood were born in?"
+        "0_shot_decomposition": "subq1: Was Scott Derrickson born in the United States?\nsubq2: Where was Ed Wood Jr. born?\nsubq3: What is the definition of \"nationality\"?\nsubq4: Is there information available on the nationalities of both individuals?\nsubq5: Are there any differences between their countries of origin that would affect whether they were considered 'of the same nationality'? \nsubq6: Did either person hold dual citizenship during their lifetime?"
     },
     {
         "id": "5a8c7595554299585d9e36b6",
@@ -16,7 +16,7 @@
             "Who potrayed Caroliss Archer in the film Kiss and Tell?",
             "What governement position was held by her?"
         ],
-        "0_shot_decomposition": "1. What is the name of the actress who played Corliss Archer in the film \"Kiss and Tell\"?\n2. In what year was the film \"Kiss and Tell\" released?\n3. Who served as President during this time period (film release)?\n4. Which U.S. administration did she serve under?\n5. Was her role cabinet-level or non-cabinet level?\n6. Is there evidence linking her directly with a specific government department or agency?\n7. Did she hold elected office at some point? \n8. If so, which one(s)?"
+        "0_shot_decomposition": "subq1: Was the actress playing Corliss Archer also an American?\nsubq2: Did the movie 'Kiss and Tell' originate from a series of novels?\nsubq3: What is the name of the novel that inspired the movie 'Kiss and Tell'?\nsubq4: Who played the lead role of Corliss Archer in the movie adaptation of the novel?\nsubq5: Is Gloria Jean primarily known for her work on stage rather than screen?\nsubq6: In what year did the movie 'Kiss and Tell', starring Gloria Jean, release?\nsubq7: Which US President served during Gloria Jean's acting career peak (1940s)? \nsubq8: Does Gloria Jean hold any notable US governmental positions?\nsubq9: Were there any female actors associated with the U.S Government?"
     },
     {
         "id": "5a85ea095542994775f606a8",
@@ -26,7 +26,7 @@
             "Is this book series classified as science fantasy and written for young adults?",
             "Is this series narrated in the first person?"
         ],
-        "0_shot_decomposition": "1. Is it based on a book by Suzanne Collins?\n2. Does it have multiple main characters with alternating narration styles throughout its series?\n3. Are there several spin-off novels exploring different planets and civilizations within this universe?\n4. Was the original novel published before 2010?\n5. Did the author write another popular dystopian trilogy prior to this work? \n6. Were these companion books written from the perspectives of various supporting characters?"
+        "0_shot_decomposition": "subq1: Is it The Lunar Chronicles by Marissa Meyer?\nsubq2: Does the main story take place on Earth's moon?\nsubq3: Are the companion books called \"Leviathan\" and \"Darkest Minds\"- no they're not.\nsubq4: Was it written by Suzanne Collins before she wrote Hunger Games?\nsubq5: No - that was incorrect.\nsubq6: Did it start with the book 'The Illuminae Files' (Kaufman & Kaye)?\nsubq7: Were there other novels like these ones such as Red Rising?\nsubq8: Yes those were also part of similar YA Dystopian/Science Fantasy genre.\nsubq9: What about 'Red Queen', did its author write something more for the same universe from another POV but different world?\nsubq10: Was it written by Victoria Aveyard, who is known for her YA dystopian trilogy?\nsubq11: And what if we look up the series which starts off on Mars then goes through space and time?\nsubq12: That might be the one you thought of when you asked your initial question.\nsubq13: Known for being written by Marie Lu and James Dashner separately but both took place within their respective"
     },
     {
         "id": "5adbf0a255429947ff17385a",
@@ -36,7 +36,7 @@
             "Where is Laleli Mosque located?What is Esma Sultan Mansion?",
             "Where is Esma Sultan Mansion located?Are they located in the same neighborhood?"
         ],
-        "0_shot_decomposition": "1. What is the location of the Laleli Mosque?\n2. What is the location of the Esma Sultan Mansion?\n3. Are there any neighborhoods with both locations within them?"
+        "0_shot_decomposition": "subq1: Is Laleli Mosque located in Istanbul?\nsubq2: What is the name of the district where Laleli Mosque is situated?\nsubq3: Is Esma Sultan Mansion also located in Istanbul?\nsubq4: What is the name of the district where Esma Sultan Mansion is found?"
     },
     {
         "id": "5a8e3ea95542995a26add48d",
@@ -45,6 +45,6 @@
             "Who directed the the romantic comedy 'Big Stone Gap'?",
             "In what New York city is the director located?"
         ],
-        "0_shot_decomposition": "1. What is the name of the director who made the movie \"Big Stone Gap\"? \n2. In which state was this film primarily shot?\n3. Which specific city within that state has been associated with the production company behind the film's director?\n4. Is there evidence suggesting the director is from one particular major metropolitan area in New York State?"
+        "0_shot_decomposition": "subq1: What is the name of the movie?\nsubq2: Is it a romantic comedy film?\nsubq3: What is its title?\nsubq4: In which US state does Big Stone Gap take place?\nsubq5: Which US city's director is being referred to?\nsubq6: What type of films does that person typically direct?\nsubq7: Does the mentioned person have a known base location in one particular New York city?\nsubq8: If yes, then where exactly is their office located?"
     }
 ]
